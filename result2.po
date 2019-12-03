@@ -26,7 +26,7 @@ msgid ""
 "any crime to satisfy their own sinful desires."
 msgstr ""
 "경비병들은 악마의 배반에 상대가 될 수 없었습니다. 스스로의 영혼을 팔았던 어리석은 자들은 부패한 악당으로 변하여 자신들의 죄악된 욕망을 "
-"채우기 위해 범죄를 저지르고 피를 흘릴 준비가 되었습니다."
+"채우기 위해 범죄를 저지르고 피를 흘릴 준비가 되었습니다.test"
 
 msgctxt "e136c9dc-24ba-4e3b-a49f-57f353642520"
 msgid ""
