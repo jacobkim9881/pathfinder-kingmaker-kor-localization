@@ -16,4 +16,6 @@ There is 6 .po format files for Pathfinder:Kingmaker Korean version. The files a
 
 5. Pull request your repository.
 
-----------How to fork, clone, request a repository. ---------------
+----------How to fork, clone, request a repository.
+Check this site below.
+https://guides.github.com/activities/hello-world/
