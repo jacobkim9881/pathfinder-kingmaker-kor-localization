@@ -18,4 +18,32 @@ There is 6 .po format files for Pathfinder:Kingmaker Korean version. The files a
 
 ----------How to fork, clone, request a repository.
 Check this site below.
-https://guides.github.com/activities/hello-world/
+
+<br/>https://guides.github.com/activities/hello-world/
+
+
+---------------Files Status(2019. 12. 05)------------
+1. result1 
+  Total: 10712 (Strings)
+  Translated: 1361 (Strings) 
+  Rested: 9351 (Strings)
+2. result2
+  Total: 14614 (Strings)
+  Translated: 2374 (Strings)
+  Rested: 12240 (Strings)
+3. result3
+  Total: 12466 (Strings)
+  Translated: 12466 (Strings)
+  Rested: 0 (Strings)
+4. result4
+  Total: 11722 (Strings)
+  Translated: 11722 (Strings)
+  Rested: 0 (Strings)
+5. result5
+  Total: 11095 (Strings)
+  Translated: 3664 (Strings)
+  Rested: 7431 (Strings)
+6. result6
+  Total: 335 (Strings)
+  Translated: 335 (Strings)
+  Rested: 0 (Strings)
