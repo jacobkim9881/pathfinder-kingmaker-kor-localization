@@ -18,8 +18,13 @@ msgstr ""
 "Last-Translator: jacobkim116@gmail.com\n"
 "Language-Team: \n"
 "Language: ko\n"
+<<<<<<< HEAD
 "X-Generator: Poedit 2.2.4\n"
 "X-Poedit-Bookmarks: 14054,14131,14157,14185,-1,-1,-1,-1,-1,-1\n"
+=======
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Bookmarks: 14054,14131,14157,-1,-1,-1,-1,-1,-1,-1\n"
+>>>>>>> a1feba93874584c3981fba2b5a7eb68220b10cdb
 
 msgctxt "1bdd747a-8544-458f-afe2-ee874b2e6a34"
 msgid ""
