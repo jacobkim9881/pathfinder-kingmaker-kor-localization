@@ -10,7 +10,7 @@ There is 6 .po format files for Pathfinder:Kingmaker Korean version. The files a
 
 2. Clone or download this page at your repository.
 
-3. Edit files between result 1 to 6. (Some files are already filled so find what you want any without Korean strings.) 
+3. Edit files between result 1 to 6. (Some files are already filled so you should find what you want any without Korean strings.) 
 
 4. Upload files you edited on your repository.
 
