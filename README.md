@@ -11,6 +11,7 @@ There is 6 .po format files for Pathfinder:Kingmaker Korean version. The files a
 2. Clone or download this page at your repository.
 
 3. Edit files between result 1 to 6. (Some files are already filled so you should find what you want any without Korean strings.) 
+   (po format file editor : https://poedit.net/)
 
 4. Upload files you edited on your repository.
 
@@ -62,7 +63,8 @@ Check this site below.
 2. 포크한 레포지토리로 가서 파일들을 다운로드합니다.
 
 3. 1번부터 6번까지 파일을 수정합니다. (일부 파일은 이미 쓰여있어서 영어 스트링만 있는 부분을 찾아 한글을 입력하시면 됩니다.)
-
+   (po 포맷 파일 에디터 : https://poedit.net/)
+   
 4. 포크했던 레포지토리에 수정한 파일을 업로드합니다.
 
 5. 레포지토리에서 풀리퀘스트를 진행합니다.
