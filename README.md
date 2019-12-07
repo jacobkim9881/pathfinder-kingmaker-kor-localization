@@ -68,3 +68,28 @@ Check this site below.
 4. 포크했던 레포지토리에 수정한 파일을 업로드합니다.
 
 5. 레포지토리에서 풀리퀘스트를 진행합니다.
+
+------------------------한글화 룰-------------------------
+1. 스트링 내 존대와 하대는 존재하지 않습니다. (단 발레리는 예외로 합니다.)
+
+2. 스트링의 모든 해석을 요구하지 않습니다. (게임 플레이에 필요한 정보를 담을 정도를 요구합니다.)
+
+3. {}를 사용한 property는 생략해도 괜찮습니다. 단 {n}{/n}은 생략하지 않습니다.
+
+   생략하는 property:
+   {mf|baron|baroness|king|queen}, {mf|he|she}
+   
+   사용할 수 있는 property:
+   {name}, {g}{/g}
+   
+4.  포함해야 하는 것들:
+    \"\", []    
+    
+--------------------------한글화된 스트링 예제------------------------
+{n}No one made it out without at least a few burns and wounds, especially {Name} {mf|him|her}self.{/n}
+
+->{n}특히 {name}의 상처가 가장 심했습니다.{/n}
+
+\"This is indeed the baron{mf||ess} of {kingdomname}. Show respect...\"
+
+->\"이 녀석은 이 곳의 지배자다. 예의를 보이지 않으면...\"
