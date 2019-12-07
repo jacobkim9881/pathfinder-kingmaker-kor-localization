@@ -84,7 +84,7 @@ Check this site below.
    {name}, {g}{/g}
    
 4.  포함해야 하는 것들:
-    \"\", []    
+    `\"\",` []    
     
 --------------------------한글화된 스트링 예제------------------------
 
@@ -92,6 +92,6 @@ Check this site below.
 
 ->{n}특히 {name}의 상처가 가장 심했습니다.{/n}
 
-\"This is indeed the baron{mf||ess} of {kingdomname}. Show respect...\"
+`\"`This is indeed the baron{mf||ess} of {kingdomname}. Show respect...`\"`
 
-->\"이 녀석은 이 곳의 지배자다. 예의를 보이지 않으면...\"
+->`\"`이 녀석은 이 곳의 지배자다. 예의를 보이지 않으면...`\"`
