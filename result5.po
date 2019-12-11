@@ -14953,6 +14953,7 @@ msgctxt "0b23d817-6f22-4872-bc00-e0b2adc2a0a4"
 msgid "\\\"Remind me what it is you want from me?\\\""
 msgstr "\\\"나에게서 무얼 원했는지 기억해?\\\""
 
+#, fuzzy
 msgctxt "003eef7e-91da-47a8-933d-d1ca1d0eba75"
 msgid "\\\"I'll leave you to your legends. Till we meet again.\\\""
 msgstr "\\\"I'll leave you to your legends. Till we meet again.\\\""
@@ -15155,6 +15156,7 @@ msgctxt "0095da79-d659-480d-a0bd-b90d7fd06130"
 msgid "\\\"Why do you think the gems are still there a thousand years later?\\\""
 msgstr "\\\"왜 천년이 지난 후에도 보석이 그 자리에 있는 거지?\\\""
 
+#, fuzzy
 msgctxt "18efb167-034d-42a8-bb6d-b99fb9c0a718"
 msgid "\\\"What exactly did the old kobold yell?\\\""
 msgstr "\\\"What exactly did the old kobold yell?\\\""
@@ -15163,6 +15165,7 @@ msgctxt "cf02e0eb-dce3-4599-87f3-737f698eca19"
 msgid "\\\"Did you try exploring the mounds?\\\""
 msgstr ""
 
+#, fuzzy
 msgctxt "9119c581-2dec-4dc9-bc99-35bcdfded5b7"
 msgid "\\\"What did you do with the exhumed remains?\\\""
 msgstr "\\\"시체가 파헤쳐진 곳에 무슨 짓을 한 거지?\\\""
@@ -15244,6 +15247,7 @@ msgctxt "897c1578-ab56-492e-b4cf-f12696711fd0"
 msgid "\\\"Do you find anything useful in Dargut's lair?\\\""
 msgstr "\\\"Dargut의 본거지에서 쓸 만한 물건 좀 찾았어?\\\""
 
+#, fuzzy
 msgctxt "af21a059-613f-4be9-a1e7-6a5870398eb9"
 msgid ""
 "\\\"So the bandit wanted to set you up, but he played right into your hands?\\\""
