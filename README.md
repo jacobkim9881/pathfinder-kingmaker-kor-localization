@@ -30,8 +30,8 @@ Check this site below.
   Rested: 9351 (Strings)
 2. result2
   Total: 14614 (Strings)
-  Translated: 2374 (Strings)
-  Rested: 12240 (Strings)
+  Translated: 2856 (Strings)
+  Rested: 11758 (Strings)
 3. result3
   Total: 12466 (Strings)
   Translated: 12466 (Strings)
