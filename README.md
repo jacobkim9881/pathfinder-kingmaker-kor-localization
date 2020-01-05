@@ -23,7 +23,7 @@ Check this site below.
 <br/>https://guides.github.com/activities/hello-world/
 
 
----------------Files Status(2019. 12. 05)------------
+---------------Files Status(2020. 01. 05)------------
 1. result1 
   Total: 10712 (Strings)
   Translated: 1361 (Strings) 
@@ -42,8 +42,9 @@ Check this site below.
   Rested: 0 (Strings)
 5. result5
   Total: 11095 (Strings)
-  Translated: 3664 (Strings)
-  Rested: 7431 (Strings)
+  Translated: 5529 (Strings)
+  Rested: 5566 (Strings)
+  Translating by: jacobkim9881 (translated at ID : 4208)
 6. result6
   Total: 335 (Strings)
   Translated: 335 (Strings)
