@@ -800,8 +800,8 @@ msgid ""
 "precious time. During a needless delay, the monsters slaughtered entire "
 "villages!"
 msgstr ""
-"빠른 침공에 역풍을 맞은 The Curator 의 느린 대응은 중요한 시간을 낭비했습니다. "
-"불필요하게 대응이 늦어지는 동안, 괴물들은 마을전체를 도살했습니다!"
+"빠른 침공에 역풍을 맞은 학예사의 느린 대응은 중요한 시간을 낭비했습니다. 불필요"
+"하게 대응이 늦어지는 동안, 괴물들은 마을전체를 도살했습니다!"
 
 msgctxt "d3f4f08f-ce5d-4294-9bd4-ba61dbaed472"
 msgid ""
@@ -810,9 +810,10 @@ msgid ""
 "were willing to risk their lives for such questionable compensation — the "
 "locals were already too worn down from the previous attacks."
 msgstr ""
-"The Curator 는 찬양의 노래와 영광 이외에는 아무것도 받을수 없지만 괴물들의 지도"
-"자와 기꺼이 싸울 영웅을 찾았습니다. 어떤 사람도 그런 의심스러운 보상에 자신의 목"
-"숨을 걸지 않았습니다. 지역 주민들은 지난 공격들에 이미 너무 지쳐 있었습니다. "
+"학예사는 괴물 지도자와 전투를 할 용의가있는 영웅을 찾으려고 노력했습니다. – 영광"
+"과 칭찬의 발라드보다 더 큰 보상이 없지만, 그런 의심스러운 보상으로 그들의 목숨"
+"을 위험에 빠뜨리려는 사람은 아무도 없었습니다. — 지역 주민들은 이미 이전의 공격"
+"으로 너무 지쳐 버렸습니다."
 
 msgctxt "e8a5c873-0029-4b0c-88e7-398e0aabbe54"
 msgid ""
@@ -821,9 +822,9 @@ msgid ""
 "Lands were flooded by glory seekers who tracked down and slaughtered not only "
 "the monster leaders, but the majority of their packs!"
 msgstr ""
-"The Curator 는 괴물의 공격과 그 괴물들의 머리에 매겨진 엄청난 가치에 대한 뉴스"
-"를 온 지역에 퍼트렸습니다. 곧 The Stolen Lands 는 괴물들의 지도자 뿐만 아니라 "
-"그 무리 전체를 추적하고 도살 하려는 영광을 차지하려는 사람들로 넘쳐났습니다!"
+"학예사는 괴물의 공격과 그 괴물들의 머리에 매겨진 엄청난 가치에 대한 뉴스를 온 지"
+"역에 퍼트렸습니다. 곧 The Stolen Lands 는 괴물들의 지도자 뿐만 아니라 그 무리 전"
+"체를 추적하고 도살 하려는 영광을 차지하려는 사람들로 넘쳐났습니다!"
 
 msgctxt "360339f5-4088-4868-a446-edf44663d133"
 msgid "Fey 'pranks' are costing many lives."
@@ -7354,47 +7355,47 @@ msgstr ""
 
 msgctxt "dadd427e-e182-4af8-98ba-dd26ae3f0e5c"
 msgid "Magister Asks for an Audience"
-msgstr ""
+msgstr "마법학자는 알현을 요구합니다"
 
 msgctxt "deba51f3-1c1d-440b-ad13-6ac5262a8eef"
 msgid "Curator Needs Your Help"
-msgstr ""
+msgstr "학예사는 당신의 도움이 필요합니다"
 
 msgctxt "2324ffb7-c0fb-4fe1-8810-46a28a696657"
 msgid "High Priest Seeks Your Advice"
-msgstr ""
+msgstr "고위 사제는 당신의 조언을 구합니다"
 
 msgctxt "faf85e72-2e5b-4efb-86bd-642716cb534e"
 msgid "Treasurer Requests Your Attention"
-msgstr ""
+msgstr "재무관은 당신의 주의를 요청합니다"
 
 msgctxt "662f3903-ecd0-4fe3-9070-91c16b0f1b72"
 msgid "A Minister Demands Your Attention"
-msgstr ""
+msgstr "첩보관은 당신의 관심을 요구합니다"
 
 msgctxt "b9e2d577-1ef6-4647-bf35-68400a0b59c9"
 msgid "The Minister wants to discuss an important matter."
-msgstr ""
+msgstr "첩보관은 중요한 문제에 대해 논의하기를 원합니다."
 
 msgctxt "c1f9bb64-1211-44d5-8443-5c8515b38184"
 msgid "Councilor Awaits in the Throne Room"
-msgstr ""
+msgstr "평의원이 왕좌에서 기다리고 있습니다"
 
 msgctxt "5ce75160-5c39-4081-90fb-e5fdc41c2b78"
 msgid "General Requests an Audience"
-msgstr ""
+msgstr "장군은 알현을 요구합니다"
 
 msgctxt "d5fceea4-5317-4069-b34b-0dca773821c1"
 msgid "Regent Demands Your Presence"
-msgstr ""
+msgstr "섭정은 당신과의 대면이 필요합니다"
 
 msgctxt "1202597b-15ee-41fe-bd0f-ef3e054c42d9"
 msgid "Grand Diplomat Wants to Discuss Important Matters"
-msgstr ""
+msgstr "외교장관은 중요한 사안에 대해 논의하기를 원합니다."
 
 msgctxt "30979cda-78dd-41fa-a6b2-444e686baeea"
 msgid "Warden Needs Your Advice"
-msgstr ""
+msgstr "감시관은 당신의 조언이 필요합니다"
 
 msgctxt "64a93c69-26ce-43ce-b55b-ce5815d2fc29"
 msgid ""
@@ -7410,7 +7411,7 @@ msgstr ""
 
 msgctxt "13d83765-2995-4d16-a0fa-8c8b3dea7d6d"
 msgid "Troll Threat"
-msgstr ""
+msgstr "트롤 위협"
 
 msgctxt "aa907038-0bf9-4340-969e-e7f158f94142"
 msgid ""
@@ -7423,7 +7424,7 @@ msgstr ""
 
 msgctxt "4fbb8082-c96a-4e8e-a5c4-64d6387f38ca"
 msgid "Troll Threat"
-msgstr ""
+msgstr "트롤 위협"
 
 msgctxt "5db716fe-0a71-49df-8406-abfc932a4b23"
 msgid ""
@@ -7439,7 +7440,7 @@ msgstr ""
 
 msgctxt "2b890b5d-f569-43d4-9574-fe1737aa5454"
 msgid "Troll Threat"
-msgstr ""
+msgstr "트롤 위협"
 
 msgctxt "8c31e29f-e50b-4290-a37e-2f289f5c422b"
 msgid ""
@@ -7452,7 +7453,7 @@ msgstr ""
 
 msgctxt "72f9c878-9631-477d-9d1f-68ff9df76b99"
 msgid "Troll Threat"
-msgstr ""
+msgstr "트롤 위협"
 
 msgctxt "39e9f236-32cd-4a6c-b8ca-f19c7d4254ba"
 msgid ""
@@ -7467,7 +7468,7 @@ msgstr ""
 
 msgctxt "86c4bae8-a276-4ff6-83f5-c7714cb06729"
 msgid "Troll Threat"
-msgstr ""
+msgstr "트롤 위협"
 
 msgctxt "2bdee8ab-6223-40cf-a4e2-fb682fc56eee"
 msgid ""
@@ -7484,7 +7485,7 @@ msgstr ""
 
 msgctxt "3cd24806-8170-46bc-9ccd-ff92895e8ae0"
 msgid "Blighted Disease"
-msgstr ""
+msgstr "역병"
 
 msgctxt "268d9e77-7967-406c-9d38-82d83e35199e"
 msgid ""
@@ -7495,7 +7496,7 @@ msgstr ""
 
 msgctxt "652dda1d-17b7-4ecd-be18-282809b5b3ad"
 msgid "The mysterious disease was successfully contained."
-msgstr ""
+msgstr "수수께끼의 질병이 성공적으로 봉쇄되었습니다."
 
 msgctxt "d4a11fde-caad-4fbe-80d3-eb4dd518e2c1"
 msgid ""
@@ -7539,7 +7540,7 @@ msgstr ""
 
 msgctxt "d1d40938-73e1-424f-93cd-1f16e2338943"
 msgid "Dark Epidemic"
-msgstr ""
+msgstr "어두운 전염병"
 
 msgctxt "c333f87f-aed6-41b1-8f41-8a933190da5d"
 msgid ""
@@ -7549,7 +7550,7 @@ msgstr ""
 
 msgctxt "b77d7bde-7946-4589-83d8-ac256f10be84"
 msgid "The spreading epidemic was successfully stopped."
-msgstr ""
+msgstr "전염병 확산이 성공적으로 중단되었습니다."
 
 msgctxt "6e9b8865-368b-47bb-a45f-b06ab3690d6c"
 msgid ""
@@ -7559,7 +7560,7 @@ msgstr ""
 
 msgctxt "0f711221-6449-4372-bea5-4a4eb07e925a"
 msgid "The spreading epidemic was successfully stopped."
-msgstr ""
+msgstr "전염병 확산이 성공적으로 중단되었습니다."
 
 msgctxt "ff7d6d79-eda7-488a-84c2-80d5a639f163"
 msgid "Between the monsters and the disease, many lives are being lost each day."
@@ -7573,7 +7574,7 @@ msgstr ""
 
 msgctxt "61fdd28d-6cac-4ff7-972f-739edcd20cb6"
 msgid "Dark Epidemic"
-msgstr ""
+msgstr "어두운 전염병"
 
 msgctxt "01beafd6-7de6-480e-ad4c-1d1f8801497c"
 msgid ""
@@ -7603,7 +7604,7 @@ msgstr ""
 
 msgctxt "56802195-36d2-4422-bf06-6aae8c94704d"
 msgid "Local Plague"
-msgstr ""
+msgstr "지역 전염병"
 
 msgctxt "1efed5e2-022b-43f8-9dd9-c7f8b1302dd9"
 msgid ""
@@ -7643,11 +7644,11 @@ msgstr ""
 
 msgctxt "16d88420-4d2f-48b4-b81e-756b3fa57ccb"
 msgid "More and more subjects are killed daily by the mysterious disease."
-msgstr ""
+msgstr "수수께끼의 질병으로 매일 점점 더 많은 대상이 사망하고 있습니다."
 
 msgctxt "50b50fcf-57a3-4dea-a637-3bf77645536a"
 msgid "Disease Keeps Spreading"
-msgstr ""
+msgstr "질병이 계속 퍼집니다"
 
 msgctxt "9a129ed2-ef54-49f5-a25b-b29cd7dbc94d"
 msgid ""
@@ -7657,11 +7658,11 @@ msgstr ""
 
 msgctxt "1eae29be-693c-4114-8ccc-40496ba1bdd8"
 msgid "More and more subjects are killed daily by the mysterious disease."
-msgstr ""
+msgstr "수수께끼의 질병으로 매일 점점 더 많은 대상이 사망하고 있습니다."
 
 msgctxt "d40ffae0-56e7-4f58-ae88-9f3df42856b7"
 msgid "The disease continues to spread."
-msgstr ""
+msgstr "질병이 계속 퍼집니다"
 
 msgctxt "e2c45eb4-c96f-4be6-802e-7da36f336020"
 msgid ""
@@ -7672,11 +7673,11 @@ msgstr ""
 
 msgctxt "9327fb1f-6196-4c0e-81d8-99cf5e89ae38"
 msgid "More and more subjects are killed daily by the mysterious disease."
-msgstr ""
+msgstr "수수께끼의 질병으로 매일 점점 더 많은 대상이 사망하고 있습니다."
 
 msgctxt "8ffe2eae-de76-43b1-96e7-1087f97b21ca"
 msgid "The disease continues to spread."
-msgstr ""
+msgstr "질병이 계속 퍼집니다"
 
 msgctxt "1072e35e-5d62-4249-9a11-0489538988b7"
 msgid ""
@@ -7686,11 +7687,11 @@ msgstr ""
 
 msgctxt "10590248-5e5e-43e5-865f-d1aa3eb933de"
 msgid "More and more subjects are killed daily by the mysterious disease."
-msgstr ""
+msgstr "수수께끼의 질병으로 매일 점점 더 많은 대상이 사망하고 있습니다."
 
 msgctxt "7c10f78e-79db-4cf9-b403-1ca35cd4895c"
 msgid "The disease continues to spread."
-msgstr ""
+msgstr "질병이 계속 퍼집니다"
 
 msgctxt "582fd45e-2fa4-4bd9-88b4-0cf728c0da06"
 msgid ""
@@ -7701,11 +7702,11 @@ msgstr ""
 
 msgctxt "9741ab10-7013-49d0-a123-3bdaa349de66"
 msgid "More and more subjects are killed daily by the mysterious disease."
-msgstr ""
+msgstr "수수께끼의 질병으로 매일 점점 더 많은 대상이 사망하고 있습니다."
 
 msgctxt "9c3fea7c-9d53-44ce-bc45-eb7c82d0def8"
 msgid "The disease continues to spread."
-msgstr ""
+msgstr "질병이 계속 퍼집니다"
 
 msgctxt "5d4c4e7e-ae41-48e6-bf9b-24f612fb34f1"
 msgid ""
@@ -7722,7 +7723,7 @@ msgstr ""
 
 msgctxt "f66b48b1-acf2-44c9-be52-41b1c402095f"
 msgid "Predatory Beasts"
-msgstr ""
+msgstr "포식성 야수"
 
 msgctxt "dfee7987-d9d6-4d79-a9d0-6762aa5a7987"
 msgid ""
@@ -7810,7 +7811,7 @@ msgstr ""
 
 msgctxt "38f84da2-0310-4d0e-9655-e5875134891c"
 msgid "Monster Sightings"
-msgstr ""
+msgstr "몬스터 목격"
 
 msgctxt "569ecdf4-78a5-47d1-9e68-4e92f55347f9"
 msgid ""
@@ -7820,7 +7821,7 @@ msgstr ""
 
 msgctxt "0acd88a6-4b2f-4cac-8475-681152ae563f"
 msgid "Undead Cyclopes Attack"
-msgstr ""
+msgstr "언데드 사이클롭스 습격"
 
 msgctxt "bd666e4a-3bc8-4685-a9c5-8e5c3c15ffec"
 msgid ""
@@ -7850,7 +7851,7 @@ msgstr ""
 
 msgctxt "17aed795-94bd-406b-a538-922b0508bedf"
 msgid "Undead Sightings"
-msgstr ""
+msgstr "언데드 목격"
 
 msgctxt "f50f31e4-ec72-4311-ba56-fb8367e162ad"
 msgid "The priests sent to confirm the sightings have gone missing."
@@ -7874,7 +7875,7 @@ msgstr ""
 
 msgctxt "e86a6cc4-d17b-4409-949e-344e77bd67f2"
 msgid "Call of Abaddon"
-msgstr ""
+msgstr "아바돈의 부름"
 
 msgctxt "e203f3e5-d8b9-4a82-a226-ad9153d55b7b"
 msgid ""
@@ -7928,7 +7929,7 @@ msgstr ""
 
 msgctxt "8e4ce210-c74e-4d7e-943d-0b46a2105b69"
 msgid "Barbarian Horde"
-msgstr ""
+msgstr "바바리안 부족"
 
 msgctxt "666fde89-5618-42f4-8780-0e8bf2fd72b7"
 msgid ""
@@ -7978,7 +7979,7 @@ msgstr ""
 
 msgctxt "f8bac354-ce18-4414-814c-4440d25dc59c"
 msgid "Barbarian Raid"
-msgstr ""
+msgstr "바바리안 공습"
 
 msgctxt "3f33a13a-c968-42f4-b76b-181275523a81"
 msgid ""
@@ -8055,7 +8056,7 @@ msgstr ""
 
 msgctxt "81fbdac5-1755-42e9-b831-45d7fe1b745a"
 msgid "Barbarian Threat"
-msgstr ""
+msgstr "바바리안 위협"
 
 msgctxt "61d9b64f-dc9f-4041-88c7-cb48a17c4808"
 msgid ""
@@ -8071,7 +8072,7 @@ msgstr ""
 
 msgctxt "46791f50-2f0f-4d1d-95d6-680374d0dd36"
 msgid "Barbarian Threat"
-msgstr ""
+msgstr "바바리안 위협"
 
 msgctxt "1bc1db05-7149-4694-a3f2-78264c4dc03d"
 msgid ""
@@ -8088,7 +8089,7 @@ msgstr ""
 
 msgctxt "d05a1b00-cfa6-4614-9bd5-b234bfdf096e"
 msgid "Barbarian Threat"
-msgstr ""
+msgstr "바바리안 위협"
 
 msgctxt "11ec379b-f61e-4dd2-8cc6-dfcccfe66327"
 msgid ""
@@ -8104,7 +8105,7 @@ msgstr ""
 
 msgctxt "cdd8be3b-ac9e-4a80-b73e-8b28b5bdbeac"
 msgid "Barbarian Threat"
-msgstr ""
+msgstr "바바리안 위협"
 
 msgctxt "b1feb274-f56d-4e49-a055-0ae6bf670b25"
 msgid ""
@@ -8121,7 +8122,7 @@ msgstr ""
 
 msgctxt "c369ca73-066c-462f-a4ea-22b84b2ffb6a"
 msgid "Barbarian Threat"
-msgstr ""
+msgstr "바바리안 위협"
 
 msgctxt "a57e21b8-d0ef-40bc-a302-3d3b90b4c1aa"
 msgid ""
@@ -8136,7 +8137,7 @@ msgstr ""
 
 msgctxt "75e7ba47-2e04-4752-8937-d99b83a77697"
 msgid "Pitax is Winning the War"
-msgstr ""
+msgstr "피탁스가 전쟁에서 승리했습니다"
 
 msgctxt "a2404c57-0bd5-4218-8feb-7cfc9ff226f5"
 msgid ""
@@ -8150,7 +8151,7 @@ msgstr ""
 
 msgctxt "c467f8d7-3c25-4bb7-a1e6-44d33c28de34"
 msgid "Pitax is winning the war"
-msgstr ""
+msgstr "피탁스가 전쟁에서 승리했습니다"
 
 msgctxt "3b7a6262-a2c0-4503-aa7c-7694e91a5f78"
 msgid ""
@@ -8166,7 +8167,7 @@ msgstr ""
 
 msgctxt "7c20cf6e-44b9-4d16-8079-91d36727524f"
 msgid "Pitax is winning the war"
-msgstr ""
+msgstr "피탁스가 전쟁에서 승리했습니다"
 
 msgctxt "fabb5098-7e6f-460d-bfb0-4a1e702f623f"
 msgid ""
@@ -8182,7 +8183,7 @@ msgstr ""
 
 msgctxt "f87544d6-3f51-4bbb-b040-777dba724152"
 msgid "Pitax is winning the war"
-msgstr ""
+msgstr "피탁스가 전쟁에서 승리했습니다"
 
 msgctxt "378a185d-03e2-42f6-ae64-54904d7e6fbb"
 msgid ""
@@ -8198,7 +8199,7 @@ msgstr ""
 
 msgctxt "81f9a640-cceb-489a-b490-ff11a4af9a12"
 msgid "Pitax is winning the war"
-msgstr ""
+msgstr "피탁스가 전쟁에서 승리했습니다"
 
 msgctxt "53ff7801-b533-4a2d-b0de-e52f7386d01b"
 msgid ""
@@ -9463,22 +9464,25 @@ msgid ""
 "Market building in one of your settlements. Only one such project can be active "
 "at a time."
 msgstr ""
+"이 프로젝트를 완료하면 암시장 중 하나에서 랜덤 아이템을받을 수 있습니다. 이 프로"
+"젝트는 거주지 중 하나에서 각 암시장 건물에 대해 3개월마다 한 번씩 사용할 수 있으"
+"며, 한 번에 하나의 프로젝트만 활성화 할 수 있습니다."
 
 msgctxt "8c093f24-dc2d-497c-8e70-7ff8b48b8c77"
 msgid "Extraordinary Goods from the Black Market"
-msgstr ""
+msgstr "암시장의 특별 상품"
 
 msgctxt "90314f96-705b-4fe2-9f20-863411df837a"
 msgid "You've acquired a new item! Check your treasury to see what it is."
-msgstr ""
+msgstr "새로운 아이템을 획득했습니다! 국고에서 그것이 무엇인지 확인하십시오."
 
 msgctxt "1e65e249-a72f-4867-9694-92f6486adb2f"
 msgid "Rare Goods from the Black Market"
-msgstr ""
+msgstr "암시장의 희귀 상품"
 
 msgctxt "5c82cc86-945f-4e10-8241-ad8993b03890"
 msgid "Goods from the Black Market"
-msgstr ""
+msgstr "암시장의 상품"
 
 msgctxt "97e9c010-8b23-494c-a238-9f9b5f60f7a9"
 msgid "[Draft] You"
@@ -9489,28 +9493,32 @@ msgid ""
 "For a reasonable fee, wizards from Nex can provide us with extremely loyal "
 "golems to use as guards for the capital."
 msgstr ""
+"합리적인 비용으로, 넥스의 마법사는 우리에게 수도를 지키기 위해 매우 충성스러운 "
+"골렘을 제공할 수 있습니다."
 
 msgctxt "5cc1b71b-1423-45fc-944f-e572bcb74a93"
 msgid "Eternal Guardians"
-msgstr ""
+msgstr "영원한 수호자"
 
 msgctxt "9e382a61-a5be-445b-9973-5833fed045f7"
 msgid "The golems stand ready to protect the capital."
-msgstr ""
+msgstr "골렘은 수도를 보호할 준비가 되었습니다."
 
 msgctxt "7b24b14c-9cd6-4784-83e6-db8ac4ecc69c"
 msgid ""
 "Materials from the Library of Nethys allowed research that will advance the "
 "understanding of magic. +2 bonus to Divine and Arcane."
 msgstr ""
+"네티스 도서관의 물질로 마법에 대한 이해를 증진시키는 연구할 수 있습니다. 신성과 "
+"비전에 +2 보너스를 얻습니다."
 
 msgctxt "0d76d5ef-09e0-4d81-b7cb-1b0983750301"
 msgid "Research into the Origins of Magic"
-msgstr ""
+msgstr "마법의 기원에 대한 연구"
 
 msgctxt "1a5fc94c-3cb0-4266-9c07-62c2c14b5795"
 msgid "Research completed!"
-msgstr ""
+msgstr "연구 완료!"
 
 msgctxt "5718c3f5-8a0a-48d0-8ed6-df43d6213648"
 msgid ""
@@ -9518,32 +9526,37 @@ msgid ""
 "Planes. This project becomes available one more time, one month after its "
 "completion, so long as Kanerah reamins Treasurer."
 msgstr ""
+"이 프로젝트를 완료하면 다른 차원에서 임의의 아이템을받을 수 있습니다. 칼리케가 "
+"재무 담당관을 맡는 동안, 이 프로젝트는 완료하고 1 개월 후에 한 번 더 활성화됩니"
+"다."
 
 msgctxt "d939fa33-a562-4585-ae7d-3cf5a815af98"
 msgid "Trade with the Outer Planes"
-msgstr ""
+msgstr "다른 차원과의 거래"
 
 msgctxt "f5756bf6-cbc5-46aa-b665-ef51c63b8906"
 msgid ""
 "For a reasonable fee, skilled necromancers can provide us with extremely loyal "
 "undead guards."
 msgstr ""
+"합리적인 비용으로, 숙련된 네크로맨서는 우리에게 매우 충성스러운 언데드 경비를 제"
+"공할 수 있습니다."
 
 msgctxt "cfbae6e9-b680-4935-8de8-1f69af0f9a04"
 msgid "Undead Guards"
-msgstr ""
+msgstr "언데드 경비"
 
 msgctxt "5b78c94b-339d-49b6-a283-129ad9bfa97e"
 msgid "The undead guards are ready to protect the capital."
-msgstr ""
+msgstr "언데드 경비는 수도를 지킬 준비가 되었습니다."
 
 msgctxt "8f31bcc3-534f-4111-a896-dddb0b16d821"
 msgid "Amiri's Training"
-msgstr ""
+msgstr "아미리의 훈련"
 
 msgctxt "cf02f8eb-d416-44f9-a677-0215fc2e0f8f"
 msgid "Your companion has leveled up."
-msgstr ""
+msgstr "당신의 동료가 레벨업 했습니다."
 
 msgctxt "add018ae-0a5b-4da7-9cef-f2f2a7606fd5"
 msgid ""
@@ -9551,50 +9564,52 @@ msgid ""
 "proficiency. This increases your companion's level, making them suitable to "
 "join your current party."
 msgstr ""
+"황무지에서의 집중적인 훈련과 원정은 동료의 능력을 향상시킵니다. 현재 파티에 참가"
+"하기에 알맞게 동료의 레벨이 상승합니다."
 
 msgctxt "0c894799-bf79-4e77-9974-2efeff55b5f9"
 msgid "Ekundayo's Training"
-msgstr ""
+msgstr "에군다요 훈련"
 
 msgctxt "938768ab-78b0-4ca0-b35e-da0a93a12c3b"
 msgid "Harrim's Training"
-msgstr ""
+msgstr "하림 훈련"
 
 msgctxt "5f8d5957-932c-4162-85b1-368be1c82f2d"
 msgid "Jaethal's Training"
-msgstr ""
+msgstr "제이쌀 훈련"
 
 msgctxt "65300ac6-8861-49e6-aa06-1a45bc75f693"
 msgid "Jubilost's Training"
-msgstr ""
+msgstr "주빌로스트 훈련"
 
 msgctxt "f90ec483-5b71-4748-8dd2-0d255eac1e07"
 msgid "Kanerah's and Kalikke's Training"
-msgstr ""
+msgstr "카네라와 칼리케 훈련"
 
 msgctxt "13307c80-7dcb-47e0-88ac-cd63efe6b41c"
 msgid "Linzi's Training"
-msgstr ""
+msgstr "린지 훈련"
 
 msgctxt "d6608a78-f918-4aa2-aba9-3b5aebcd512f"
 msgid "Nok-Nok's Training"
-msgstr ""
+msgstr "녹녹 훈련"
 
 msgctxt "34214978-a1c0-4e8c-be55-bc6e14f31aef"
 msgid "Octavia's Training"
-msgstr ""
+msgstr "옥타비아 훈련"
 
 msgctxt "308acb63-5292-46bc-9ab0-14e78869519a"
 msgid "Regongar's Training"
-msgstr ""
+msgstr "레곤가르 훈련"
 
 msgctxt "6d4ff008-671f-4482-97d1-897fd52ea41a"
 msgid "Tristian's Training"
-msgstr ""
+msgstr "트리스탄 훈련"
 
 msgctxt "5d26923a-0adf-48b2-87cd-9e5e23824b45"
 msgid "Valerie's Training"
-msgstr ""
+msgstr "발레리 훈련"
 
 msgctxt "cc4a3159-9848-43ed-9fcb-56bf2c463d55"
 msgid ""
@@ -9602,27 +9617,31 @@ msgid ""
 "Library, Mage's Tower, Magic Shop, Magical Academy, Nethys' Academy, Nethys' "
 "Library, Pathfinder Lodge, University) is reduced by 10%."
 msgstr ""
+"고정적인 경제 보너스를 가진 건물의 비용이 10% 감소합니다. (아카데미, 연금술사, "
+"이국적인 정원, 도서관, 마법사의 탑, 마법 상점, 마법 아카데미, 네티스 아카데미, "
+"네티스 도서관, 패스 파인더 오두막, 대학)"
 
 msgctxt "bc4867dd-907d-4abb-8349-ee79b451e6d7"
 msgid "Arcane Lobby"
-msgstr ""
+msgstr "비전 로비"
 
 msgctxt "c7003b38-bee3-45ad-9187-295f2dbeef3d"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "7f3af830-bd6c-4b8f-809c-fcb0c441474c"
 msgid ""
 "Undead workers are tireless and precise. They construct buildings 20% faster."
 msgstr ""
+"언데드 노동자는 지칠 줄 모르고 정확합니다. 건물을 20 % 더 빠르게 건설합니다."
 
 msgctxt "523cc05f-734f-4e43-a8a9-efc07dd5cc99"
 msgid "Undead Builders"
-msgstr ""
+msgstr "언데드 건축가"
 
 msgctxt "a3bbe028-f29d-4ff8-8551-d935e329a2f3"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "0e5f23cb-c1f3-41f6-8581-ed6757c8eac2"
 msgid ""
@@ -9636,7 +9655,7 @@ msgstr ""
 
 msgctxt "7d8b0795-d4f1-4512-b008-559aa30f892e"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "44ef5e4d-2830-4673-bb11-7f17198308c4"
 msgid ""
@@ -9644,24 +9663,26 @@ msgid ""
 "spell resistance to the baron and companions while fighting in the claimed "
 "regions."
 msgstr ""
+"최신 연구는 주문 저항의 새로운 비밀을 밝힙니다. 소유한 지역에서 당신과 동료에게 "
+"16 주문 저항력을 제공합니다."
 
 msgctxt "8546a20d-c34c-4dae-bdcd-14922a08524f"
 msgid "Spell Resistance Discovery"
-msgstr ""
+msgstr "주문 저항에 대한 발견"
 
 msgctxt "9aef117c-8085-45be-8bfd-1cb008d57323"
 msgid ""
 "By paying attention to the community and heeding every call of distress, Regent "
 "solves problems with +1 bonus."
-msgstr ""
+msgstr "섭정은 사회의 고난에 주의를 기울여 문제를 해결할 때 +1 보너스를 얻습니다."
 
 msgctxt "44de3ad0-49cc-4c97-a18d-841d13bb0648"
 msgid "Heeding the Poor and Weak"
-msgstr ""
+msgstr "가난하고 약한 사람에 대한 관심"
 
 msgctxt "206a8746-030f-4cff-a9df-6bbb9598a928"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "e632346b-b718-4921-8f83-756d2e3407ff"
 msgid ""
@@ -9670,42 +9691,46 @@ msgid ""
 "Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town Hall, Trade "
 "Shop, Waterfront) is reduced by 10%."
 msgstr ""
+"고정적인 커뮤니티 보너스를 가진 건물의 비용이 10% 감소합니다. (시인 대학, 시티 "
+"홀, 법원, 드워프 요새, 곡창, 롱 하우스, 고급 상점, 맨션, 기념물, 귀족의 빌라, 패"
+"스파인더 오두막, 아바다르의 신전, 타운 홀, 무역 상점, 선창가)"
 
 msgctxt "15f2f39e-960c-466e-b1b1-4f4eb7510802"
 msgid "Strong Nation"
-msgstr ""
+msgstr "강한 국민"
 
 msgctxt "a6de0067-b0fe-4bdb-b8c9-49550684a51b"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "b9604764-ddf7-409a-8572-c4c565178905"
 msgid ""
 "Additional increase of Community by +1 when Great Success is achieved in any "
 "event by Regent."
-msgstr ""
+msgstr "섭정이 이벤트에서 큰 성공을 이뤄 커뮤니티가 +1 증가합니다."
 
 msgctxt "9471f276-2fe6-46ea-8a31-fdee2f08e118"
 msgid "Favored by the People"
-msgstr ""
+msgstr "민중의 호의"
 
 msgctxt "507a7597-03d2-4b90-8357-4fde2ccca285"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "98577ba1-88b1-4b9b-ace9-21c5b7a14176"
 msgid ""
 "Provides +1 morale bonus to Armor Class and Saving Throws while fighting in the "
 "claimed regions."
 msgstr ""
+"소유 지역에서 싸울 때 아머 클래스와 내성굴림에 +1 사기 보너스를 제공합니다."
 
 msgctxt "988186c5-bcf8-4832-8841-b3b40f6952f5"
 msgid "Protectors of the Land"
-msgstr ""
+msgstr "영토의 보호자"
 
 msgctxt "20f873e4-126f-47e2-b567-c3cc631979fc"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "183fbaa1-7027-43cd-b212-8a8ab0d66fd6"
 msgid ""
@@ -9714,14 +9739,17 @@ msgid ""
 "Monument, Noble's Villa, Pathfinder's Lodge, Temple of Abadar, Town Hall, Trade "
 "Shop, Waterfront) is reduced by 15%."
 msgstr ""
+"고정적인 커뮤니티 보너스를 가진 건물의 비용이 15% 감소합니다. (시인 대학, 시티 "
+"홀, 법원, 드워프 요새, 곡창, 롱 하우스, 고급 상점, 맨션, 기념물, 귀족의 빌라, 패"
+"스파인더 오두막, 아바다르의 신전, 타운 홀, 무역 상점, 선창가)"
 
 msgctxt "b3e05a6d-5ab2-47f5-9bb4-d97866ffe7d6"
 msgid "Blue Blood Community"
-msgstr ""
+msgstr "명문 출신의 공동체"
 
 msgctxt "b7e37a37-a840-4a80-8ab9-89d0e8fba628"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "e6e72f11-9a5d-4eb8-8725-2961872d4ee1"
 msgid "Increase Loyalty by +1 whenever the Regent has a Success or Triumph."
@@ -9729,11 +9757,11 @@ msgstr ""
 
 msgctxt "3b2f7b29-9932-4847-877f-782fb0558ed6"
 msgid "Loyalty of the Masses"
-msgstr ""
+msgstr "대중의 충성"
 
 msgctxt "bac6e034-58d7-4123-9d47-4acdacf09591"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "4dacc226-3865-4721-97ff-085dbd94e06e"
 msgid "The Regent has a +2 bonus when resolving situations."
@@ -9741,11 +9769,11 @@ msgstr ""
 
 msgctxt "5bcd7609-5dc8-41a8-badc-f37f757cf551"
 msgid "Community of Loyalists"
-msgstr ""
+msgstr "지지자의 집단"
 
 msgctxt "d6e0f9e2-a8d7-4227-98a1-b6ae982b3459"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "fcb0108c-b6f9-41c4-bd5e-4e84470cc1cd"
 msgid "Increase Stability by +1 whenever the Regent has a Success or Triumph."
@@ -9753,11 +9781,11 @@ msgstr ""
 
 msgctxt "9ac7c589-19ac-42aa-a665-24504df0a9d0"
 msgid "Stability by Nobility"
-msgstr ""
+msgstr "귀족에 의한 안정성"
 
 msgctxt "583c45d2-c3fb-4657-910b-e5bf17f937d2"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "c43cfe3f-f2fe-411d-b745-ffddf1af0aa4"
 msgid ""
@@ -9768,11 +9796,11 @@ msgstr ""
 
 msgctxt "93bd2f23-158b-440b-8a78-0675ab8b5818"
 msgid "Improving Cultural Development"
-msgstr ""
+msgstr "문화 발전 개선"
 
 msgctxt "b53d2fc0-d0e6-452a-b1be-9ca7fbe1f40f"
 msgid "The project was a success."
-msgstr ""
+msgstr "프로젝트가 성공했습니다."
 
 msgctxt "ca4eaeec-630e-4de9-8eca-313659d16ff5"
 msgid ""
@@ -9782,11 +9810,11 @@ msgstr ""
 
 msgctxt "49453774-8c64-4cca-9bcc-333cda000ad4"
 msgid "Divine Protection from Poison"
-msgstr ""
+msgstr "독으로부터의 신성한 보호"
 
 msgctxt "c5fad7f6-b45d-4707-8f4a-95c619079e53"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "8dddd14d-9244-4eef-8eb4-491314a1c38a"
 msgid ""
@@ -9796,11 +9824,11 @@ msgstr ""
 
 msgctxt "c89bf631-4e1d-4376-b92d-0814f822eea3"
 msgid "Divine Protection from Fear"
-msgstr ""
+msgstr "공포로로부터의 신성한 보호"
 
 msgctxt "053ef680-6109-4b9e-957f-ca6be7949645"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "ff275ae5-2029-4394-ad23-8de5fec53029"
 msgid ""
@@ -9811,11 +9839,11 @@ msgstr ""
 
 msgctxt "75a5fc20-bf01-4c48-aeff-c820672faf57"
 msgid "Improving Economic Status"
-msgstr ""
+msgstr "경제적 지위 향상"
 
 msgctxt "a5cdf86a-cae3-4167-bc6d-ce3b4bdbc8ef"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "29b736e3-b05e-4180-85b2-0237dfebf596"
 msgid ""
@@ -9825,11 +9853,11 @@ msgstr ""
 
 msgctxt "b1f9c07b-8da4-4599-99a3-77b6175a07fe"
 msgid "Legal Contraband"
-msgstr ""
+msgstr "합법 밀수품"
 
 msgctxt "cfd3ed70-34a2-40ed-979f-93ab7ff67e43"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "dac8caaf-b208-4a8b-bf58-96bc2559a86c"
 msgid ""
@@ -9839,11 +9867,11 @@ msgstr ""
 
 msgctxt "81f893fc-8ee4-4cdd-8411-92a5715a1d71"
 msgid "Customs"
-msgstr ""
+msgstr "세관"
 
 msgctxt "a740c949-4aba-41fd-bded-0a16e8c6b479"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "060f0b6c-9d93-48c1-b2fd-ef43b0bdfc92"
 msgid ""
@@ -9853,11 +9881,11 @@ msgstr ""
 
 msgctxt "16aa8724-69cf-42c4-b02c-d35ea1cbbc46"
 msgid "Minting Coin"
-msgstr ""
+msgstr "동전 주조"
 
 msgctxt "189f8414-313f-48aa-b57c-6ae59a8fdcbf"
 msgid "The project is successful."
-msgstr ""
+msgstr "프로젝트는 성공적이었습니다."
 
 msgctxt "55cccb12-672e-40a0-b842-22496f0d0e40"
 msgid ""
@@ -9868,7 +9896,7 @@ msgstr ""
 
 msgctxt "70886be1-1ce1-4375-a48d-8ddf43faf3b5"
 msgid "Minting Half-Weight Coins"
-msgstr ""
+msgstr "절반 무게의 동전 주조"
 
 msgctxt "50e87cbe-12d0-4888-af41-d97c1c6a6a71"
 msgid ""
@@ -9878,69 +9906,80 @@ msgstr ""
 
 msgctxt "0f750fee-7ab2-4b67-8c53-613d66914462"
 msgid "Scouting the Central Regions"
-msgstr ""
+msgstr "중앙 지역 정찰"
 
 msgctxt "b9f5c8d3-34ee-4b9c-b0dd-668782886835"
 msgid "Our scouts have returned with news."
-msgstr ""
+msgstr "정찰병들이 새로운 소식과 함께 돌아 왔습니다."
 
 msgctxt "bbbee128-d53f-4fd1-bdc5-6b62d841fae7"
 msgid ""
 "Send scouts to the Outskirts and the North Narlmarches to uncover potential "
 "threats and points of interest."
 msgstr ""
+"정찰병을 아웃스커트와 북부 날마치로 보내 잠재적인 위협과 흥미를 가질만한 지점을 "
+"발견하십시오."
 
 msgctxt "4a900b28-a6cc-41d3-b456-547872a65d7a"
 msgid "Scouting the Northern Regions"
-msgstr ""
+msgstr "북부 지역 정찰"
 
 msgctxt "9758faf8-82dd-4034-b3fd-09d68ed5ae16"
 msgid ""
 "Send scouts to the Kamelands and Silverstep to uncover potential threats and "
 "points of interest."
 msgstr ""
+"정찰병을 카멜랜드와 실버스텝으로 보내 잠재적인 위협과 흥미를 가질만한 지점을 발"
+"견하십시오."
 
 msgctxt "183b7cf3-5050-4e2f-ae80-e66d60ad520a"
 msgid "Scouting the Eastern Regions"
-msgstr ""
+msgstr "동부 지역 정찰"
 
 msgctxt "974eb691-4310-46f6-ae00-66122618410f"
 msgid ""
 "Send scouts to Dunsward, the Tors of Levenies and Varnhold to uncover potential "
 "threats and points of interest."
 msgstr ""
+"정찰병을 던스와드, 레베니스의 토르와 반홀드로 보내 잠재적인 위협과 흥미를 가질만"
+"한 지점을 발견하십시오."
 
 msgctxt "428be2cd-5e5f-4ea4-8264-18dd5d5f000a"
 msgid "Scouting the Northeastern Regions"
-msgstr ""
+msgstr "북동부 지역 정찰"
 
 msgctxt "118fce46-3153-4ba5-b463-e7ba2eb156ab"
 msgid ""
 "Send scouts to the Dire Narlmarches to uncover potential threats and points of "
 "interest."
 msgstr ""
+"정찰병을 다이어 날마치로 보내 잠재적인 위협과 흥미를 가질만한 지점을 발견하십시"
+"오."
 
 msgctxt "cf7177be-ab37-443b-94cb-0edd4bccb188"
 msgid "Scouting the Dire Narlmarches"
-msgstr ""
+msgstr "다이어 날마치 정찰"
 
 msgctxt "1de4bbfa-a248-4f63-9368-c9fa763ba843"
 msgid ""
 "Send scouts to the Glenebon Uplands to uncover potential threats and points of "
 "interest."
 msgstr ""
+"정찰병을 글레네본 고지대로 보내 잠재적인 위협과 흥미를 가질만한 지점을 발견하십"
+"시오."
 
 msgctxt "ec5ea72a-9978-477e-927b-1ec4ec4ad177"
 msgid "Scouting Glenebon"
-msgstr ""
+msgstr "글레네본 정찰"
 
 msgctxt "b329bf55-9012-4e4b-95d8-40a8616f122e"
 msgid "Send scouts to Pitax to uncover potential threats and points of interest."
 msgstr ""
+"정찰병을 피탁스로 보내 잠재적인 위협과 흥미를 가질만한 지점을 발견하십시오."
 
 msgctxt "49af692a-8cc7-47b9-a0f7-1a6df3c5bf34"
 msgid "Scouting Pitax"
-msgstr ""
+msgstr "피탁스 정찰"
 
 msgctxt "c55d8da5-301c-4a89-9d57-11f324b5f79c"
 msgid "Receive +1 to Espionage every time Minister fails to solve event."
@@ -9948,11 +9987,11 @@ msgstr ""
 
 msgctxt "d3c396e6-1b71-42be-ae85-75ae0148070b"
 msgid "Loyal Spies"
-msgstr ""
+msgstr "충성스러운 스파이"
 
 msgctxt "3e63f685-1fe9-49b6-b408-cdd70776a938"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "74235d5c-e7b9-4f71-b2d0-ec143f7ded3c"
 msgid ""
@@ -9963,11 +10002,11 @@ msgstr ""
 
 msgctxt "b837c6fc-c340-414d-b0b1-74f04e67fe7b"
 msgid "Love of the People"
-msgstr ""
+msgstr "민중의 사랑"
 
 msgctxt "392731bf-c72d-4ac5-aefa-303ed8d74d74"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "db372f68-a9c1-4319-8942-dcbc5f5b1661"
 msgid "Provides the Councilor a +2 bonus when resolving situations."
@@ -9975,7 +10014,7 @@ msgstr ""
 
 msgctxt "607f2b27-3730-4472-b338-a221eed6fc83"
 msgid "The Helping Hand"
-msgstr ""
+msgstr "도움의 손길"
 
 msgctxt "e9ceff6b-d26f-413f-bc2f-be5a3a0eab15"
 msgid ""
@@ -9983,7 +10022,7 @@ msgstr ""
 
 msgctxt "c50ab42b-6692-4ff0-af7f-25e28011caa3"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "8d57d187-78f6-4502-938d-dc9488caf0dd"
 msgid ""
@@ -9993,11 +10032,11 @@ msgstr ""
 
 msgctxt "295696bd-0376-40ba-9d17-374403e94626"
 msgid "Ambitious Recruits"
-msgstr ""
+msgstr "야심찬 모집"
 
 msgctxt "44c29e47-fbcf-4926-afef-6229afc6fc97"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "f2aaad7b-4c1e-47fe-8a95-f89c6aea4d5a"
 msgid "Gives the General a +1 bonus for taking advantage of an opportunity."
@@ -10005,11 +10044,11 @@ msgstr ""
 
 msgctxt "ca88d5ec-32c1-4175-84bd-09f24ffec9f5"
 msgid "Strength in Numbers"
-msgstr ""
+msgstr "숫자의 힘"
 
 msgctxt "b582c156-4bd9-4110-9ace-38d9dfe8514c"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "9b33206e-b21a-485a-ba6f-1f860b035615"
 msgid "Provides +1 bonus to solve any problem with General."
@@ -10017,11 +10056,11 @@ msgstr ""
 
 msgctxt "c7d9f73e-42a6-4813-ab2c-32d91a968924"
 msgid "Talented Recruits"
-msgstr ""
+msgstr "인재 모집"
 
 msgctxt "45d5e41b-77aa-43cb-9a00-7d9ab0e3117b"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "c658e8a9-0372-4e3e-9a27-ca63ec79127d"
 msgid ""
@@ -10032,11 +10071,11 @@ msgstr ""
 
 msgctxt "df5c4809-8d56-439d-a496-cf79b532a34d"
 msgid "Alkenstar Manufactory"
-msgstr ""
+msgstr "알켄스타 제조소"
 
 msgctxt "62ad38ad-7fc8-4ccc-ad53-925aafb3d4a3"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "2c6b2644-b286-45a6-b2c1-ee3855b101de"
 msgid "Provides +1 bonus for solving problems with Warden and Magister."
@@ -10044,11 +10083,11 @@ msgstr ""
 
 msgctxt "fb0f8c99-d4a7-4fe9-855a-bac07b2e8e26"
 msgid "Arcanamirium Sanctuary"
-msgstr ""
+msgstr "아르카나미리움 성지"
 
 msgctxt "27f127c8-4c9c-42be-af70-ff3a417525c0"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "a4c10ae9-464b-42da-9c7b-7d3aac8a798b"
 msgid ""
@@ -10059,11 +10098,11 @@ msgstr ""
 
 msgctxt "c9260d77-b58f-4bdc-95c8-b3cf2d394cd4"
 msgid "Temple of Kurgess"
-msgstr ""
+msgstr "커르게스의 신전"
 
 msgctxt "2f3888c4-1ec8-4b6d-bba3-2d2f65b98dc6"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "d7004e0a-5f29-414b-9bb6-2cd258a8a4e5"
 msgid ""
@@ -10074,11 +10113,11 @@ msgstr ""
 
 msgctxt "4971a1d0-b482-4026-ada4-221e017004a2"
 msgid "Training Camps near the Capital"
-msgstr ""
+msgstr "수도 근처의 훈련 캠프"
 
 msgctxt "0e840cfa-489a-4838-8213-84bd71eff83e"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "b3dbafad-f951-40e2-9fdc-661e8d0921de"
 msgid ""
@@ -10088,39 +10127,41 @@ msgstr ""
 
 msgctxt "285633f7-56eb-45b6-be9b-a3803a5de24c"
 msgid "Border Training Camps"
-msgstr ""
+msgstr "국경 훈련 캠프"
 
 msgctxt "145d41e3-fbb0-49c3-bba1-b8c3514335f3"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "ddb6a7d1-6473-4a3b-973e-d13a5dbf1fea"
 msgid ""
 "Provides +1 morale bonus to attack and damage rolls while fighting in the "
 "claimed regions."
 msgstr ""
+"소유 지역에서 싸울 때 공격 굴림과 대미지 굴림에 +1 사기 보너스를 제공합니다."
 
 msgctxt "35b1bf78-b3b5-45c7-a457-3ade50c8f816"
 msgid "Defenders of the Land"
-msgstr ""
+msgstr "영토의 수호자"
 
 msgctxt "db730e65-31bd-4393-a7c3-40976c8c0cae"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "63bb30c6-1289-40b7-94a2-0c10a4106242"
 msgid ""
 "Provides +1 morale bonus to attack and damage rolls while fighting in the "
 "claimed regions."
 msgstr ""
+"소유 지역에서 싸울 때 공격 굴림과 대미지 굴림에 +1 사기 보너스를 제공합니다."
 
 msgctxt "e04e16bd-7e6d-41be-8388-d316d30f3660"
 msgid "Defenders of the Land II"
-msgstr ""
+msgstr "영토의 수호자 2"
 
 msgctxt "988cb0cb-f066-4d53-a9b7-c9436c3a4828"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "e298111c-17ac-4819-803b-10791a07abb9"
 msgid ""
@@ -10131,11 +10172,11 @@ msgstr ""
 
 msgctxt "e2702906-e087-4c8a-b1c4-f7a68b2a4c41"
 msgid "Arcane Mastery"
-msgstr ""
+msgstr "비전 통달"
 
 msgctxt "aa4ff8f8-a2f1-4bfa-b00a-dc44783aaf62"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "297457fa-8cda-4534-aa6f-034ce31c42bb"
 msgid ""
@@ -10146,11 +10187,11 @@ msgstr ""
 
 msgctxt "a9d5bea5-5adc-4841-b0b9-f3115af2258d"
 msgid "Swordplay Mastery"
-msgstr ""
+msgstr "칼싸움 통달"
 
 msgctxt "ea36ada2-bd96-4882-bdbb-4557d17d7b92"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "c37b66d9-c604-4868-8bb9-03d9987d320a"
 msgid "+3 BP each time the Grand Diplomat successfully resolves a situation."
@@ -10158,35 +10199,35 @@ msgstr ""
 
 msgctxt "eb217d49-c1bb-4276-bff1-02e999a19c18"
 msgid "Improved Diplomacy"
-msgstr ""
+msgstr "외교 개선"
 
 msgctxt "88bbb6d4-6a63-464a-8a81-183770733607"
 msgid "In the future, diplomats will bring in additional resources."
-msgstr ""
+msgstr "앞으로 외교관들은 추가 자원을 가져올 것입니다."
 
 msgctxt "469d05e4-51e0-4890-960f-ca094dbb3261"
 msgid "Region claims and upgrades cost 15% less."
-msgstr ""
+msgstr "지역 소유 및 업그레이드 비용이 15 % 감소합니다."
 
 msgctxt "2fc97688-3ea5-4540-84db-caf3187e71be"
 msgid "Easier Claim"
-msgstr ""
+msgstr "손쉬운 영토 소유"
 
 msgctxt "8bddfdaa-7dba-44d6-b837-80bf0640dac5"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "8c99d63d-bf72-4da0-9974-3be830d63c78"
 msgid "Region claims and upgrades cost 25% less."
-msgstr ""
+msgstr "지역 소유 및 업그레이드 비용이 25 % 감소합니다."
 
 msgctxt "be9a2f0c-c9e9-42dd-91fc-f7bb7d9549b1"
 msgid "Easier Upgrades"
-msgstr ""
+msgstr "손쉬운 업그레이드"
 
 msgctxt "d23d700f-d736-4fba-9f7c-b4f05d6528c4"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "afe891d7-df3a-4124-9852-939f7af3c39c"
 msgid ""
@@ -10201,11 +10242,11 @@ msgstr ""
 
 msgctxt "0279c2c1-ace8-4ab5-a339-bdbcf8878553"
 msgid "Wigmold's Prevention System"
-msgstr ""
+msgstr "위그 몰드의 예방 시스템"
 
 msgctxt "71ff39b8-c040-4247-a916-2357aeed10f5"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "41690224-2feb-47e6-b3f3-6f101bd75323"
 msgid ""
@@ -10217,11 +10258,11 @@ msgstr ""
 
 msgctxt "6f3e86b9-90c1-4700-b7e2-4e97489c9b19"
 msgid "Laying the Foundation"
-msgstr ""
+msgstr "토대 쌓기"
 
 msgctxt "56889bc8-5f49-4a43-9fa2-b53f770c8ce6"
 msgid "The project is successful."
-msgstr ""
+msgstr "프로젝트는 성공적이었습니다."
 
 msgctxt "e2acfae4-bb83-4549-8c07-580939ef64af"
 msgid "Provides +2 bonus to solve any opportunity with Warden."
@@ -10229,7 +10270,7 @@ msgstr ""
 
 msgctxt "4cf47a50-96e2-4f87-82f7-199e475b273f"
 msgid "Crime Prevention"
-msgstr ""
+msgstr "범죄 예방"
 
 msgctxt "3f079200-e9dc-4d4a-89d6-bbb1ddabf24d"
 msgid "Provides +2 bonus to solve any problem with Warden."
@@ -10237,23 +10278,23 @@ msgstr ""
 
 msgctxt "9853ce7d-84c7-44ef-aaa1-51159444e938"
 msgid "Crimefighters"
-msgstr ""
+msgstr "범죄자"
 
 msgctxt "c373b6eb-f12b-4d81-944f-ff883a2cdfae"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "147c1acd-4947-486f-831e-2ab13064f679"
 msgid "Reduces the chance of random encounters in claimed regions by 40%."
-msgstr ""
+msgstr "소유 지역에서 랜덤 인카운터 발생 확률이 40% 감소합니다."
 
 msgctxt "e32a9c89-b261-497f-a6e1-d922092d9841"
 msgid "Kingdom Defense"
-msgstr ""
+msgstr "왕국 방어"
 
 msgctxt "9521560b-4e89-46f8-ac54-afe9c38e4dc4"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "d4b23131-229c-424e-b353-39b2da528356"
 msgid ""
@@ -10265,11 +10306,11 @@ msgstr ""
 
 msgctxt "70c4db3d-6e9c-4d9d-a93f-551b4a3d3e64"
 msgid "Fortifying the Foundation"
-msgstr ""
+msgstr "토대 강화"
 
 msgctxt "8c516991-8012-435a-bd33-8c2f6b9e71a2"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "d0d0e8a0-3b40-405e-b19e-5c8b6a46831f"
 msgid ""
@@ -10277,14 +10318,16 @@ msgid ""
 "with Kingdom Defence, completely eliminates random encounters in claimed "
 "regions."
 msgstr ""
+"소유 지역에서 랜덤 인카운터 발생 확률 60% 감소합니다. 왕국 방어와 함께라면 소유 "
+"지역에서 랜덤 인카운터가 완전히 사라집니다."
 
 msgctxt "dd8df71f-da4e-45ec-b51a-7a45157a3494"
 msgid "Kingdom Protection"
-msgstr ""
+msgstr "왕국 보호"
 
 msgctxt "c495ec91-8be8-4365-b16c-a874f90f9833"
 msgid "The project is complete."
-msgstr ""
+msgstr "프로젝트가 완료되었습니다."
 
 msgctxt "55aafa35-9451-4cd4-9f55-1cdfa8c65470"
 msgid ""
@@ -10296,7 +10339,7 @@ msgstr ""
 
 msgctxt "b65b721f-73ef-4fc5-a90c-2c440510a934"
 msgid "Restoration of the Silvershield Fortress"
-msgstr ""
+msgstr "실버 실드 요새 복원"
 
 msgctxt "2822a74c-0285-48b6-b7f5-6722245fdbf9"
 msgid ""
@@ -10324,7 +10367,7 @@ msgstr ""
 
 msgctxt "624772a3-5c6d-4049-bdfc-315efcfdc11e"
 msgid "Aggressive Expansion"
-msgstr ""
+msgstr "공격적인 확장"
 
 msgctxt "2068db51-9e63-41df-b119-32e81e4b07c6"
 msgid "It now takes less time to claim and upgrade regions."
@@ -10339,7 +10382,7 @@ msgstr ""
 
 msgctxt "0be780d2-1a81-4129-971a-eaf37a625181"
 msgid "Expert Mountaineering"
-msgstr ""
+msgstr "등산 전문가"
 
 msgctxt "7b21e0c5-c6e3-4a99-b752-3d24331987e9"
 msgid ""
@@ -10349,15 +10392,15 @@ msgstr ""
 
 msgctxt "48222a89-2e9e-4c8b-b876-192659540775"
 msgid "Allows faster rank ups, reducing the time required by half."
-msgstr ""
+msgstr "랭크 업에 필요한 시간을 절만으로 줄입니다."
 
 msgctxt "be3ca1f0-694d-46ce-805f-c6fdcdedb64b"
 msgid "Faster Development"
-msgstr ""
+msgstr "빠른 개발"
 
 msgctxt "85cc2a0d-7208-48a0-82ec-639e41184aed"
 msgid "It now takes less time to raise rank."
-msgstr ""
+msgstr "이제 랭크 업에 걸리는 시간이 줄어듭니다."
 
 msgctxt "527b5a10-4a31-4ace-b586-8ec9fc11b040"
 msgid ""
@@ -10379,20 +10422,20 @@ msgstr ""
 
 msgctxt "d71f0326-9c89-4061-b390-e496c5b28777"
 msgid "Restoration of the Road of Shields"
-msgstr ""
+msgstr "방패의 길 복원"
 
 msgctxt "90086bc1-a88a-4afa-8939-6295ab2a807f"
 msgid "Restoration of the Road of Shields"
-msgstr ""
+msgstr "방패의 길 복원"
 
 msgctxt "3d5991b6-78df-4ce1-8495-160c0a02451e"
 msgid "The Road of Shields has been restored."
-msgstr ""
+msgstr "방패의 길이 복원되었습니다."
 
 msgctxt "81955c8f-0acb-47ea-8cb7-85915d0d2a9a"
 msgid ""
 "The newly restored Road of Shields welcomes its first merchants and travelers."
-msgstr ""
+msgstr "새롭게 복원된 방패의 길은 최초의 상인과 여행자를 맞이합니다."
 
 msgctxt "2d4f7300-3e86-456d-bcdb-ae949162230f"
 msgid ""
@@ -10402,7 +10445,7 @@ msgstr ""
 
 msgctxt "bd9cf451-8da2-469b-93d2-2dcddebdf5b2"
 msgid "Restoration of Bronzeshield Fortress"
-msgstr ""
+msgstr "브론즈 실드 요새 복원"
 
 msgctxt "0550dd21-5e97-466d-a957-5076d39908d7"
 msgid ""
@@ -10419,7 +10462,7 @@ msgstr ""
 
 msgctxt "1545e4f3-a52d-400e-a7eb-e405fd1be02f"
 msgid "Restoration of the Taldan Mine"
-msgstr ""
+msgstr "탈단 광산의 복원"
 
 msgctxt "322bba3e-62e9-4856-bf74-b515b2227f0d"
 msgid ""
@@ -10435,11 +10478,11 @@ msgstr ""
 
 msgctxt "35d15cfb-607c-43f5-a705-645d1d991751"
 msgid "Desna's Wayside Shrines"
-msgstr ""
+msgstr "데스나의 도로변 신사"
 
 msgctxt "52662a3d-0f24-412f-bfc4-07f81acf024b"
 msgid "The shrines have been built!"
-msgstr ""
+msgstr "신사가 지어졌습니다!"
 
 msgctxt "2bce1285-5b6a-4941-b773-9f0f82649a90"
 msgid ""
@@ -10449,11 +10492,11 @@ msgstr ""
 
 msgctxt "15a82954-64d9-452b-996f-ac391c3819ce"
 msgid "Varisian Patrols"
-msgstr ""
+msgstr "바리시안 순찰"
 
 msgctxt "c399fb12-2c8e-436b-8cd1-7574e48353f7"
 msgid "Varisian forces have started patrolling the roads."
-msgstr ""
+msgstr "바리시안 부대가 도로를 순찰하기 시작했습니다."
 
 msgctxt "fda69e88-915c-4c86-b941-5e19a319595d"
 msgid ""
@@ -10463,7 +10506,7 @@ msgstr ""
 
 msgctxt "c2b875f9-408c-4f97-adfe-d8b593b697a9"
 msgid "Dri Stinvag's Miners"
-msgstr ""
+msgstr "드라이 스틴바지의 광부들"
 
 msgctxt "02d94cd8-581c-48fe-89c3-0c17c2bae6fe"
 msgid "The dwarves have improved the mines."
@@ -10473,43 +10516,43 @@ msgctxt "187a2ccf-97e3-43db-9093-84568f63a7bc"
 msgid ""
 "Working out the details of a trade agreement with Areena Korvosh and signing "
 "it. +1 BP per week."
-msgstr ""
+msgstr "아리나 코보쉬와의 거래 계약 세부 사항을 작성하고 서명합니다. 주당 +1 BP"
 
 msgctxt "09d37557-fc93-4325-a48e-4bbaafc2e8ba"
 msgid "Trade Agreement with Irrisen"
-msgstr ""
+msgstr "이리센과의 무역협정"
 
 msgctxt "750bc9f3-51c3-4684-9691-eddddd415d7b"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "4a81ee4c-9584-40c8-9084-6a0474aeb1ff"
 msgid ""
 "Working out the details of a trade agreement with Kaleena Korvosh and signing "
 "it. +2 BP per week."
-msgstr ""
+msgstr "아리나 코보쉬와의 거래 계약 세부 사항을 작성하고 서명합니다. 주당 +2 BP"
 
 msgctxt "fb0d2a7f-76ec-45a9-aac6-f1d5e616111d"
 msgid "Trade Agreement with Irrisen"
-msgstr ""
+msgstr "이리센과의 무역협정"
 
 msgctxt "de00bd78-b2ac-4edb-bcec-47248e345258"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "0b845108-b646-4dc4-a14c-bf926df71285"
 msgid ""
 "Working out the details of a trade agreement with Kaleena Korvosh and signing "
 "it. +3 BP per week."
-msgstr ""
+msgstr "아리나 코보쉬와의 거래 계약 세부 사항을 작성하고 서명합니다. 주당 +3 BP"
 
 msgctxt "20ef8ebc-8790-442a-87ad-fcd3459f0008"
 msgid "Trade Agreement with Irrisen"
-msgstr ""
+msgstr "이리센과의 무역 협정"
 
 msgctxt "d71de9b2-4d33-4e45-92b4-b82a72b518f0"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "e6d88108-fcca-4da4-ba17-1620df1137a5"
 msgid ""
@@ -10521,7 +10564,7 @@ msgstr ""
 
 msgctxt "2e88671f-50be-4b08-9c63-57b19ff9f05e"
 msgid "Hunting for Morhalan"
-msgstr ""
+msgstr "모할란 사냥"
 
 msgctxt "731d0ac0-164e-4931-81b0-a8c0f764f00e"
 msgid "Morhalan's current location has been discovered!"
@@ -10536,7 +10579,7 @@ msgstr ""
 
 msgctxt "274c3896-21c8-4bfa-9d11-5d048b0e0db6"
 msgid "Varnhold Militia"
-msgstr ""
+msgstr "반홀드 민병대"
 
 msgctxt "af67fe54-ac12-4bfb-af28-93207df8517f"
 msgid ""
@@ -10552,95 +10595,95 @@ msgstr ""
 
 msgctxt "71e3facf-fdb3-44a5-a212-e492ccfdadcf"
 msgid "Strengthen Bartolomew's Skills as a Diplomat"
-msgstr ""
+msgstr "외교관으로서 바톨로뮤의 기술 강화"
 
 msgctxt "d813be8b-8dc1-4df7-ab5c-aa71f8c4b172"
 msgid "Bartolomew's training is complete."
-msgstr ""
+msgstr "바톨로뮤의 훈련이 완료되었습니다."
 
 msgctxt "d352e266-cedb-4855-acc0-766dcf1bbce1"
 msgid "Strengthen Bartolomew's Skills as a Treasurer"
-msgstr ""
+msgstr "재무관으로서 바톨로뮤의 기술 강화"
 
 msgctxt "f663d08e-c319-4def-b699-014ec87ac37b"
 msgid "Strengthen Jhod's Skills as an Advisor"
-msgstr ""
+msgstr "조언자로서 조드의 기술 강화"
 
 msgctxt "7b255cf8-1c7a-4266-8160-2d1c0ebc2c02"
 msgid "Jhod's training is complete."
-msgstr ""
+msgstr "조드의 훈련이 완료되었습니다."
 
 msgctxt "85e4c484-5193-446c-a695-64e9275bf106"
 msgid "Strengthen Kassil's Skills as an Advisor"
-msgstr ""
+msgstr "조언자로서 카실의 기술 강화"
 
 msgctxt "1a1ec20b-2aa0-42e4-b46a-87fa2706bf56"
 msgid "Kassil's training is complete."
-msgstr ""
+msgstr "카실의 훈련이 완료되었습니다."
 
 msgctxt "d85ae348-4ccc-4722-b1c1-fce2d4f08e14"
 msgid "Strengthen Kesten's Skills as an Advisor"
-msgstr ""
+msgstr "조언자로서 케스턴의 기술 강화"
 
 msgctxt "ffaeab9d-9f01-4655-8acc-a01006c12c11"
 msgid "Kesten's training is complete."
-msgstr ""
+msgstr "케스턴의 훈련이 완료되었습니다."
 
 msgctxt "b4a7fabe-a490-44b9-8be5-0b50a74b0eb4"
 msgid "Strengthen Lebeda's Skills as an Advisor"
-msgstr ""
+msgstr "조언자로서 레베다의 기술 강화"
 
 msgctxt "b2da8d27-4610-4be1-a2c7-b921df1bbfc4"
 msgid "Lebeda's training is complete."
-msgstr ""
+msgstr "레베다의 훈련이 완료되었습니다."
 
 msgctxt "0ae3343e-b582-449b-a842-22717a752f2d"
 msgid "Strengthen Maegar's Skills as an Advisor"
-msgstr ""
+msgstr "조언자로서 메가르의 기술 강화"
 
 msgctxt "775bf611-6fb6-4b15-8b28-7f56f037f140"
 msgid "Maegar's training is complete."
-msgstr ""
+msgstr "메가르의 훈련이 완료되었습니다."
 
 msgctxt "97ec9fe6-ebb8-421c-9594-790310eaff03"
 msgid "Strengthen Shandra's Skills as an Advisor"
-msgstr ""
+msgstr "조언자로서 샨드라의 기술 강화"
 
 msgctxt "638c7e8f-abd9-44d5-9394-b6acbfb59877"
 msgid "Shandra's training is complete."
-msgstr ""
+msgstr "샨드라의 훈련이 완료되었습니다."
 
 msgctxt "c62d415f-ae15-4f33-831b-8331fdf61704"
 msgid "Strengthen the Storyteller's Skills as a Curator"
-msgstr ""
+msgstr "학예사로서 스토리텔러의 기술 강화"
 
 msgctxt "6f98f784-3b22-407b-9ddf-ea2df4a24604"
 msgid "The Storyteller's training is complete."
-msgstr ""
+msgstr "스토리텔러의 훈련이 완료되었습니다."
 
 msgctxt "49f67c82-bab8-4baa-ad35-7d45da6ef78b"
 msgid "Strengthen the Storyteller's Skills as a Magister"
-msgstr ""
+msgstr "마법학자로서 스토리텔러의 기술 강화"
 
 msgctxt "b2aecb9f-0508-4123-a9c6-1550eadbd857"
 msgid "Strengthen Tsanna's Skills as a Councilor"
-msgstr ""
+msgstr "평의원으로서 차나의 기술 강화"
 
 msgctxt "549e1c43-638e-495f-b453-e757170da382"
 msgid "Tsanna's training is complete."
-msgstr ""
+msgstr "차나의 훈련이 완료되었습니다."
 
 msgctxt "faeff71a-5471-4be2-8fdd-15929696c6a8"
 msgid "Strengthen Tsanna's Skills as a High Priestess"
-msgstr ""
+msgstr "고위 사제로서 차나의 기술 강화"
 
 msgctxt "1aadc765-9bb6-4f2d-8a6e-4ac0c65df5d8"
 msgid "Strengthen \\\"Maegar's\\\" Skills as an Advisor"
-msgstr ""
+msgstr "조언자로서 \\\"메가르\\\"의 기술 강화"
 
 msgctxt "ec1ce31f-e0fc-4294-aebe-09d7d2ee99ae"
 msgid "\\\"Maegar's\\\" training is complete."
-msgstr ""
+msgstr "\\\"메가르\\\"의 훈련이 완료되었습니다."
 
 msgctxt "5b8ce2b0-70be-4b4a-8085-7ebe911dfffb"
 msgid ""
@@ -10674,7 +10717,7 @@ msgstr ""
 
 msgctxt "67efaed0-7171-40c8-94ec-9830e993e427"
 msgid "Support the Minister's Endeavors"
-msgstr ""
+msgstr "첩보관의 노력 지원"
 
 msgctxt "32f907e1-ca89-4f71-bc24-db6662f30c4f"
 msgid ""
@@ -10696,7 +10739,7 @@ msgstr ""
 
 msgctxt "247990d6-0bbb-45ee-9d63-29bccceedec9"
 msgid "Support the Minister's Endeavors"
-msgstr ""
+msgstr "첩보관의 노력 지원"
 
 msgctxt "09462e24-dc10-4917-aae3-cdbdf0236e78"
 msgid ""
@@ -10730,7 +10773,7 @@ msgstr ""
 
 msgctxt "8d45a165-011e-4b03-99fe-1065ab77d983"
 msgid "Support the Magister's Endeavors"
-msgstr ""
+msgstr "마법학자의 노력 지원"
 
 msgctxt "6fe87cad-aeb3-4300-b1b1-89ec414778bf"
 msgid ""
@@ -10746,7 +10789,7 @@ msgstr ""
 
 msgctxt "9b85e8eb-9e31-4578-a2d0-2cc19010c3c0"
 msgid "Support the Curator's Endeavors"
-msgstr ""
+msgstr "학예사의 노력 지원"
 
 msgctxt "2c81bf2c-0ea6-4ff6-ac53-7abb16eacb87"
 msgid ""
@@ -10762,7 +10805,7 @@ msgstr ""
 
 msgctxt "11aaf5e4-45db-4268-adb1-8da5b41b20cc"
 msgid "Support the {mf_HighPriest|High Priest|High Priestess}'s Endeavors"
-msgstr ""
+msgstr "고위 사제의 노력 지원"
 
 msgctxt "d6e79561-2475-4e96-b505-5212edb6a741"
 msgid ""
@@ -10778,7 +10821,7 @@ msgstr ""
 
 msgctxt "91484dbc-9fa8-4d8d-8cf2-972031b1897c"
 msgid "Support the Treasurer's Endeavors"
-msgstr ""
+msgstr "재무관의 노력 지원"
 
 msgctxt "b0511e7b-8ee0-4900-a468-725a36e317df"
 msgid ""
@@ -10794,7 +10837,7 @@ msgstr ""
 
 msgctxt "e4946c5f-58b8-4908-8092-4844b113d247"
 msgid "Support the Minister's Endeavors"
-msgstr ""
+msgstr "첩보관의 노력 지원"
 
 msgctxt "e24dd4d4-aa5b-40a5-8737-a8d6cb2b183f"
 msgid ""
@@ -10810,7 +10853,7 @@ msgstr ""
 
 msgctxt "c7e36dc7-23e7-44ab-85de-d10d3f3b3f9b"
 msgid "Support the Councilor's Endeavors"
-msgstr ""
+msgstr "평의원의 노력 지원"
 
 msgctxt "a168b67e-ba74-48ba-a53a-48ad875d9c8d"
 msgid ""
@@ -10826,7 +10869,7 @@ msgstr ""
 
 msgctxt "ee52b2cd-02e0-4ce8-a610-f01cd0abda3e"
 msgid "Support the General's Endeavors"
-msgstr ""
+msgstr "장군의 노력 지원"
 
 msgctxt "867f6cba-eb7c-4ee2-a3cb-67a0546acfe9"
 msgid ""
@@ -10842,7 +10885,7 @@ msgstr ""
 
 msgctxt "3309959d-ae6e-4c22-aed3-6156f567b7ce"
 msgid "Support the Regent's Endeavors"
-msgstr ""
+msgstr "섭정의 노력 지원"
 
 msgctxt "cae6d3a3-e62d-44c6-94c6-2b986dd116ad"
 msgid ""
@@ -10858,7 +10901,7 @@ msgstr ""
 
 msgctxt "1bc108ec-669a-4e3c-819b-c82835e32932"
 msgid "Support the Grand Diplomat's Endeavors"
-msgstr ""
+msgstr "외무장관의 노력 지원"
 
 msgctxt "8aeb6fd4-738b-496e-a322-9e49fd6459b2"
 msgid ""
@@ -10875,7 +10918,7 @@ msgstr ""
 
 msgctxt "6ff5045f-fa8b-4293-863f-6b1acd809bb9"
 msgid "Support the Warden's Endeavors"
-msgstr ""
+msgstr "감시관의 노력 지원"
 
 msgctxt "00c7adc2-35f7-4685-8211-d33eb8687634"
 msgid ""
@@ -10931,7 +10974,7 @@ msgstr ""
 
 msgctxt "d94374b2-141b-482a-8deb-a3cd382e70da"
 msgid "Build a Town"
-msgstr ""
+msgstr "마을 건설"
 
 msgctxt "bf3c8369-5ca1-48b9-9411-9a4c513e52ed"
 msgid "The village has developed into a town."
@@ -10947,7 +10990,7 @@ msgstr ""
 
 msgctxt "f6f91848-4f17-4b14-85a0-aab6f8af12ad"
 msgid "Ezvanki's Offer"
-msgstr ""
+msgstr "이즈반키의 제안"
 
 msgctxt "f80cd575-ad58-40dc-846d-2aa8a82b332e"
 msgid "The first Shrine in your capital will be built free of charge."
@@ -10963,7 +11006,7 @@ msgstr ""
 
 msgctxt "85c617ad-c1ba-4c6b-a59b-2abf54f818eb"
 msgid "Agreement with Ioseph Sellemius"
-msgstr ""
+msgstr "요셉 셀레미우스와의 계약"
 
 msgctxt "12dde2bf-5652-47d7-9e39-8e5eed3a84c9"
 msgid "We've made a deal and received \\\"financial assistance\\\"."
@@ -10980,7 +11023,7 @@ msgstr ""
 
 msgctxt "656cc136-eab6-40b3-9fda-13171515ab6b"
 msgid "Aldori Fighting School"
-msgstr ""
+msgstr "알도리 전투 학교"
 
 msgctxt "fc9f7c89-dc11-46f2-a482-07b4bdf9bf6f"
 msgid ""
@@ -10997,7 +11040,7 @@ msgstr ""
 
 msgctxt "3cd5e8cd-d0e0-44dd-a9a0-ab19db78d627"
 msgid "Trading with Brineheart"
-msgstr ""
+msgstr "브린하트와의 거래"
 
 msgctxt "3ffff8fa-9603-490c-990d-55c6b9f9855f"
 msgid "Your merchants have begun to trade with Brineheart."
@@ -11017,7 +11060,7 @@ msgstr ""
 
 msgctxt "fda39281-a30a-4d75-88d2-34d49c1bf015"
 msgid "Alliance with Linxia"
-msgstr ""
+msgstr "링샤와의 동맹"
 
 msgctxt "29aab487-c8f2-4b9f-9305-e18b5a70e422"
 msgid ""
@@ -11048,7 +11091,7 @@ msgstr ""
 
 msgctxt "388193f2-4567-4069-81dc-f42dfdcfeab3"
 msgid "Reforging the Sword"
-msgstr ""
+msgstr "검 복원"
 
 msgctxt "1a15d3a1-c9af-4af1-afda-61bffd9f7e8e"
 msgid "Amiri's sword was successfully reforged."
@@ -11062,7 +11105,7 @@ msgstr ""
 
 msgctxt "c8155134-7ce1-4197-9f18-690770733c26"
 msgid "Break the Agreement with Sellemius"
-msgstr ""
+msgstr "셀레미우스와의 계약 해지"
 
 msgctxt "dd901264-059b-4607-bc18-945249362346"
 msgid ""
@@ -11077,7 +11120,7 @@ msgstr ""
 
 msgctxt "1ea52241-7dac-471d-b32d-c27c7670fecf"
 msgid "Pillage the Temple of the Elk"
-msgstr ""
+msgstr "엘크 신전 약탈"
 
 msgctxt "4f33c699-1ed5-4941-855d-72bec4cb244f"
 msgid "All valuables from the Temple of the Elk have been moved to the treasury."
@@ -11092,7 +11135,7 @@ msgstr ""
 
 msgctxt "ff42b4fb-8c2b-4393-9a25-fdb7f4aa1c0c"
 msgid "Rebuild the Temple of the Elk"
-msgstr ""
+msgstr "엘크 신전 재건"
 
 msgctxt "c9acf2db-66b2-46a1-a4e3-c66b655c4d5a"
 msgid ""
@@ -11106,7 +11149,7 @@ msgstr ""
 
 msgctxt "6846d954-b278-449f-bde7-1c4994b40d6a"
 msgid "Finding Ivar"
-msgstr ""
+msgstr "아이바 찾기"
 
 msgctxt "1f5febaa-1489-4c32-b79f-7b6a76690e77"
 msgid "Your trackers have discovered where Ivar is hiding!"
@@ -11121,7 +11164,7 @@ msgstr ""
 
 msgctxt "06761a50-a90f-484e-9010-3d503ac48429"
 msgid "Border Guards"
-msgstr ""
+msgstr "국경 경비대"
 
 msgctxt "e1582f2c-8cf9-404c-97fd-56754b542a68"
 msgid ""
@@ -11137,7 +11180,7 @@ msgstr ""
 
 msgctxt "5f428747-99b5-4847-b060-e88ecaecf459"
 msgid "Research into the Nature of Curses: Vordakai"
-msgstr ""
+msgstr "저주의 본질 연구: 보다카이"
 
 msgctxt "c3fc7b1a-be4b-4048-b285-35122c6a3bee"
 msgid ""
@@ -11156,7 +11199,7 @@ msgstr ""
 
 msgctxt "dab6201a-2de1-4816-a0a4-e0f3ae3e627b"
 msgid "Research into the Nature of Curses: Tristian"
-msgstr ""
+msgstr "저주의 본질 연구: 트리스티안"
 
 msgctxt "17520b02-47e6-41a7-829d-91942d7acbfe"
 msgid ""
@@ -11175,7 +11218,7 @@ msgstr ""
 
 msgctxt "fc5b4d4f-d263-4d8c-b8fa-996292bfa078"
 msgid "Research into the Nature of Curses: Bald Hilltop"
-msgstr ""
+msgstr "저주의 본질 연구: 대머리 언덕"
 
 msgctxt "ed786d92-68a3-446e-bbd4-c4a2d2fe4f03"
 msgid ""
@@ -11197,7 +11240,7 @@ msgstr ""
 
 msgctxt "54abf9a3-7483-47df-bf1d-6eef9ec8bff7"
 msgid "Research into the Nature of Curses: Armag"
-msgstr ""
+msgstr "저주의 본질 연구: 아르마그"
 
 msgctxt "433a58e7-d6ee-4bbc-a2c4-e22e7eeadf18"
 msgid ""
@@ -11218,7 +11261,7 @@ msgstr ""
 
 msgctxt "5f99aa1a-cc73-4f70-a3b6-962c149bd720"
 msgid "Research into the Nature of Curses: Briar"
-msgstr ""
+msgstr "저주의 본질 연구: 브라이어"
 
 msgctxt "a75964fc-52f3-4498-bc34-40269f42e71a"
 msgid ""
@@ -11240,7 +11283,7 @@ msgstr ""
 
 msgctxt "81840881-64f1-4751-8ee4-d90bbbcfdac3"
 msgid "Research into the Nature of Curses: Candlemere"
-msgstr ""
+msgstr "저주의 본질 연구: 캔들미어"
 
 msgctxt "2bfc28bf-eef7-4773-9db2-f1c8649e8c2c"
 msgid ""
@@ -11258,7 +11301,7 @@ msgstr ""
 
 msgctxt "39ca8de9-dfec-4897-b308-8007a4ce2d9b"
 msgid "Research into the Nature of Curses: the Defaced Sisters"
-msgstr ""
+msgstr "저주의 본질 연구: 훼손된 자매들"
 
 msgctxt "f6e0a5cd-2f95-42f7-b9ce-d1eaa2f1fe68"
 msgid ""
@@ -11280,7 +11323,7 @@ msgstr ""
 
 msgctxt "e8dc54aa-ec7d-4ac3-a640-1864a8d23154"
 msgid "Research into the Nature of Curses: the First Crown"
-msgstr ""
+msgstr "저주의 본질 연구: 첫번째 왕관"
 
 msgctxt "fd4b99e4-81e2-4dc8-9157-72855948f9ce"
 msgid ""
@@ -11299,7 +11342,7 @@ msgstr ""
 
 msgctxt "545172af-853d-4485-89b9-b159575fd1b1"
 msgid "Research into the Nature of Curses: the Hanvaki Family"
-msgstr ""
+msgstr "저주의 본질 연구: 핸바키 가족"
 
 msgctxt "1327768c-61a1-4c05-b685-fe7fa644ab4e"
 msgid ""
@@ -11317,7 +11360,7 @@ msgstr ""
 
 msgctxt "a20e84e0-143d-42a5-b21c-62e99596425b"
 msgid "Research into the Nature of Curses: Village on the Marches"
-msgstr ""
+msgstr "저주의 본질 연구: 마치에 있는 마을"
 
 msgctxt "696254aa-44f3-4e2e-ae05-05868c023ffe"
 msgid ""
@@ -11341,7 +11384,7 @@ msgstr ""
 
 msgctxt "bfb46e83-e4fa-461e-a08d-7f45de4806da"
 msgid "Research into the Nature of Curses: Jenna Tannersen"
-msgstr ""
+msgstr "저주의 본질 연구: 제나 태너슨"
 
 msgctxt "9657f535-693f-45b0-945f-982b01efa808"
 msgid ""
@@ -11359,7 +11402,7 @@ msgstr ""
 
 msgctxt "00a07958-6d35-4967-b2a8-1fc6d4a48b12"
 msgid "Research into the Nature of Curses: Davik Nettle"
-msgstr ""
+msgstr "저주의 본질 연구: 다빅 네틀"
 
 msgctxt "f8915a29-6fed-4e53-998f-defdda268e09"
 msgid ""
@@ -11378,7 +11421,7 @@ msgstr ""
 
 msgctxt "5f893ca6-d655-4a75-af9a-f0da4ba13382"
 msgid "Research into the Nature of Curses: the Everblooming Flower"
-msgstr ""
+msgstr "저주의 본질 연구: 영원한 꽃"
 
 msgctxt "c2f6e2b5-0147-4212-b970-ae11f07c1526"
 msgid ""
@@ -11400,7 +11443,7 @@ msgstr ""
 
 msgctxt "b7d7f275-481b-4fb3-8f57-0f7d01dd9c31"
 msgid "Research into the Nature of Curses: Tartuk"
-msgstr ""
+msgstr "저주의 본질 연구: 타툭"
 
 msgctxt "94f9035c-e058-42c1-aa66-939afe523c1b"
 msgid ""
@@ -11418,7 +11461,7 @@ msgstr ""
 
 msgctxt "8510a3dc-446e-453d-9607-ef45b056d0ef"
 msgid "Research into the Nature of Curses: the Scythe Tree"
-msgstr ""
+msgstr "저주의 본질 연구: 낫 나무"
 
 msgctxt "5e3bf41f-b51a-41be-bc06-f9a49ec27406"
 msgid ""
@@ -11437,7 +11480,7 @@ msgstr ""
 
 msgctxt "0207bec3-e62f-41ea-8da5-9f07a30865d9"
 msgid "Research into the Nature of Curses: Ivar"
-msgstr ""
+msgstr "저주의 본질 연구: 아이바"
 
 msgctxt "c11ed3b9-e7b7-44ec-ba90-f02dabd56979"
 msgid ""
@@ -11458,7 +11501,7 @@ msgstr ""
 
 msgctxt "db669876-3278-487e-8aa2-d04101b6d036"
 msgid "A Way into Nyrissa's Dream"
-msgstr ""
+msgstr "나이리사의 꿈으로 가는 길"
 
 msgctxt "a7e9649f-e3b2-47cb-9030-559c125794c5"
 msgid ""
@@ -11475,7 +11518,7 @@ msgstr ""
 
 msgctxt "d743dc14-96f0-419d-a6a1-87fb733ca596"
 msgid "A Way into Nyrissa's Dream"
-msgstr ""
+msgstr "나이리사의 꿈으로 가는 길"
 
 msgctxt "3a06cb2b-9072-4adc-8807-8a5764888b68"
 msgid ""
@@ -11493,7 +11536,7 @@ msgstr ""
 
 msgctxt "9b4d0029-6caf-4ea2-9e0c-e3a810a269b5"
 msgid "Enhanced Border Control"
-msgstr ""
+msgstr "국경 통제 강화"
 
 msgctxt "d6b272c1-5472-4bd7-ad33-41750e652d49"
 msgid ""
@@ -11510,11 +11553,11 @@ msgstr ""
 
 msgctxt "7a110574-4ae0-4567-b181-1ea0470149c8"
 msgid "Trading with Restov"
-msgstr ""
+msgstr "레스토브와의 교역"
 
 msgctxt "cd34e604-3d2b-4785-bcff-fc1d6272544a"
 msgid "Trade with Restov is flourishing."
-msgstr ""
+msgstr "레스토브와의 거래는 번성하고 있습니다."
 
 msgctxt "3779aa00-e964-4dca-b2ed-fa1cbcd535f4"
 msgid ""
@@ -11525,11 +11568,11 @@ msgstr ""
 
 msgctxt "eca641de-f0a8-427c-a607-b439c9c0520d"
 msgid "Enhanced Trade with New Stetven"
-msgstr ""
+msgstr "뉴 스테벤과의 교역 강화"
 
 msgctxt "16f0c664-0dd5-4767-a3a6-736fb9435f10"
 msgid "Trade with New Stetven is flourishing."
-msgstr ""
+msgstr "뉴 스테벤과의 거래는 번성하고 있습니다."
 
 msgctxt "9ff17b7a-a3bc-4e39-aca0-0d2112a0fd5a"
 msgid ""
@@ -11540,7 +11583,7 @@ msgstr ""
 
 msgctxt "dc110728-654d-4c2d-b519-93caa19f2240"
 msgid "On the Trail of Monsters"
-msgstr ""
+msgstr "몬스터의 흔적 위에서"
 
 msgctxt "421c028f-f29c-43ad-a420-856934fe3775"
 msgid ""
@@ -11573,7 +11616,7 @@ msgstr ""
 
 msgctxt "8c15dfc2-5a78-4f6b-8c4b-d0ac6993d6b1"
 msgid "Open a Hospital"
-msgstr ""
+msgstr "병원 개설"
 
 msgctxt "26106d87-8c0c-4595-9e2d-77375d18eeee"
 msgid ""
@@ -11589,7 +11632,7 @@ msgstr ""
 
 msgctxt "a24a2b24-17e2-4a2c-b501-0fd30a72a10a"
 msgid "Open Guard Headquarters"
-msgstr ""
+msgstr "경비 본부 개설"
 
 msgctxt "c55ba5b4-43e9-4259-8b92-8af002a8e3a4"
 msgid ""
@@ -11610,7 +11653,7 @@ msgstr ""
 
 msgctxt "6dde36e4-b3ea-4ddf-af6b-4ec6d2700c13"
 msgid "Garrison at Nivakta's Crossing"
-msgstr ""
+msgstr "니박타의 갈림길 주둔지"
 
 msgctxt "c93d76d6-bda7-47a6-bc2a-4daebf5134b2"
 msgid ""
@@ -11627,7 +11670,7 @@ msgstr ""
 
 msgctxt "8937ca44-239f-4c6e-adc4-b7cc9fd854ae"
 msgid "Road to Oleg's Trading Post"
-msgstr ""
+msgstr "올렉의 교역소로 가는 길"
 
 msgctxt "347ad370-8bb6-4bbb-823a-bd309eabc45e"
 msgid ""
@@ -11643,11 +11686,11 @@ msgstr ""
 
 msgctxt "a16507a9-10bf-47a0-9b8f-d0bc375517d0"
 msgid "Return of the Past Glory"
-msgstr ""
+msgstr "과거의 영광으로의 귀환"
 
 msgctxt "efdcfac4-c547-4eb0-b264-bef3d6540a6d"
 msgid "We've fortified Oleg's trading post."
-msgstr ""
+msgstr "올렉의 거래소를 요새화했습니다."
 
 msgctxt "e480b944-cdf7-46b5-857d-95406330c59a"
 msgid ""
@@ -11657,7 +11700,7 @@ msgstr ""
 
 msgctxt "993a083e-8224-485b-a25b-7edee42a4555"
 msgid "Diplomatic Crisis"
-msgstr ""
+msgstr "외교 위기"
 
 msgctxt "9cead749-16aa-4b03-bb46-c42dbc167d28"
 msgid ""
@@ -11674,7 +11717,7 @@ msgstr ""
 
 msgctxt "1bdc5cfb-5f93-4501-8668-8a80c4d23e90"
 msgid "Road to Oleg's Trading Post"
-msgstr ""
+msgstr "올렉의 교역소로 가는 길"
 
 msgctxt "45c5e61a-2216-4890-96ea-b180575c0f8d"
 msgid ""
@@ -11689,7 +11732,7 @@ msgstr ""
 
 msgctxt "5d3e0ff4-faa7-4167-8b6d-29575a7575d0"
 msgid "Phantom Road"
-msgstr ""
+msgstr "환상 도로"
 
 msgctxt "885365aa-090f-4e13-bc44-dbb6544caf7f"
 msgid ""
@@ -11705,7 +11748,7 @@ msgstr ""
 
 msgctxt "540ed0c1-6ea7-4be9-bf3f-c05d92ea3535"
 msgid "Union with Restov"
-msgstr ""
+msgstr "레스토브와의 연합"
 
 msgctxt "5b476350-44b6-4610-9a56-7d0e07a14f8c"
 msgid "The Aldori were pleased with our decision concerning Oleg's trading post."
@@ -11719,7 +11762,7 @@ msgstr ""
 
 msgctxt "d9130125-fede-4ac2-a9cc-fd0c1c547fba"
 msgid "Lost Dwarven Knowledge"
-msgstr ""
+msgstr "잃어버린 드워프 지식"
 
 msgctxt "307277f8-43c7-4429-835a-b7742f521c7a"
 msgid ""
@@ -11737,7 +11780,7 @@ msgstr ""
 
 msgctxt "acb426e7-2eaf-4e7f-b15d-c8c53ab7b735"
 msgid "Lighter Border Control"
-msgstr ""
+msgstr "가벼운 국경 통제"
 
 msgctxt "250be4a1-6fd0-4f51-91de-612f4c62efee"
 msgid "Our Brevan partners aid us in the border regions whenever we ask."
@@ -11751,7 +11794,7 @@ msgstr ""
 
 msgctxt "3f22e7e6-7ae7-4c3c-815a-849a0e51bb7e"
 msgid "Pacify Pitax"
-msgstr ""
+msgstr "피탁스 달래기"
 
 msgctxt "1b26fd36-170c-4cd8-9079-9dfc24b3d94e"
 msgid ""
@@ -11768,7 +11811,7 @@ msgstr ""
 
 msgctxt "01e5dade-576b-489a-990d-f91d656f520a"
 msgid "Independence"
-msgstr ""
+msgstr "독립"
 
 msgctxt "7600252f-b370-4192-8ede-6a1c001320a8"
 msgid "Our country has been recognized as one of the independent River Kingdoms!"
@@ -11783,7 +11826,7 @@ msgstr ""
 
 msgctxt "481c8263-91dd-4bcf-a805-cabc0b1aae31"
 msgid "Recovery From the Barbarian Invasion"
-msgstr ""
+msgstr "바바리안 침공에서 회복"
 
 msgctxt "452815a6-8b63-4202-9e74-39c31c24d1c2"
 msgid ""
@@ -11794,7 +11837,7 @@ msgstr ""
 
 msgctxt "0f4ba00e-5002-4a11-85c6-882ba6509f8c"
 msgid "Recovery From the Pestilence"
-msgstr ""
+msgstr "역병에서 회복"
 
 msgctxt "eae96726-795a-469c-9a8d-01c4ff2eb0d9"
 msgid ""
@@ -11805,7 +11848,7 @@ msgstr ""
 
 msgctxt "82f9acc4-8c36-4a30-a6ca-4126d2f35bf2"
 msgid "Recovery From the War with Pitax"
-msgstr ""
+msgstr "피탁스와의 전쟁에서 회복"
 
 msgctxt "53c46b2e-cbbc-43c9-a127-1bec6c86698b"
 msgid "Your realm has healed the wounds left by the calamity."
@@ -11820,7 +11863,7 @@ msgstr ""
 
 msgctxt "f08e12fb-4d83-4817-b57b-637b5dd28de4"
 msgid "Recovery From the Troll Rampage"
-msgstr ""
+msgstr "트롤 소동에서 회복"
 
 msgctxt "4d84259e-f6c1-437a-ae1d-59cd59b3a0fb"
 msgid ""
@@ -11833,7 +11876,7 @@ msgstr ""
 
 msgctxt "d0ba2c81-ed68-46e5-8978-6e5f3f5da18f"
 msgid "Lander's Last Gift"
-msgstr ""
+msgstr "랜더의 마지막 선물"
 
 msgctxt "900a45d8-5cde-4547-9098-0b8814e5029c"
 msgid ""
@@ -11851,7 +11894,7 @@ msgstr ""
 
 msgctxt "ce89a6c6-0822-4a37-b2da-99bd17b8cd74"
 msgid "Repopulate Varnhold"
-msgstr ""
+msgstr "반홀드 재이주"
 
 msgctxt "f5c1a661-a8f5-4bd1-a205-0651af318c7e"
 msgid "The people have returned to the town. Varnhold lives once again!"
@@ -11866,7 +11909,7 @@ msgstr ""
 
 msgctxt "1b2c6887-38d8-4e9d-a5f1-cf41a4eeb9b8"
 msgid "Find Mention of Armag's Tomb"
-msgstr ""
+msgstr "아르마그 무덤의 흔적 찾기"
 
 msgctxt "ec760987-11ad-4830-9ddf-cdda3abc7ef0"
 msgid ""
@@ -11884,7 +11927,7 @@ msgstr ""
 
 msgctxt "a44b9e61-fddd-46b9-b822-7598a88dd7d5"
 msgid "Find Any Hint on the Location of Armag's Tomb"
-msgstr ""
+msgstr "아르마그의 무덤의 위치에 대한 힌트 찾기"
 
 msgctxt "a58e983e-ed49-405f-8e99-464e3696857c"
 msgid ""
@@ -11903,7 +11946,7 @@ msgstr ""
 
 msgctxt "b4a9227f-2f68-49f5-9b49-7ad7346cda83"
 msgid "Sell the Soul Jar"
-msgstr ""
+msgstr "영혼 항아리 판매"
 
 msgctxt "1831f72a-dfd4-4820-8c88-19551655755d"
 msgid ""
@@ -11920,11 +11963,11 @@ msgstr ""
 
 msgctxt "913838e2-4746-4f02-ac33-e086d2800655"
 msgid "Strategic Partnership with Brevoy"
-msgstr ""
+msgstr "브레이보이와 전략적 동업"
 
 msgctxt "893cb31c-cc77-463b-962c-9db861f0dfc2"
 msgid "Our partnership with Brevoy has borne fruit."
-msgstr ""
+msgstr "브레이보이와의 동업은 결실을 맺었습니다."
 
 msgctxt "2df03115-ad1b-42ff-a46b-b759ae29af71"
 msgid ""
@@ -11936,7 +11979,7 @@ msgstr ""
 
 msgctxt "9ef2e574-a0d2-49ee-a73a-76d42e40c090"
 msgid "Lighter Customs Control"
-msgstr ""
+msgstr "가벼운 세관 통제"
 
 msgctxt "34a8bc9f-2570-4cd3-ac07-347a41b65fd5"
 msgid ""
@@ -11955,11 +11998,11 @@ msgstr ""
 
 msgctxt "e000cc88-e937-4611-9d78-e26342f64099"
 msgid "Trade in Wine"
-msgstr ""
+msgstr "와인 거래"
 
 msgctxt "6f4c39ed-21f1-47d1-894b-14e153f512a7"
 msgid "Trade agreement signed."
-msgstr ""
+msgstr "무역 계약을 체결했습니다."
 
 msgctxt "ebf52752-e30c-4a06-9704-e2eb10b74d87"
 msgid ""
@@ -11970,11 +12013,11 @@ msgstr ""
 
 msgctxt "d674c979-4c83-4e37-9d89-0db39ea57813"
 msgid "Trade Agreement with Cheliax"
-msgstr ""
+msgstr "첼리악스와의 무역 계약"
 
 msgctxt "dddb1d31-0ddc-4926-9868-9469065f7bec"
 msgid "Trade agreement signed."
-msgstr ""
+msgstr "무역 계약을 체결했습니다."
 
 msgctxt "2d378309-00cd-4c49-89c9-a0d88cdc2499"
 msgid ""
@@ -11984,11 +12027,11 @@ msgstr ""
 
 msgctxt "4243691c-13bc-4ab2-ab16-9023abc2a3fd"
 msgid "Trade Agreement with Daggermark"
-msgstr ""
+msgstr "대거마크와의 무역 계약"
 
 msgctxt "7cc0d159-b5b7-4a5d-a736-b9fc80e8eec1"
 msgid "Trade agreement signed."
-msgstr ""
+msgstr "무역 계약을 체결했습니다."
 
 msgctxt "f78dd0ff-28ee-469a-8100-38657d2b2c52"
 msgid ""
@@ -11999,11 +12042,11 @@ msgstr ""
 
 msgctxt "166cd71b-a9f4-4b62-821e-8d0b7bd881c5"
 msgid "Trade Agreement with Galt"
-msgstr ""
+msgstr "갈트와의 무역 계약"
 
 msgctxt "ac2a8ca0-7f2f-4659-a0a7-4c792ce181f8"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "093da4be-303e-43e3-a5ef-21475da63d51"
 msgid ""
@@ -12014,11 +12057,11 @@ msgstr ""
 
 msgctxt "42bb592c-2972-4f05-acd3-4d29e22b3fc9"
 msgid "Trade Agreement with Gralton"
-msgstr ""
+msgstr "그랄튼과의 무역 계약"
 
 msgctxt "57f43db7-3891-4f7e-8ca4-1c768c201c9b"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "47d233a3-07c8-4239-ad04-25692486e819"
 msgid ""
@@ -12034,19 +12077,19 @@ msgstr ""
 
 msgctxt "c4754aea-15ba-4514-ae09-7cbe1c29a174"
 msgid "Trade Agreement with Mivon"
-msgstr ""
+msgstr "미본과의 무역 계약"
 
 msgctxt "f5da9ec3-4b1f-4f35-bfea-f4136cf589ea"
 msgid "Trade Agreement with Mivon"
-msgstr ""
+msgstr "미본과의 무역 계약"
 
 msgctxt "721c0d84-d72f-4582-a84e-c5466e4a74ad"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "48b5d33f-96d1-49bd-be6a-9595dc1e34b9"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "5820b3ab-9908-4153-820d-bbe5ad235ab7"
 msgid ""
@@ -12062,19 +12105,19 @@ msgstr ""
 
 msgctxt "83ee2c37-5444-483f-a9c8-deebf2be73ea"
 msgid "Trade Agreement with Pitax"
-msgstr ""
+msgstr "피탁스와의 무역 계약"
 
 msgctxt "3a3d2556-6b1e-4aff-b3e8-69a6266151af"
 msgid "Trade Agreement with Pitax"
-msgstr ""
+msgstr "피탁스와의 무역 계약"
 
 msgctxt "cc67c82f-c246-4ec2-a74b-7f81ddf85ed8"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "d299a3cc-6780-46c3-a6f1-9ff72f822ec7"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "a963a30d-f429-48dc-80ca-dccc14b32b8d"
 msgid ""
@@ -12090,15 +12133,15 @@ msgstr ""
 
 msgctxt "c7584a24-fa83-4d9a-824a-f0c0dee25624"
 msgid "Trade Agreement with Razmiran"
-msgstr ""
+msgstr "라즈미란과의 무역 계약"
 
 msgctxt "cd0e5073-06ca-49ba-8226-b1276e4e8581"
 msgid "Trade Agreement with Razmiran"
-msgstr ""
+msgstr "라즈미란과의 무역 계약"
 
 msgctxt "84b6c9a6-bf21-44d6-ab68-260a314ccee6"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "c9ccbff5-88a9-4e42-9e59-b21bec8237f4"
 msgid ""
@@ -12109,11 +12152,11 @@ msgstr ""
 
 msgctxt "9d8071f1-aa5b-40b5-a5e7-3974d6e1664e"
 msgid "Trade Agreement with Surtova"
-msgstr ""
+msgstr "서토바와의 무역 계약"
 
 msgctxt "248faeb6-9452-49de-9d69-5b7de88a808a"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "45dc2b56-53df-4546-95fc-d51be25b2638"
 msgid ""
@@ -12123,19 +12166,19 @@ msgstr ""
 
 msgctxt "abf6c907-0633-4aa8-9f88-21a05729ff32"
 msgid "Trade Agreement with Maegar Varn"
-msgstr ""
+msgstr "메가르 반과의 무역 계약"
 
 msgctxt "15882699-f6f8-4ae0-8956-7dde62d0ec81"
 msgid "The agreement has been signed!"
-msgstr ""
+msgstr "계약이 체결되었습니다!"
 
 msgctxt "d998efe8-227a-4a69-a0b6-3fc0d2a991c4"
 msgid "We can increase our people's loyalty in this region."
-msgstr ""
+msgstr "이 지역 사람들의 충성도를 높일 수 있습니다."
 
 msgctxt "cb66dadf-285b-403a-80dd-ce339c95fd7a"
 msgid "Improve Loyalty"
-msgstr ""
+msgstr "충성도 향상"
 
 msgctxt "0f1cc117-4204-455a-bca5-1559b6e12ee3"
 msgid "The people in the region of the capital are very fond of their ruler."
@@ -12147,11 +12190,11 @@ msgstr ""
 
 msgctxt "5b6ccab7-d5d3-4daf-8d94-88dd57e59e3e"
 msgid "Increase Income"
-msgstr ""
+msgstr "수입 증가"
 
 msgctxt "bfcb88fc-ac41-4273-8d52-395414d807a9"
 msgid "The capital region is prosperous."
-msgstr ""
+msgstr "수도 지역은 번영합니다."
 
 msgctxt "8807bad1-aeba-4e90-91b7-34048f408b9d"
 msgid ""
@@ -12171,7 +12214,7 @@ msgstr ""
 
 msgctxt "a25f234c-6916-41d3-a3ce-9ebfc2a37f5a"
 msgid "Claim the Dire Narlmarches"
-msgstr ""
+msgstr "다이어 날마치 차지"
 
 msgctxt "49e433de-45da-4961-8de3-49c170747604"
 msgid ""
@@ -12203,7 +12246,7 @@ msgstr ""
 
 msgctxt "78f6256d-a551-4593-9b4f-5bbc3cf38855"
 msgid "Magic of the Abandoned Keep"
-msgstr ""
+msgstr "버려진 요새의 마법"
 
 msgctxt "f88952e2-ca7d-4c25-8d77-3e46a27f7074"
 msgid ""
@@ -12232,7 +12275,7 @@ msgstr ""
 
 msgctxt "a3f9fba2-bfe0-4527-be18-201b428850fc"
 msgid "Silvershield Fortress"
-msgstr ""
+msgstr "실버실드 요새"
 
 msgctxt "4dcf06b8-4ba7-4535-bb71-1cb86a6fb12d"
 msgid ""
@@ -12261,7 +12304,7 @@ msgstr ""
 
 msgctxt "47140a62-2524-42b8-b46c-73161bdd7644"
 msgid "Claim Dunsward"
-msgstr ""
+msgstr "던스워드 차지"
 
 msgctxt "09eb9cf4-6e8a-4ad7-b74d-9c66ffb90d8f"
 msgid ""
@@ -12290,7 +12333,7 @@ msgstr ""
 
 msgctxt "77b1c708-2282-416b-9c0b-4af24fadc10f"
 msgid "Belly of the Stolen Lands"
-msgstr ""
+msgstr "스톨른 랜드의 배"
 
 msgctxt "7337e1cc-1a1a-4051-9af2-556d2e989a90"
 msgid ""
@@ -12310,7 +12353,7 @@ msgstr ""
 
 msgctxt "2697109e-4c3a-4c4f-996e-aad17f33fc0d"
 msgid "Enforced Border"
-msgstr ""
+msgstr "국경 강화"
 
 msgctxt "5d5c8635-2ab7-4f17-901a-e1f490724a43"
 msgid ""
@@ -12337,7 +12380,7 @@ msgstr ""
 
 msgctxt "a12799ed-6ba8-4d28-b975-02c0d09621ee"
 msgid "Claim Glenebon"
-msgstr ""
+msgstr "글레네본 차지"
 
 msgctxt "15633d40-6c50-4a76-9524-edd45b96e36d"
 msgid ""
@@ -12366,7 +12409,7 @@ msgstr ""
 
 msgctxt "a9ec39d0-880b-421d-bd9b-d7d373457d37"
 msgid "Gorum's Holy Place"
-msgstr ""
+msgstr "고룸의 성소"
 
 msgctxt "7a67c4b7-e1b5-4eaa-97f2-dabdcb68d99e"
 msgid ""
@@ -12392,11 +12435,11 @@ msgstr ""
 
 msgctxt "a6b4510b-af04-4fad-a8f9-4d40effa2fc3"
 msgid "Training Grounds"
-msgstr ""
+msgstr "훈련장"
 
 msgctxt "ecc8971f-52db-47d5-9516-d3f934c7bcdb"
 msgid "Training Grounds"
-msgstr ""
+msgstr "훈련장"
 
 msgctxt "11e7cdb8-fb87-44de-87e0-5dab53ef0768"
 msgid ""
@@ -12424,7 +12467,7 @@ msgstr ""
 
 msgctxt "1130e6a7-2b7b-4661-8170-5c639706e33b"
 msgid "Claim the Kamelands"
-msgstr ""
+msgstr "카멜랜드 차지"
 
 msgctxt "f2f8f741-68e0-4eba-ae48-c811e5350b99"
 msgid ""
@@ -12450,7 +12493,7 @@ msgstr ""
 
 msgctxt "b39f8526-06b3-4565-baad-98c685c63d6e"
 msgid "Horse-breeding Center"
-msgstr ""
+msgstr "말 사육 센터"
 
 msgctxt "d22a2c86-44a3-4d46-b257-95cec427f128"
 msgid ""
@@ -12467,7 +12510,7 @@ msgstr ""
 
 msgctxt "04b20e82-0e98-4dbd-8f6a-c734c051fb3d"
 msgid "National Treasure"
-msgstr ""
+msgstr "국보"
 
 msgctxt "52f29440-5f74-4aba-a7d3-bf4c09300f9a"
 msgid ""
@@ -12490,7 +12533,7 @@ msgstr ""
 
 msgctxt "e8048fb1-a9cd-4c69-bab2-aa6a055b1b9a"
 msgid "Claim the North Narlmarches"
-msgstr ""
+msgstr "북부 날마치 차지"
 
 msgctxt "4e1414bb-ffcd-459a-91c0-1a7227bd1709"
 msgid ""
@@ -12519,7 +12562,7 @@ msgstr ""
 
 msgctxt "fd455bff-68f8-4e7e-a2fc-fda433479f96"
 msgid "Erastil's Holy Place"
-msgstr ""
+msgstr "에라스틸의 성소"
 
 msgctxt "f9f68fd6-e4d6-4f4e-bade-9fa6e1a72782"
 msgid ""
@@ -12536,7 +12579,7 @@ msgstr ""
 
 msgctxt "583ed271-9c10-488f-8d4f-98bf60137439"
 msgid "Royal Hunting Grounds"
-msgstr ""
+msgstr "왕립 사냥터"
 
 msgctxt "e4138300-3145-4549-8da6-bcc2c4c7276e"
 msgid ""
@@ -12560,7 +12603,7 @@ msgstr ""
 
 msgctxt "6e047aa8-09b5-46bd-a231-112624971d7a"
 msgid "Claim Outskirts"
-msgstr ""
+msgstr "아웃스커트 차지"
 
 msgctxt "a26ef1c4-df52-498e-8f4d-3d6aa67e0ef8"
 msgid "The Outskirts joined your {mf|barony|barony|kingdom|kingdom}."
@@ -12589,7 +12632,7 @@ msgstr ""
 
 msgctxt "bcde2776-c899-49ec-bdd8-530a7166b59d"
 msgid "Trading Ground"
-msgstr ""
+msgstr "교역소"
 
 msgctxt "de905266-0e4a-4e17-ad67-1a7ca9d50271"
 msgid ""
@@ -12608,7 +12651,7 @@ msgstr ""
 
 msgctxt "977bc085-d158-45c3-9c28-3be56fdfa6b5"
 msgid "Military Outpost"
-msgstr ""
+msgstr "군사 전초 기지"
 
 msgctxt "6909ac1f-41a9-4185-8237-b6d40ae23567"
 msgid ""
@@ -12627,7 +12670,7 @@ msgstr ""
 
 msgctxt "99611400-897c-4e1c-9504-dd4c42b55ed1"
 msgid "Good Neighbors"
-msgstr ""
+msgstr "좋은 이웃"
 
 msgctxt "d191d9da-0a24-4d9a-a52a-730d1b8f8918"
 msgid ""
@@ -12654,7 +12697,7 @@ msgstr ""
 
 msgctxt "b2c27c85-7a59-4cbf-95c7-5f22209fc772"
 msgid "Claim Pitax"
-msgstr ""
+msgstr "피탁스 차지"
 
 msgctxt "0300bda1-3295-46b4-ba95-8e45fb3eb15f"
 msgid "This region belongs to Pitax, one of the River Kingdoms."
@@ -12673,7 +12716,7 @@ msgstr ""
 
 msgctxt "4b720d50-d3ea-451f-9887-be00c949da6f"
 msgid "Capital of Crime"
-msgstr ""
+msgstr "범죄의 수도"
 
 msgctxt "a3228d46-9a0b-49ce-823e-cad098d7ace9"
 msgid ""
@@ -12692,7 +12735,7 @@ msgstr ""
 
 msgctxt "7091b37c-d0f1-47fe-9cd9-469ee89c8410"
 msgid "In the Name of Art"
-msgstr ""
+msgstr "예술의 이름으로"
 
 msgctxt "086a52a2-e72c-4779-87dd-a02112cfb157"
 msgid ""
@@ -12712,7 +12755,7 @@ msgstr ""
 
 msgctxt "7239d4e3-d03d-46bb-b813-8b16f9b6d298"
 msgid "Daggermark's Rival"
-msgstr ""
+msgstr "대거마크의 라이벌"
 
 msgctxt "116a893d-6217-4a3b-bcc9-06a87ec89ad8"
 msgid ""
@@ -12724,53 +12767,53 @@ msgctxt "ed0cee28-98fe-4a35-9aec-116af81c6307"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes the Dire "
 "Narlmarches."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 다이어 날마치를 포함합니다."
 
 msgctxt "1eac9ea3-369b-41f3-a3cf-8061488172ad"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes Dunsward."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 던스워드를 포함합니다."
 
 msgctxt "f18fc1fc-3e00-4a97-b62d-46e5fca5b986"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes Glenebon."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 글레네본을 포함합니다."
 
 msgctxt "18516932-2d28-49f4-aa34-e17ba6c37a20"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes the "
 "Kamelands."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 카멜랜드를 포함합니다."
 
 msgctxt "745ba416-ec73-48d2-933e-4b2a1784d7a3"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes the North "
 "Narlmarches."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 북부 날마치를 포함합니다."
 
 msgctxt "c0c5fd41-1c38-42e0-a43d-7d3aaa306594"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes the "
 "Outskirts."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 아웃스커트를 포함합니다."
 
 msgctxt "6d762ed7-64c2-4bcf-9c8b-6e85872fec4a"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes "
 "Silverstep."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 실버스텝을 포함합니다."
 
 msgctxt "3c248332-f0ac-448c-9476-1407ef798898"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes the South "
 "Narlmarches."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 남부 날마치를 포함합니다."
 
 msgctxt "6312fd4a-b82b-4390-9ea2-bebbb8982778"
 msgid ""
 "Your {mf|barony|barony|kingdom|kingdom} has expanded. It now includes the Tors "
 "of Levenies."
-msgstr ""
+msgstr "당신의 영토는 확장되었습니다. 이제 레베니스의 토르를 포함합니다."
 
 msgctxt "70ff1786-d5a8-487f-9c89-d13c604b5508"
 msgid ""
@@ -12784,7 +12827,7 @@ msgstr ""
 
 msgctxt "b3074a6e-da59-4095-ae83-2eafb29a7880"
 msgid "Diamond in the Rough"
-msgstr ""
+msgstr "가공하지 않은 다이아몬드"
 
 msgctxt "c181755a-4f6c-4a59-848c-a247581db69e"
 msgid ""
@@ -12801,7 +12844,7 @@ msgstr ""
 
 msgctxt "fc50df49-0a6e-4af4-9e82-e55be060d9e4"
 msgid "Iron Heart of the Land"
-msgstr ""
+msgstr "나라의 철 심장"
 
 msgctxt "bc9031b8-6ec1-4418-bd1e-4ce7f29ffe4e"
 msgid ""
@@ -12821,7 +12864,7 @@ msgstr ""
 
 msgctxt "312f553f-3086-4c16-acd8-7463508a8559"
 msgid "It's a Magical Place"
-msgstr ""
+msgstr "그것은 마법의 장소"
 
 msgctxt "f03dde20-22b8-4edd-9ef8-73e5db305177"
 msgid ""
@@ -12848,7 +12891,7 @@ msgstr ""
 
 msgctxt "b65f49c1-c0ab-4d03-9fa8-3d6ae958e767"
 msgid "Claim Silverstep"
-msgstr ""
+msgstr "실버스텝 차지"
 
 msgctxt "fbc7aa85-8e21-45a9-8279-f5a3e9066d5f"
 msgid "Silverstep was added to your {mf|barony|barony|kingdom|kingdom}."
@@ -12878,7 +12921,7 @@ msgstr ""
 
 msgctxt "3cf14e58-cd89-4c12-97e7-85a08dcf2e40"
 msgid "Fish Farm Village"
-msgstr ""
+msgstr "물고기 농장 마을"
 
 msgctxt "16b02c80-db09-4306-b4ac-639e1875ff09"
 msgid "Silverstep supplies all the neighboring regions with delicious fish."
@@ -12894,7 +12937,7 @@ msgstr ""
 
 msgctxt "1119ca23-2ce2-45e4-b632-c4e62c7ecc17"
 msgid "Jewelry Center"
-msgstr ""
+msgstr "보석 센터"
 
 msgctxt "41a79e12-f101-47eb-9d2c-cfc2b3d82a09"
 msgid ""
@@ -12913,7 +12956,7 @@ msgstr ""
 
 msgctxt "9c31ae7b-9aa1-4660-b900-a1e9de585f48"
 msgid "Enigmatic Tales"
-msgstr ""
+msgstr "수수께끼의 이야기"
 
 msgctxt "1a490e16-392c-4792-91d5-1caf1b1dee0e"
 msgid ""
@@ -12939,7 +12982,7 @@ msgstr ""
 
 msgctxt "8167b393-216d-44e8-a7e2-ccb27d32a485"
 msgid "Claim the South Narlmarches"
-msgstr ""
+msgstr "남바 날마치 차지"
 
 msgctxt "09d7960d-4fcf-4ff0-bfd8-c9f53acc7e93"
 msgid ""
@@ -12977,11 +13020,11 @@ msgstr ""
 
 msgctxt "1f0f5c4f-5838-48f2-ae43-7be33e3f479d"
 msgid "Restoration of Bronzeshield Fortress"
-msgstr ""
+msgstr "브론즈 실드 요새 복구"
 
 msgctxt "f24d3af0-a30a-40b4-bfbf-3a38997eada8"
 msgid "Bronzeshield Fortress"
-msgstr ""
+msgstr "브론즈 실드 요새"
 
 msgctxt "0709eac7-4c16-486e-bb33-f9a40a2022e6"
 msgid ""
@@ -13008,7 +13051,7 @@ msgstr ""
 
 msgctxt "834cc29e-4253-49a8-bec0-6279c6c77c47"
 msgid "The Magic of Candlemere Tower"
-msgstr ""
+msgstr "캔들미어 타워의 마법"
 
 msgctxt "4ec943d4-641d-45dd-8bc8-b945fd82d3a5"
 msgid ""
@@ -13030,7 +13073,7 @@ msgstr ""
 
 msgctxt "a3257bd2-86e5-40f4-81a0-5f2538bf083e"
 msgid "Claim the Tors of Levenies"
-msgstr ""
+msgstr "레베니스의 토르 차지"
 
 msgctxt "b8bc6d45-1444-42de-ab50-7fc44182e927"
 msgid ""
@@ -13058,7 +13101,7 @@ msgstr ""
 
 msgctxt "9a615281-6629-486b-aeb7-219c763956c2"
 msgid "Daemonic Cult"
-msgstr ""
+msgstr "대모닉 숭배"
 
 msgctxt "05b10c04-5759-45f4-a2f1-b01a15aac0a8"
 msgid "An ancient daemonic cult of Charon worshipers has settled in the region."
@@ -13073,7 +13116,7 @@ msgstr ""
 
 msgctxt "33dccc26-c883-411f-86e8-5a8942f155a6"
 msgid "Mountain Resort"
-msgstr ""
+msgstr "마운틴 리조트"
 
 msgctxt "faff141a-002a-40e3-b682-bb02177fabba"
 msgid ""
@@ -13100,7 +13143,7 @@ msgstr ""
 
 msgctxt "cc08f71d-6f90-4d06-baf6-57153d2fc097"
 msgid "Claim Varnhold"
-msgstr ""
+msgstr "반홀드 차지"
 
 msgctxt "ce6d5f95-13f5-482d-985b-b34fdad1b54d"
 msgid ""
@@ -13117,7 +13160,7 @@ msgstr ""
 
 msgctxt "ea2ac50d-11b7-4244-91a5-a51693ec76be"
 msgid "Guard Headquarters"
-msgstr ""
+msgstr "경비 본부"
 
 msgctxt "2b6ce648-e9ff-4a0d-aaa1-bffbeb8faf2c"
 msgid ""
@@ -13134,7 +13177,7 @@ msgstr ""
 
 msgctxt "0ffd8535-b89e-4c2d-8508-3d939dbaaf8d"
 msgid "Bread and Circuses"
-msgstr ""
+msgstr "빵과 서커스"
 
 msgctxt "56bc06a2-e54b-47e6-894b-4c3d8e0215f1"
 msgid ""
@@ -13146,115 +13189,115 @@ msgstr ""
 
 msgctxt "db6b29bd-c1ac-4661-a13e-3e090163b32e"
 msgid "Direburg"
-msgstr ""
+msgstr "다이어버그"
 
 msgctxt "fe1f133e-14ec-4e08-a2dd-8757d29393db"
 msgid "Dire Narlmarches"
-msgstr ""
+msgstr "다이어 날마치"
 
 msgctxt "838d34d0-af5f-4a19-ad7b-5b5a216dc27c"
 msgid "Plainsgard"
-msgstr ""
+msgstr "플레인스가드"
 
 msgctxt "31dc9605-2f44-4b5a-a69b-78071036b93b"
 msgid "Dunsward"
-msgstr ""
+msgstr "던스워드"
 
 msgctxt "a8a7cf77-b426-40bf-a07f-dfef84c1da3f"
 msgid "Glenshire"
-msgstr ""
+msgstr "글렌샤이어"
 
 msgctxt "4a28d77a-21f7-4339-af17-1d08c745eafd"
 msgid "Glenebon"
-msgstr ""
+msgstr "글레네본"
 
 msgctxt "e864d500-0d32-46ba-a2a3-beede7adbd7d"
 msgid "Shambling Steps"
-msgstr ""
+msgstr "꾸물거리는 걸음"
 
 msgctxt "d7086fa3-adcf-43bc-901b-61d52e795831"
 msgid "Kamelands"
-msgstr ""
+msgstr "카멜랜드"
 
 msgctxt "b18c0dc8-8e4a-480b-9f35-afded5aecc11"
 msgid "Tatzlford"
-msgstr ""
+msgstr "타츨포드"
 
 msgctxt "2054cbd6-50b2-4959-ae22-a6b649c0e5b5"
 msgid "North Narlmarches"
-msgstr ""
+msgstr "북부 날마치"
 
 msgctxt "d54f9b7d-3cdb-49da-b156-856dfcd46522"
 msgid "Tradegard"
-msgstr ""
+msgstr "트레이드 가드"
 
 msgctxt "e0215735-e621-42d9-a21e-30e324f4009f"
 msgid "Outskirts"
-msgstr ""
+msgstr "아웃스커트"
 
 msgctxt "3f59d916-9590-4f4a-a48b-56409f0200f3"
 msgid "Pitax"
-msgstr ""
+msgstr "피탁스"
 
 msgctxt "140f8d5a-7ffb-472a-884a-1bc679414176"
 msgid "Pitax"
-msgstr ""
+msgstr "피탁스"
 
 msgctxt "2771d155-c27c-4b34-a35c-7fd564a556cc"
 msgid "Tuskdale"
-msgstr ""
+msgstr "터스크데일"
 
 msgctxt "0d085718-0d7d-44fb-93c5-cc970272c12c"
 msgid "Shrike Hills"
-msgstr ""
+msgstr "때까치 언덕"
 
 msgctxt "99f2d8b8-924e-497f-ae6d-7ae08344ae2c"
 msgid "Upgrade the capital to increase income."
-msgstr ""
+msgstr "수도를 업그레이드하여 수입을 늘리십시오."
 
 msgctxt "c39db87e-20d7-43d9-9b3b-64e19916044b"
 msgid "We can improve our people's loyalty in this region."
-msgstr ""
+msgstr "이 지역 사람들의 충성도를 향상시킬 수 있습니다."
 
 msgctxt "bb4f6737-ca02-4b67-ab5b-1c60460c4673"
 msgid "Silvershire"
-msgstr ""
+msgstr "실버샤이어"
 
 msgctxt "0ce32edc-cf07-447e-9687-af91750e2252"
 msgid "Silverstep"
-msgstr ""
+msgstr "실버스텝"
 
 msgctxt "a37e8fdf-c5db-4321-9013-78929d7c7b6b"
 msgid "Narlkeep"
-msgstr ""
+msgstr "날킵"
 
 msgctxt "7c0815c8-bc4a-4b91-bf97-3bebb1822180"
 msgid "South Narlmarches"
-msgstr ""
+msgstr "남부 날마치"
 
 msgctxt "605bd0c3-6ad6-4271-9078-6baca17c28d4"
 msgid "Thousand Voices"
-msgstr ""
+msgstr "천개의 목소리"
 
 msgctxt "1dfc6757-c65c-48cc-bdca-711689fb18c5"
 msgid "The Peak"
-msgstr ""
+msgstr "더 피크"
 
 msgctxt "646b5fcf-3fe9-4142-aa16-74fe944d9e84"
 msgid "Tors of Levenies"
-msgstr ""
+msgstr "레베니스의 토르"
 
 msgctxt "1f19e1bd-714d-4d48-a1a9-81f1bfe65b9c"
 msgid "Varnhold"
-msgstr ""
+msgstr "반홀드"
 
 msgctxt "abd22cf0-0f2e-46fb-974f-4b1d9c1dcc7f"
 msgid "Varnhold"
-msgstr ""
+msgstr "반홀드"
 
 msgctxt "aafe8cd7-3108-4223-95fb-070b89f00f9d"
 msgid "Aasimar"
-msgstr ""
+msgstr "아시마르"
 
 msgctxt "639dc54f-d60f-4129-9d7b-34e212083413"
 msgid ""
@@ -13289,7 +13332,7 @@ msgstr ""
 
 msgctxt "44e0a2b8-8390-4310-8424-d88704775fb6"
 msgid "Dwarf"
-msgstr ""
+msgstr "드워프"
 
 msgctxt "6475b1f0-b107-4a65-9315-6401e5edbe93"
 msgid ""
@@ -13314,7 +13357,7 @@ msgstr ""
 
 msgctxt "29050eda-b92e-4073-ac0f-436d52818332"
 msgid "Elf"
-msgstr ""
+msgstr "엘프"
 
 msgctxt "4a54aef7-32d3-4830-8363-deb1b5a7fb75"
 msgid ""
@@ -13336,7 +13379,7 @@ msgstr ""
 
 msgctxt "e9a4f7a0-8e74-459c-a6ba-2b221c2881ee"
 msgid "Gnome"
-msgstr ""
+msgstr "노움"
 
 msgctxt "c90b8fc7-ffac-41a1-92be-20a21b6e2dce"
 msgid ""
@@ -13354,7 +13397,7 @@ msgstr ""
 
 msgctxt "ca6f2b43-4f05-4a80-a191-94e6712578b2"
 msgid "Goblin"
-msgstr ""
+msgstr "고블린"
 
 msgctxt "138c51e4-1ec9-429b-ab6d-bc4a8645812e"
 msgid ""
@@ -13381,7 +13424,7 @@ msgstr ""
 
 msgctxt "28b1b973-6832-4aaf-a23b-31a60b5b41cc"
 msgid "Half-Elf"
-msgstr ""
+msgstr "하프 엘프"
 
 msgctxt "dbc6cef6-7926-4e94-a8f3-5752e60b575a"
 msgid ""
@@ -13407,7 +13450,7 @@ msgstr ""
 
 msgctxt "961bb357-8bd5-4b28-a324-3237713ddda7"
 msgid "Halfling"
-msgstr ""
+msgstr "하플링"
 
 msgctxt "5775e987-5875-4e59-bbdc-aed4940dfeb0"
 msgid ""
@@ -13426,7 +13469,7 @@ msgstr ""
 
 msgctxt "3777e434-d2c7-46c7-953e-380b67a5d303"
 msgid "Half-Orc"
-msgstr ""
+msgstr "하프 오크"
 
 msgctxt "ddc907bb-5206-4e48-b54a-05cc0b846c72"
 msgid ""
@@ -13449,7 +13492,7 @@ msgstr ""
 
 msgctxt "9f5a3eb6-c751-4bd8-b56e-3cfc928dfc8e"
 msgid "Human"
-msgstr ""
+msgstr "인간"
 
 msgctxt "0d55182b-01d1-44e1-8011-ec7ea06fd944"
 msgid ""
@@ -13469,7 +13512,7 @@ msgstr ""
 
 msgctxt "69de7cdf-bb2d-4897-b0a8-0de3ef6194c5"
 msgid "Tiefling"
-msgstr ""
+msgstr "티플링"
 
 msgctxt "709b7d12-d28d-4d44-8efa-0e1410bc7c34"
 msgid "Recipe: Cheese Crostata"
@@ -16183,7 +16226,7 @@ msgstr ""
 
 msgctxt "949713e6-d50f-4cfe-954c-5124fed1982b"
 msgid "Immersive mode"
-msgstr ""
+msgstr "몰입 모드"
 
 msgctxt "fe635764-ae83-493e-bb25-55a685b1e475"
 msgid ""
@@ -16194,7 +16237,7 @@ msgstr ""
 
 msgctxt "4338961a-9507-4767-b384-b6efdc3b152a"
 msgid "Last Azlanti Mode"
-msgstr ""
+msgstr "라스트 아잘란티 모드"
 
 msgctxt "fd45f4bc-c5a8-4319-845a-85472c492082"
 msgid ""
@@ -16204,7 +16247,7 @@ msgstr ""
 
 msgctxt "42a558ee-9f44-4fd3-959e-cb41dcfe68c2"
 msgid "Show tutorial"
-msgstr ""
+msgstr "튜토리얼 보이기"
 
 msgctxt "227a189e-a708-4998-8f04-d1284fb6c4ab"
 msgid ""
@@ -16406,299 +16449,299 @@ msgstr ""
 
 msgctxt "9936092d-dd0b-419d-87cd-3629a59bdab4"
 msgid "Spell"
-msgstr ""
+msgstr "주문"
 
 msgctxt "0e4371d6-3b8b-43c3-8003-2e54b1c067e3"
 msgid "Spell-like Ability"
-msgstr ""
+msgstr "유사 주문 능력"
 
 msgctxt "9cca5397-303e-47f7-891d-d270140f6578"
 msgid "Extraordinary"
-msgstr ""
+msgstr "초인적"
 
 msgctxt "b456326e-0bac-4b60-95f4-08829d051510"
 msgid "Supernatural"
-msgstr ""
+msgstr "초자연적"
 
 msgctxt "4c9e0334-ba61-415e-a72e-bfb7853ed1b4"
 msgid "Combat Maneuver"
-msgstr ""
+msgstr "컴뱃 매뉴버"
 
 msgctxt "0d1c30e8-3722-4d0c-b979-4dbcfbf6506a"
 msgid "Special"
-msgstr ""
+msgstr "특수"
 
 msgctxt "8f38a00b-ce87-4393-bbae-ad7d249e8953"
 msgid "Racial"
-msgstr ""
+msgstr "종족"
 
 msgctxt "7901b076-42d2-401e-a8e3-9ce0d4aa12df"
 msgid "Shield enhancement"
-msgstr ""
+msgstr "방패 향상"
 
 msgctxt "29d22d5b-84f4-4264-91cf-5607a2b2faf7"
 msgid "Inherent"
-msgstr ""
+msgstr "고유"
 
 msgctxt "f6ac1e75-a061-4be3-818c-fea18a72367c"
 msgid "Insight"
-msgstr ""
+msgstr "통찰"
 
 msgctxt "cb5ba53a-0b3d-48a3-8f0f-dc84599fb5dd"
 msgid "Luck"
-msgstr ""
+msgstr "운"
 
 msgctxt "3a16e5c3-e1b4-4ee8-b98e-f257850e4d2b"
 msgid "Morale"
-msgstr ""
+msgstr "사기"
 
 msgctxt "3d317ad4-de7b-438c-89fc-2333d4e2595b"
 msgid "Natural armor"
-msgstr ""
+msgstr "자연 아머"
 
 msgctxt "64f7fae4-a525-45ce-948d-338277b6a18e"
 msgid "Natural armor enhancement"
-msgstr ""
+msgstr "자연 아머 향상"
 
 msgctxt "b04f37fd-d667-43a1-a825-70c68a841f17"
 msgid "Profane"
-msgstr ""
+msgstr "모독"
 
 msgctxt "d9b3de62-697f-4f9e-895a-f819d6bd5ffb"
 msgid "Sacred"
-msgstr ""
+msgstr "신성"
 
 msgctxt "5e31f44b-ca26-42b8-8a22-3038b42948b6"
 msgid "Size"
-msgstr ""
+msgstr "크기"
 
 msgctxt "c1b3ba42-409b-4d5d-b0fc-d2c3ceb7d478"
 msgid "Dodge"
-msgstr ""
+msgstr "회피"
 
 msgctxt "bca9f1a1-6479-4ad8-8f2a-1618b10e2329"
 msgid "Trait"
-msgstr ""
+msgstr "특성"
 
 msgctxt "28a47065-5d76-4664-919c-eca78bbd1055"
 msgid "Resistance"
-msgstr ""
+msgstr "저항"
 
 msgctxt "92228fde-5f67-4959-8ddc-22ea4b09d3dd"
 msgid "Fear"
-msgstr ""
+msgstr "공포"
 
 msgctxt "da73dc4d-1ccf-4150-a1c0-f6dfc193cfdc"
 msgid "Negative energy"
-msgstr ""
+msgstr "음 에너지"
 
 msgctxt "34559b81-2c11-41b6-9a9a-48ecfd1002e8"
 msgid "Dexterity bonus"
-msgstr ""
+msgstr "민첩 보너스"
 
 msgctxt "adac7180-0046-48f2-a99b-80baa93f9f26"
 msgid "Other"
-msgstr ""
+msgstr "그 외"
 
 msgctxt "0580aa68-e72d-44eb-ba8c-c7f8eaa8fb1b"
 msgid "Constitution bonus"
-msgstr ""
+msgstr "건강 보너스"
 
 msgctxt "fae1ac0b-e9cf-4ccb-9d1a-a5d970029b05"
 msgid "Fatigued"
-msgstr ""
+msgstr "피로"
 
 msgctxt "45ceb1ad-8912-467b-b551-cb88e07a3455"
 msgid "Crippled"
-msgstr ""
+msgstr "불구"
 
 msgctxt "d82ece0c-3c8d-4da3-9fa0-c6431240aaa4"
 msgid "Feat"
-msgstr ""
+msgstr "특기"
 
 msgctxt "26e25a51-7318-4dde-bce9-8f214b075284"
 msgid "Competence"
-msgstr ""
+msgstr "능숙"
 
 msgctxt "993e3b95-0d9e-469a-adf4-4d6651c02230"
 msgid "Ability damage"
-msgstr ""
+msgstr "능력 피해"
 
 msgctxt "a4e2e495-4bc1-4636-bd5a-6d5faecd1c4c"
 msgid "Ability drain"
-msgstr ""
+msgstr "능력 상실"
 
 msgctxt "2ef8834d-4586-4bd2-bed4-97fbd017d4e0"
 msgid "Focus"
-msgstr ""
+msgstr "집중"
 
 msgctxt "a3a90870-c80e-4b0e-842f-15a70493b202"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 msgctxt "caaaef71-106a-48fa-888d-6480c614d9ac"
 msgid "Penalty"
-msgstr ""
+msgstr "페널티"
 
 msgctxt "81209261-c111-43d7-adeb-0bf182103c50"
 msgid "Focus"
-msgstr ""
+msgstr "집중"
 
 msgctxt "4d426cdb-d86c-43a2-b378-98391417926e"
 msgid "Meal"
-msgstr ""
+msgstr "식사"
 
 msgctxt "c63911c2-cb8a-47b3-a2fe-a8a6b6d98317"
 msgid "Polymorph"
-msgstr ""
+msgstr "폴리모프"
 
 msgctxt "9183c2a9-131c-40d3-84a8-527ad1d09530"
 msgid "Helpless"
-msgstr ""
+msgstr "무력화"
 
 msgctxt "99d4ca00-bf3d-4d42-bf9c-aac1f4a407d6"
 msgid "Armor"
-msgstr ""
+msgstr "아머"
 
 msgctxt "9963f0ad-b60e-4a58-948a-3825bc4eb6f6"
 msgid "Encumbrance"
-msgstr ""
+msgstr "방해받음"
 
 msgctxt "3fce2370-34a8-4090-96f9-dbc406fc28d0"
 msgid "Favored enemy"
-msgstr ""
+msgstr "주적"
 
 msgctxt "0793afb3-8972-42b3-bce1-8a1513b72717"
 msgid "Other"
-msgstr ""
+msgstr "그 외"
 
 msgctxt "2b7d794c-310c-4d8b-ad18-ae33c2489daa"
 msgid "Shield"
-msgstr ""
+msgstr "방패"
 
 msgctxt "43190791-b32a-4df1-b278-91cbbc25592a"
 msgid "Alchemical"
-msgstr ""
+msgstr "연금술"
 
 msgctxt "bdf049e7-9b8b-4d3f-a23f-07d98345d4c6"
 msgid "Circumstance"
-msgstr ""
+msgstr "환경"
 
 msgctxt "10f0872b-4b8f-46e1-b25d-6a95c0b73115"
 msgid "Deflection"
-msgstr ""
+msgstr "굴절"
 
 msgctxt "696d7c0e-f960-4b92-a703-01d8ff9c0674"
 msgid "Enhancement"
-msgstr ""
+msgstr "향상"
 
 msgctxt "6620ac4a-61b1-43fa-b6d9-69ed34009422"
 msgid "Armor enhancement"
-msgstr ""
+msgstr "아머 향상"
 
 msgctxt "370f44e2-3212-473c-a1f0-9a1ad74c8dd8"
 msgid "within touch range"
-msgstr ""
+msgstr "접촉 범위 이내"
 
 msgctxt "0bea0c6c-e591-4b9c-ac81-200b3c830ae4"
 msgid "within close range"
-msgstr ""
+msgstr "근거리 이내"
 
 msgctxt "3fb5db27-b12c-4adc-aea5-f73b659ae7db"
 msgid "within medium range"
-msgstr ""
+msgstr "중간 거리 이내"
 
 msgctxt "b84ca9b1-e20e-4dbb-abf2-a34444b13ae4"
 msgid "within long range"
-msgstr ""
+msgstr "원거리 이내"
 
 msgctxt "a966895b-5f9a-429a-800a-677486f75bbd"
 msgid "within any range"
-msgstr ""
+msgstr "모든 거리 이내"
 
 msgctxt "be0e0913-733f-4d10-8461-e3de3ea13416"
 msgid "within weapon range"
-msgstr ""
+msgstr "무기 거리 이내"
 
 msgctxt "0315b6a9-84d6-4cab-be58-99c755463224"
 msgid "All allies"
-msgstr ""
+msgstr "모든 아군"
 
 msgctxt "099f9c2e-b1eb-41e9-84cd-7de0ac574015"
 msgid "All creatures"
-msgstr ""
+msgstr "모든 대상"
 
 msgctxt "d3ecf6e8-a4df-4f6c-9f66-a27b1ecc479d"
 msgid "All enemies"
-msgstr ""
+msgstr "모든 적"
 
 msgctxt "95f884a1-4b42-4b18-9f14-08535d8a05e7"
 msgid "caster"
-msgstr ""
+msgstr "시전자"
 
 msgctxt "3d63e4cd-50bf-4f7b-8b7b-73e39e65b238"
 msgid "target creature"
-msgstr ""
+msgstr "타겟 대상"
 
 msgctxt "640f7e89-21d2-4451-912c-848f253f37fb"
 msgid "target point"
-msgstr ""
+msgstr "타겟 지점"
 
 msgctxt "9c261c9b-d356-41f0-a796-97fb5fdfdb0c"
 msgid "One creature"
-msgstr ""
+msgstr "하나의 대상"
 
 msgctxt "34f57809-e7fc-4a9e-b850-c13ba797c54d"
 msgid "One enemy creature"
-msgstr ""
+msgstr "하나의 적 대상"
 
 msgctxt "cd9d38bd-6507-48f6-8d38-94bc20a6e386"
 msgid "One friendly creature"
-msgstr ""
+msgstr "하나의 아군 대상"
 
 msgctxt "8a243db9-8df1-4ce5-aa7b-6e9c0c871418"
 msgid "Personal"
-msgstr ""
+msgstr "자신"
 
 msgctxt "dbc6c9f5-e31c-4a97-9eca-09d3ff4389ad"
 msgid "Target point"
-msgstr ""
+msgstr "타겟 지점"
 
 msgctxt "2e05b972-2977-4112-b9df-10a57550bb3c"
 msgid "within a {0} foot burst, centered on"
-msgstr ""
+msgstr "폭발을 중심으로 {0} 걸음 이내"
 
 msgctxt "ff9e752e-7540-483b-8e6a-b7f5caf681dc"
 msgid "within a {0} foot cone"
-msgstr ""
+msgstr "{0} 걸음 원뿔 이내"
 
 msgctxt "3c4ab542-2320-4ab2-a0f4-8bc1b68b7afd"
 msgid "within {0} feet"
-msgstr ""
+msgstr "{0} feet 이내"
 
 msgctxt "e9078e3a-e3a4-404e-b7c2-f34892828629"
 msgid "along a {0} foot line"
-msgstr ""
+msgstr "선을 따라 {0} 걸음"
 
 msgctxt "d34c3de7-ecf5-45d0-8e37-fc85764bb561"
 msgid "Free action"
-msgstr ""
+msgstr "자유 행동"
 
 msgctxt "f0f4244d-f430-42c5-837b-053537d9802e"
 msgid "Standard action"
-msgstr ""
+msgstr "일반 행동"
 
 msgctxt "9f38d220-c83d-4ffb-9ad6-7850cf8d31cc"
 msgid "Swift action"
-msgstr ""
+msgstr "신속 행동"
 
 msgctxt "16757319-cc32-4ed8-8842-be8ad5903a8b"
 msgid "Move action"
-msgstr ""
+msgstr "이동 행동"
 
 msgctxt "a30ca2fc-147e-41e0-ad58-06a85e5fe9d2"
 msgid "Full round"
-msgstr ""
+msgstr "풀 라운드"
 
 msgctxt "c5d008cc-aac2-40be-91d1-0eea3e4389af"
 msgid ""
@@ -16712,350 +16755,357 @@ msgid ""
 "consciences, resent being told what to do, favor new ideas over tradition, and "
 "keep their promises only if they feel like it."
 msgstr ""
+"대상의 전반적인 도덕적, 개인적 태도는 질서 선 (LG), 중립 선 (NG), 혼돈 선 (CG), "
+"질서 중립 (LN), 중립 (N), 혼돈 중립 (CN), 질서 악 (LE), 중립 악 (NE) 또는 혼돈 "
+"악 (CE)의 가치관으로 표현됩니다. 선한 인물은 무고한 삶을 보호합니다. 악한 인물"
+"은 재미나 이익을 위해 그것을 모욕하거나 파괴합니다. 질서적인 인물은 진실을 말하"
+"고, 말을 지키고, 권위를 존중하고, 전통을 존중하며, 그들의 의무를 다하지 못한 자"
+"들을 심판합니다. 혼돈의 인물은 양심을 따라 행동하며, 전통보다 새로운 아이디어를 "
+"선호하며, 마음에 내킬 때만 약속을 지킵니다."
 
 msgctxt "148c7bdf-fbb1-4dcf-b646-4627dd700bcb"
 msgid "Melee"
-msgstr ""
+msgstr "근접"
 
 msgctxt "74187454-ed77-4c5b-ae6b-da3f10324788"
 msgid "Touch"
-msgstr ""
+msgstr "접촉"
 
 msgctxt "cfc53f23-1b9f-4108-885f-f3d292fcd170"
 msgid "Ranged"
-msgstr ""
+msgstr "원거리"
 
 msgctxt "d8051538-574d-41dd-b029-34bf234eac62"
 msgid "Ranged touch"
-msgstr ""
+msgstr "원거리 접촉"
 
 msgctxt "17cb02c6-a5aa-4189-8975-994996e1a063"
 msgid "Base value"
-msgstr ""
+msgstr "기본값"
 
 msgctxt "709078cf-56f5-40bc-8be9-c60ff37b923d"
 msgid "Attack number penalty"
-msgstr ""
+msgstr "공격 횟수 페널티"
 
 msgctxt "804c2e43-c76d-4cd2-9e5b-02b3fd51e065"
 msgid "Blindness"
-msgstr ""
+msgstr "실명"
 
 msgctxt "c8125114-9675-4de0-8ac8-9bb81f23a7b6"
 msgid "Class skill"
-msgstr ""
+msgstr "클래스 스킬"
 
 msgctxt "2b7fa4c7-794d-4ced-bf3a-174010609a22"
 msgid "Concealment"
-msgstr ""
+msgstr "은폐"
 
 msgctxt "0bddb2d5-e314-4938-8f49-548e191bdb99"
 msgid "Flanking"
-msgstr ""
+msgstr "측면 공격"
 
 msgctxt "3bb71ca3-5d64-481d-b3b1-0d414f94a70b"
 msgid "Helpless"
-msgstr ""
+msgstr "무력화"
 
 msgctxt "e3fc4c97-a85e-4d94-b8c6-89e0efc7c74c"
 msgid "Prone"
-msgstr ""
+msgstr "쓰러짐"
 
 msgctxt "0f890b7e-877b-4c60-b71a-48ca9ac4be64"
 msgid "Secondary weapon"
-msgstr ""
+msgstr "보조 무기"
 
 msgctxt "23a46031-d968-4192-b421-e4c92d44f67f"
 msgid "Shooting into combat"
-msgstr ""
+msgstr "근접전 대상에게 사격"
 
 msgctxt "4d95959c-32f5-4fd4-94c8-0c9a55bbe30c"
 msgid "Class skill"
-msgstr ""
+msgstr "클래스 스킬"
 
 msgctxt "e1aa99c6-6af9-4b16-adfd-f3a37cfb2e42"
 msgid "Combat Maneuver: Trip"
-msgstr ""
+msgstr "컴뱃 매뉴버: 넘어뜨리기"
 
 msgctxt "e750facf-a738-4301-adf3-445c1b477674"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "08adfafe-5efc-49ad-8df5-2dc4f9f994ad"
 msgid "Combat Maneuver: Overrun"
-msgstr ""
+msgstr "컴뱃 매뉴버: 짓밟기"
 
 msgctxt "7af0762d-f8dd-497a-a83b-afc80f6aff4a"
 msgid "Combat Maneuver: Disarm"
-msgstr ""
+msgstr "컴뱃 매뉴버: 무장해제"
 
 msgctxt "85440206-7c17-4cbd-8c5f-c53d460d11ff"
 msgid "Combat Maneuver: Grapple"
-msgstr ""
+msgstr "컴뱃 매뉴버: 붙잡기"
 
 msgctxt "2cdd3023-bf18-449a-8d85-a5c844b3babb"
 msgid "Combat Maneuver: Bull Rush"
-msgstr ""
+msgstr "컴뱃 매뉴버: 황소 돌진"
 
 msgctxt "bdb5f787-ba8a-44c4-bef8-2f3bb4640d27"
 msgid "Combat Maneuver: Sunder Armor"
-msgstr ""
+msgstr "컴뱃 매뉴버: 갑옷 부수기"
 
 msgctxt "b2b1c00b-4bc3-4a81-b101-8411c33f3b48"
 msgid "Dirty Trick: Blind"
-msgstr ""
+msgstr "더티 트릭: 블라인드"
 
 msgctxt "1e64735a-e41a-4041-adc0-e08eb47c4556"
 msgid "Dirty Trick: Entangle"
-msgstr ""
+msgstr "더티 트릭: 뒤얽힘"
 
 msgctxt "cf87c849-d140-407c-b44d-f0eb8ac9df15"
 msgid "Dirty Trick: Sicken"
-msgstr ""
+msgstr "Dirty Trick: 메스꺼움"
 
 msgctxt "56f8e885-6be3-4d4b-b721-e09cdd2b358b"
 msgid "Blindness"
-msgstr ""
+msgstr "실명"
 
 msgctxt "508254fe-120c-43ec-a6a8-980d6db8c5c6"
 msgid "Entangled"
-msgstr ""
+msgstr "뒤얽힘"
 
 msgctxt "90e82c14-ecc9-40fb-8aa8-799cd884ef8d"
 msgid "Difficult terrain"
-msgstr ""
+msgstr "험지"
 
 msgctxt "8ae09619-5dfa-49a5-8de9-8b2db2a9f834"
 msgid "Frightened"
-msgstr ""
+msgstr "겁먹음"
 
 msgctxt "f98ec490-b6bd-4154-ae52-74edab0baf71"
 msgid "Prone"
-msgstr ""
+msgstr "쓰러짐"
 
 msgctxt "73c10d37-ce5e-4631-9295-ee0e390f3a27"
 msgid "Sickened"
-msgstr ""
+msgstr "메스꺼움"
 
 msgctxt "95e88df8-e3af-4866-bd5a-c67a482c0c02"
 msgid "Sleep"
-msgstr ""
+msgstr "수면"
 
 msgctxt "c61f3a7a-2921-4451-8642-4c062ea718d4"
 msgid "See invisibility"
-msgstr ""
+msgstr "투명 감지"
 
 msgctxt "749bdd94-93c8-4bcd-aedf-575642c9f457"
 msgid "True seeing"
-msgstr ""
+msgstr "진실의 시야"
 
 msgctxt "0fc9213f-06a5-4f60-9d79-180c87191bfe"
 msgid "Immobilized"
-msgstr ""
+msgstr "고정"
 
 msgctxt "035be547-dd0d-4049-966a-4300d87bfe37"
 msgid "Shaken"
-msgstr ""
+msgstr "동요"
 
 msgctxt "a8173569-5ad7-4dbe-b0fc-3d2c7213b08a"
 msgid "Nauseated"
-msgstr ""
+msgstr "구토"
 
 msgctxt "a3c1729f-700c-4588-9fc9-80b4c54d5dd3"
 msgid "Dexterity bonus to AC lost"
-msgstr ""
+msgstr "민첩 보너스에 의한 AC 잃음"
 
 msgctxt "02262c18-46bd-4ba9-a267-012c568ccd85"
 msgid "Dazzled"
-msgstr ""
+msgstr "눈부심"
 
 msgctxt "f034f4e4-a92d-472c-8c49-1b06ae3a78bb"
 msgid "Stunned"
-msgstr ""
+msgstr "기절"
 
 msgctxt "013ef25f-8c83-47f8-9c24-207aced5fee2"
 msgid "Helpless"
-msgstr ""
+msgstr "무력화"
 
 msgctxt "35797978-d59c-4bbd-a776-b068a250d0d0"
 msgid "Confusion"
-msgstr ""
+msgstr "혼란"
 
 msgctxt "846a7383-44a1-47aa-a2d8-82070ddcdc5e"
 msgid "Distracted"
-msgstr ""
+msgstr "산만함"
 
 msgctxt "b1591d65-3617-404f-9db9-67a1cf0cabd6"
 msgid "Forced move"
-msgstr ""
+msgstr "강제 이동"
 
 msgctxt "320e2444-6e9e-4d82-8785-b0d3371f3b60"
 msgid "Can't act"
-msgstr ""
+msgstr "행동 불가"
 
 msgctxt "d647135b-33ca-4ad4-a1a0-dd7e7d47e16b"
 msgid "Disabled attacks of opportunity"
-msgstr ""
+msgstr "기회 공격 불가"
 
 msgctxt "bab522f4-ba94-4d3e-b2c1-4954916edd76"
 msgid "Attack nearest"
-msgstr ""
+msgstr "가장 가까운 대상 공격"
 
 msgctxt "17da344f-adf5-4c1f-ab87-8601321cbe5d"
 msgid "Fatigued"
-msgstr ""
+msgstr "피로"
 
 msgctxt "a811a655-b2cb-4d88-a1ff-e7a729e21c8e"
 msgid "Unconscious"
-msgstr ""
+msgstr "의식불명"
 
 msgctxt "94519e2c-d984-46c9-8dc5-274659109e78"
 msgid "Can't attack"
-msgstr ""
+msgstr "공격 불가"
 
 msgctxt "f862b266-5d80-46ea-a7ee-5485b162e274"
 msgid "Unlootable"
-msgstr ""
+msgstr "획득 불가"
 
 msgctxt "ca542057-249a-456c-b86f-1e7b92e4b759"
 msgid "Blurred vision"
-msgstr ""
+msgstr "흐린 시야"
 
 msgctxt "8d654633-afdf-4066-8667-8e7543b51818"
 msgid "Immune to attacks of opportunity"
-msgstr ""
+msgstr "기회 공격 면역"
 
 msgctxt "d03bbd52-4dbc-40a4-8835-c1f465d06b98"
 msgid "Use Mobility skill to negate attack of opportunity"
-msgstr ""
+msgstr "기동성 스킬을 사용하여 기회 공격을 무효화"
 
 msgctxt "4622978b-9854-4b57-b01d-9ea271740ffd"
 msgid "Immune to combat maneuvers"
-msgstr ""
+msgstr "컴뱃 매뉴버 면역"
 
 msgctxt "47ab21e6-203f-41f2-b9a7-4959cc3bda6b"
 msgid "Immobilized"
-msgstr ""
+msgstr "고정"
 
 msgctxt "610d80c9-75e5-481c-badd-a6e6df0c89cc"
 msgid "Combat reflexes"
-msgstr ""
+msgstr "전투 반사"
 
 msgctxt "678cbcdf-a7bc-4834-be41-cca030dd45b4"
 msgid "Can't enter stealth"
-msgstr ""
+msgstr "은신 불가"
 
 msgctxt "5ef97931-8c54-4725-a0c3-27a97deafea3"
 msgid "Paralyzed"
-msgstr ""
+msgstr "마비"
 
 msgctxt "2bdcb3ea-f555-49da-afa4-cac9aaafcb00"
 msgid "Cowering"
-msgstr ""
+msgstr "움츠림"
 
 msgctxt "869cd649-b2ce-4478-86e2-90186f1c4dcb"
 msgid "Exhausted"
-msgstr ""
+msgstr "탈진"
 
 msgctxt "018fa99a-d446-493f-8d8a-bf4c57a8c99a"
 msgid "Barbarian's rage"
-msgstr ""
+msgstr "바바리안의 분노"
 
 msgctxt "c9125be2-8d62-4911-bd80-29eceab41423"
 msgid "Death's door"
-msgstr ""
+msgstr "죽음의 문턱"
 
 msgctxt "a141aa57-722f-4eaf-8ba6-dff45add0387"
 msgid "Staggered"
-msgstr ""
+msgstr "충격"
 
 msgctxt "3d8a1d99-ea31-4ea1-aaaa-cc9829260ec9"
 msgid "Invisible"
-msgstr ""
+msgstr "투명"
 
 msgctxt "ec02af59-c701-47ca-b453-85d3efcdfc85"
 msgid "Petrified"
-msgstr ""
+msgstr "석화"
 
 msgctxt "0f2cadd8-00b7-4aa8-b34a-0c5e1af46ed2"
 msgid "Dazed"
-msgstr ""
+msgstr "멍함"
 
 msgctxt "63542ce2-ba2e-472d-9b00-8a89d890b35c"
 msgid "Slowed"
-msgstr ""
+msgstr "느려짐"
 
 msgctxt "06f5fe5c-625e-458f-8966-0addd725e7f9"
 msgid "Fire"
-msgstr ""
+msgstr "화염"
 
 msgctxt "87c55c49-e964-482e-a0c3-748e749cc0c1"
 msgid "Cold"
-msgstr ""
+msgstr "냉기"
 
 msgctxt "ce123806-bd0e-431d-8cc9-f914f33e1629"
 msgid "Sonic"
-msgstr ""
+msgstr "음파"
 
 msgctxt "7992ac1f-502c-4a4b-b49f-ab81af7a5bc1"
 msgid "Electricity"
-msgstr ""
+msgstr "전기"
 
 msgctxt "06c62053-9fb8-4fda-a6db-d9fe4ad9b692"
 msgid "Acid"
-msgstr ""
+msgstr "산성"
 
 msgctxt "094e8df1-7b0c-4493-a394-c471332ebfcd"
 msgid "Negative"
-msgstr ""
+msgstr "음"
 
 msgctxt "4d18cf84-eaac-45b7-bd4f-d0695603dead"
 msgid "Positive"
-msgstr ""
+msgstr "양"
 
 msgctxt "1a743ec0-707b-43bc-89cd-2ebda7ed8a7e"
 msgid "Holy"
-msgstr ""
+msgstr "신성"
 
 msgctxt "05cf6248-0131-4cba-bac6-33948d052eb3"
 msgid "Unholy"
-msgstr ""
+msgstr "부정"
 
 msgctxt "2c767904-d0b6-4289-a11e-72b88ab86b39"
 msgid "Divine"
-msgstr ""
+msgstr "디바인"
 
 msgctxt "36fd06e9-55d2-48c7-82c4-47046824ff96"
 msgid "Slashing"
-msgstr ""
+msgstr "베기"
 
 msgctxt "62716ba2-a4be-4b58-8cb5-b623f8caf8dc"
 msgid "Bludgeoning"
-msgstr ""
+msgstr "타격"
 
 msgctxt "77ad3c4a-1411-46de-a73a-205f64e09756"
 msgid "Piercing"
-msgstr ""
+msgstr "관통"
 
 msgctxt "aead3835-1773-440e-86c5-ae99a535450e"
 msgid "Cold Iron"
-msgstr ""
+msgstr "콜드 아이언"
 
 msgctxt "28efe9ff-4335-4fba-946c-61099352d42b"
 msgid "Silver"
-msgstr ""
+msgstr "은"
 
 msgctxt "9025b106-14d7-4217-a16d-7882f169441e"
 msgid "Adamantite"
-msgstr ""
+msgstr "아다만타이트"
 
 msgctxt "6d1610d8-de48-4040-8d1d-a191da0aa980"
 msgid "Corporeal"
-msgstr ""
+msgstr "물질"
 
 msgctxt "a8815c50-b2c6-4aa9-919c-a2de1767d419"
 msgid "Ghost"
-msgstr ""
+msgstr "유령"
 
 msgctxt "6642357b-e615-4874-a58f-f9b4dfbc0b64"
 msgid ""
@@ -23823,7 +23873,7 @@ msgstr "시전자 폴리모프됨"
 
 msgctxt "2f875f9c-0f64-40de-9d86-e7f39fea75e5"
 msgid "Caster is staggered"
-msgstr "시전자가 비틀거림"
+msgstr "시전자가 충격받음"
 
 msgctxt "6dc52fb7-2f1e-469a-a285-c6687ff811f8"
 msgid "Spellcasting forbidden"
@@ -23953,11 +24003,11 @@ msgstr "매혹됨"
 
 msgctxt "87fb6f43-a4b0-405d-b5b9-c5741e34df40"
 msgid "Dazed"
-msgstr "멍해짐"
+msgstr "멍함"
 
 msgctxt "c32d99d6-8290-4aeb-894a-a53fe397bf60"
 msgid "Sickened"
-msgstr "구역질"
+msgstr "메스꺼움"
 
 msgctxt "38d8f953-ee46-4f30-ac97-c62dae3e8b25"
 msgid "Shaken"
@@ -23965,7 +24015,7 @@ msgstr "동요"
 
 msgctxt "344c8383-053c-4fa7-8b04-2cd0cc8951dc"
 msgid "Fire"
-msgstr "불"
+msgstr "화염"
 
 msgctxt "40ae3def-2cdd-4afd-8a8b-c11b906582de"
 msgid "Fatigued"
@@ -23973,11 +24023,11 @@ msgstr "피로"
 
 msgctxt "9bbe6b50-a6f8-4824-9213-11b65efb6a98"
 msgid "Staggered"
-msgstr "비틀거림"
+msgstr "충격"
 
 msgctxt "63dd72f0-f673-48e7-9997-907c39c868fa"
 msgid "Nauseated"
-msgstr "메스꺼움"
+msgstr "구토"
 
 msgctxt "3a5b2b10-e21b-4112-be72-f44038dbad86"
 msgid "Frightened"
@@ -27330,7 +27380,7 @@ msgstr ""
 
 msgctxt "a2fbdc0d-7ee4-4b90-aba5-e60d85e652e8"
 msgid "or"
-msgstr ""
+msgstr "또는"
 
 msgctxt "43063986-d9b0-445e-b0eb-95d1a98efb57"
 msgid "halves physical damage from slashing and piercing weapon"
@@ -27387,51 +27437,51 @@ msgstr ""
 
 msgctxt "4b4b160b-10e1-47ac-8de1-80cca5f78f36"
 msgid "Penalty"
-msgstr ""
+msgstr "페널티"
 
 msgctxt "0ebaa30d-ff96-4d0d-8287-26525e8d26d4"
 msgid "Result"
-msgstr ""
+msgstr "결과"
 
 msgctxt "09d0a31a-dec1-4f80-879f-5a5564e660c5"
 msgid "precision damage"
-msgstr ""
+msgstr "정밀 피해"
 
 msgctxt "086d2f8d-4e94-49ec-afb5-40cf038d0fc3"
 msgid "Prerequisites"
-msgstr ""
+msgstr "선행 조건"
 
 msgctxt "dd37432c-c253-43bb-aa25-a2ffd6f20a61"
 msgid "Ranks"
-msgstr ""
+msgstr "랭크"
 
 msgctxt "ceb7bb3a-6cb0-449a-a198-9595fd2ceff8"
 msgid "Reach"
-msgstr ""
+msgstr "거리"
 
 msgctxt "b2977945-407e-4ea3-8c82-a842b4f28d8c"
 msgid "Recipe"
-msgstr ""
+msgstr "레시피"
 
 msgctxt "7c4b2eac-1fa8-4d2e-9e5a-c8d23a00cc82"
 msgid "Cooking DC: {0}"
-msgstr ""
+msgstr "요리 DC: {0}"
 
 msgctxt "26c436dd-7013-403b-8a40-652a3815b532"
 msgid "Regeneration"
-msgstr ""
+msgstr "재생"
 
 msgctxt "5a01623f-7ffd-4f09-91d4-69d247e598e6"
 msgid "Remove regeneration"
-msgstr ""
+msgstr "재생 제거"
 
 msgctxt "7bf421a6-392b-4758-8a91-2a9e35966c48"
 msgid "Remove regeneration"
-msgstr ""
+msgstr "재생 제거"
 
 msgctxt "5c11d5d8-32dd-4310-87b0-ddc97a8b48d1"
 msgid "Regeneration"
-msgstr ""
+msgstr "재생"
 
 msgctxt "6b298b59-6ad0-49c5-8015-c47b95a5af0c"
 msgid ""
@@ -27441,51 +27491,51 @@ msgstr ""
 
 msgctxt "3591d841-146e-41d0-91f9-ad21d07b8880"
 msgid "spell immunity"
-msgstr ""
+msgstr "주문 면역"
 
 msgctxt "15253469-2f50-4afc-8e6a-be3d37e14b22"
 msgid "spells with a target"
-msgstr ""
+msgstr "목표를 가진 주문"
 
 msgctxt "c874ab09-5829-4f35-aa9e-39ff30d00ea8"
 msgid "cantrips"
-msgstr ""
+msgstr "캔트립"
 
 msgctxt "cd082202-5d6e-4f5f-a5fc-417a145deb16"
 msgid "1st level spells"
-msgstr ""
+msgstr "1레벨 주문"
 
 msgctxt "ca2bbf16-426f-4500-9d69-7c65b7d36538"
 msgid "2nd level spells"
-msgstr ""
+msgstr "2레벨 주문"
 
 msgctxt "04f9669a-f79c-4d74-8afb-dcd6507f3401"
 msgid "3rd level spells"
-msgstr ""
+msgstr "3레벨 주문"
 
 msgctxt "8c6a98d4-529b-4d3b-8e65-463a8221ddfb"
 msgid "4th level spells"
-msgstr ""
+msgstr "4레벨 주문"
 
 msgctxt "303fad04-48b4-41c9-b477-4767568bccea"
 msgid "5th level spells"
-msgstr ""
+msgstr "5레벨 주문"
 
 msgctxt "78e729d2-6629-49f1-b651-c97e3d9ffeba"
 msgid "6th level spells"
-msgstr ""
+msgstr "6레벨 주문"
 
 msgctxt "137b3e55-40b6-4abc-ada6-62a3c7a6c6cf"
 msgid "7th level spells"
-msgstr ""
+msgstr "7레벨 주문"
 
 msgctxt "87623520-879c-49a9-9f8a-1cbf590a7eea"
 msgid "8th level spells"
-msgstr ""
+msgstr "8레벨 주문"
 
 msgctxt "e96aa4a2-427c-4af8-90dd-0338c2066f31"
 msgid "9th level spells"
-msgstr ""
+msgstr "9레벨 주문"
 
 msgctxt "4ad4c066-7504-4595-9d52-76801369b315"
 msgid "(Show best character for this action)"
@@ -27497,39 +27547,39 @@ msgstr ""
 
 msgctxt "dfe1c2dc-6a19-4bc5-a1a8-df01cc674540"
 msgid "physical damage from weapon"
-msgstr ""
+msgstr "무기 물리 피해"
 
 msgctxt "f1b41bfe-a3c6-4b20-8a5e-bdb05212c8a8"
 msgid "Total value"
-msgstr ""
+msgstr "전체 값"
 
 msgctxt "a516b766-da65-4ae5-84d9-b8905cc61732"
 msgid "Disarm"
-msgstr ""
+msgstr "무장 해제"
 
 msgctxt "1644911d-cab3-4d33-8e9f-94626a00fe69"
 msgid "Trap"
-msgstr ""
+msgstr "함정"
 
 msgctxt "bf7f89d2-5d60-475e-abb8-963628e58ea6"
 msgid "Unidentified"
-msgstr ""
+msgstr "감정되지 않음"
 
 msgctxt "ee6d8ada-9f82-4821-8cbb-b9adfdab167f"
 msgid "Not inspected"
-msgstr ""
+msgstr "검사하지 않음"
 
 msgctxt "356a97dc-7714-4a5f-8566-df955a778fea"
 msgid "You don't know this recipe."
-msgstr ""
+msgstr "당신은 이 레시피를 모릅니다."
 
 msgctxt "ddd7228a-6e8a-4cce-b290-6c7f9e5168e7"
 msgid "Irremovable"
-msgstr ""
+msgstr "옮길 수 없음"
 
 msgctxt "24788a19-f2cf-46cd-91d4-9d7cb66640db"
 msgid "Irremovable"
-msgstr ""
+msgstr "옮길 수 없음"
 
 msgctxt "ed5021f0-c4ae-4fb3-91f7-ff51718e5c1c"
 msgid "VS"
@@ -27537,51 +27587,51 @@ msgstr ""
 
 msgctxt "9e50822c-2d25-4813-b2c6-8d729bcbbfe0"
 msgid "Vulnerabilities"
-msgstr ""
+msgstr "취약점"
 
 msgctxt "4b576345-70d3-4427-b229-f686a6b811d7"
 msgid "The deal is not complete. Are you sure you want to leave?"
-msgstr ""
+msgstr "거래가 완료되지 않았습니다. 떠나시겠습니까?"
 
 msgctxt "67e72d69-dd73-4fdf-b705-cb7d52395a24"
 msgid "Deal!"
-msgstr ""
+msgstr "거래!"
 
 msgctxt "1f46058b-7e4e-4e8d-8a05-e464cf17e434"
 msgid "Offer"
-msgstr ""
+msgstr "제안"
 
 msgctxt "cd16383c-038f-4c1f-b6b8-00dad8d6739a"
 msgid "Return"
-msgstr ""
+msgstr "되돌리기"
 
 msgctxt "f3c1f0c2-9c19-4b7d-8ba1-85087b36ae1b"
 msgid "Accessories"
-msgstr ""
+msgstr "장신구"
 
 msgctxt "886fa11b-f21a-4b72-90dc-ea4c2d15552d"
 msgid "Armor and shields"
-msgstr ""
+msgstr "갑옷과 방패"
 
 msgctxt "eed09591-6aca-4522-a197-6c966c0950ed"
 msgid "All items"
-msgstr ""
+msgstr "모든 아이템"
 
 msgctxt "1ee9ea8f-203c-4e70-8256-5e4369a7b212"
 msgid "Other"
-msgstr ""
+msgstr "그 외"
 
 msgctxt "dba5192d-2a39-48e1-a1fd-a66b57a06210"
 msgid "Notable"
-msgstr ""
+msgstr "중요"
 
 msgctxt "6f22a0fb-f0d5-47c2-aa03-a6c299e85251"
 msgid "Usable"
-msgstr ""
+msgstr "사용 가능"
 
 msgctxt "9b9f1000-d9ea-4902-b489-222c11b4e980"
 msgid "Weapons"
-msgstr ""
+msgstr "무기"
 
 msgctxt "f03f4c4d-a968-47b6-bc43-50553d8dc673"
 msgid "<align=center>Press [J] to open</align>"
@@ -27589,7 +27639,7 @@ msgstr ""
 
 msgctxt "cc216901-cf93-4e16-b823-9f5dd25adff8"
 msgid "Journal"
-msgstr ""
+msgstr "저널"
 
 msgctxt "69c74d8c-b230-46fd-a08e-deea1cb48b3e"
 msgid "The party gets tired faster by {0}."
@@ -27608,7 +27658,7 @@ msgstr ""
 
 msgctxt "5ea13a4e-6d84-4f3c-b16b-566cf8f2f0f9"
 msgid "Penalty"
-msgstr ""
+msgstr "페널티"
 
 msgctxt "551e33ac-22c5-45ad-8881-04518e9cff72"
 msgid "The party gets tired faster by {0}."
@@ -27624,7 +27674,7 @@ msgstr ""
 
 msgctxt "8b99401b-f7be-49ff-86be-1728b723165d"
 msgid "Fatigue period"
-msgstr ""
+msgstr "피로 기간"
 
 msgctxt "75949097-59da-4c5e-b8f7-96f10e401144"
 msgid ""
@@ -27634,19 +27684,19 @@ msgstr ""
 
 msgctxt "530574cf-d0a6-4dae-8749-28fe03773276"
 msgid "Party penalty"
-msgstr ""
+msgstr "파티 페널티"
 
 msgctxt "c1327ad3-7185-4489-9f5e-0dee5873e81f"
 msgid "Options set"
-msgstr ""
+msgstr "옵션 세트"
 
 msgctxt "3b7f88e8-4f1b-44ad-8293-08949a8f6c4a"
 msgid "Party speed is limited"
-msgstr ""
+msgstr "파티 속도 제한됨"
 
 msgctxt "a9e39c2e-73f8-40d0-85fe-52923c911542"
 msgid "Recommended ability score"
-msgstr ""
+msgstr "추천 능력치"
 
 msgctxt "8096edf2-ac84-4c69-8adc-53cdb7199289"
 msgid ""
@@ -27658,11 +27708,11 @@ msgstr ""
 
 msgctxt "9b5a8e8f-e4c8-4fc6-b9dd-3bfda4f51dfe"
 msgid "Personal penalty"
-msgstr ""
+msgstr "개인 페널티"
 
 msgctxt "284a7bdb-aaf2-4c0b-acd0-d133c0d91f9b"
 msgid "Class Ability Score"
-msgstr ""
+msgstr "클래스 능력치"
 
 msgctxt "d1adbce9-a10a-4d1b-ba5c-b0c57d0f8a77"
 msgid ""
@@ -27673,7 +27723,7 @@ msgstr ""
 
 msgctxt "b3ae52bb-ddf3-49f7-ae99-43ffb32b8560"
 msgid "Non-recommended Feature"
-msgstr ""
+msgstr "비추천 특성"
 
 msgctxt "ed21b651-4a48-459b-956e-8866ac2d23d2"
 msgid ""
@@ -27694,11 +27744,11 @@ msgstr ""
 
 msgctxt "f10554f3-f5ca-4253-9a6d-b9a9ca244b25"
 msgid "Recommended feature"
-msgstr ""
+msgstr "추천 특성"
 
 msgctxt "bd069b63-27cf-478b-8316-9c309ef79e85"
 msgid "Continue traveling"
-msgstr ""
+msgstr "계속 여행"
 
 msgctxt "4ae39bd9-34a4-4b97-a426-ca44a4a3e14f"
 msgid "<align=center>Click to expand weapon sets</align>."
@@ -27706,11 +27756,11 @@ msgstr ""
 
 msgctxt "c840383e-e460-432e-868d-7bcb4f0358bc"
 msgid "Weapon sets"
-msgstr ""
+msgstr "무기 세트"
 
 msgctxt "313d7dbc-dd08-4178-a3d8-7ff44b9b9791"
 msgid "Stop traveling"
-msgstr ""
+msgstr "여행 정지"
 
 msgctxt "ca870614-ea19-4cff-a70a-9d34c94407fb"
 msgid ""
@@ -27719,7 +27769,7 @@ msgstr ""
 
 msgctxt "5d91e72e-5597-446d-9301-42ea0ba656dc"
 msgid "Group Manager"
-msgstr ""
+msgstr "그룹 매니저"
 
 msgctxt "1ab9d976-ade4-4077-ab11-b1104ec101b8"
 msgid ""
@@ -27728,23 +27778,23 @@ msgstr ""
 
 msgctxt "48a83c2c-8852-4e84-b97b-679230070719"
 msgid "Spell Failure Chance"
-msgstr ""
+msgstr "주문 실패 확률"
 
 msgctxt "275075dd-df22-40be-97e1-39f8bc9840ec"
 msgid "No penalty"
-msgstr ""
+msgstr "페널티 없음"
 
 msgctxt "8fffa24e-834f-4a81-9542-8f1eaf261434"
 msgid "Material Component"
-msgstr ""
+msgstr "물질 구성 요소"
 
 msgctxt "acf0865e-fa7e-4dad-ae5f-b9a32e86f44e"
 msgid "Recommended feature"
-msgstr ""
+msgstr "추천 특성"
 
 msgctxt "3b40c21b-4143-4217-a640-bb6e916507c5"
 msgid "Non-recommended feature"
-msgstr ""
+msgstr "비추천 특성"
 
 msgctxt "845bfaf2-5988-4c7c-990d-378be47e0664"
 msgid ""
@@ -27755,15 +27805,15 @@ msgstr ""
 
 msgctxt "0900dc35-3b43-4bed-ab92-f1e6cde35ad1"
 msgid "Useful feature"
-msgstr ""
+msgstr "유용한 기능"
 
 msgctxt "030c7c7b-991e-46c4-9834-118e7f75e0f8"
 msgid "Turn off all filters"
-msgstr ""
+msgstr "모든 필터 끄기"
 
 msgctxt "c7c7b22e-fe76-4316-808c-83db227de0d4"
 msgid "All"
-msgstr ""
+msgstr "전체"
 
 msgctxt "43045bf4-329b-4d73-b34b-386ad73f3b3e"
 msgid "<align=center>Press [{bind|Inspect}] to enable inspecting.</align>"
@@ -27771,7 +27821,7 @@ msgstr ""
 
 msgctxt "0020b64c-0fa3-45d8-a90d-5dd8c4fe4b65"
 msgid "Inspect"
-msgstr ""
+msgstr "검사"
 
 msgctxt "c373d77c-fdd9-4dd8-848e-bd5c7208fabc"
 msgid "<align=center>Click to try hide in shadows</align>."
@@ -27779,7 +27829,7 @@ msgstr ""
 
 msgctxt "5b32f52d-e087-4fa0-b770-28d4a5d83611"
 msgid "Stealth"
-msgstr ""
+msgstr "은신"
 
 msgctxt "2e7811b7-4953-4208-80af-4c495d82334c"
 msgid ""
@@ -27793,7 +27843,7 @@ msgstr ""
 
 msgctxt "61d1749f-bfd1-497d-8720-664d4f52eb86"
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "인공지능"
 
 msgctxt "85bf9e3d-76aa-4012-a101-c110b063265b"
 msgid "<align=center>Click to deactivate AI</align>."
@@ -27801,7 +27851,7 @@ msgstr ""
 
 msgctxt "468540e2-52b9-4a2b-a8a5-07781d452f14"
 msgid "Artificial Intelligence"
-msgstr ""
+msgstr "인공지능"
 
 msgctxt "ff2f8a3e-937f-418d-8a80-5b0ce4f66685"
 msgid "<align=center>Click to cancel stealth</align>."
@@ -27809,7 +27859,7 @@ msgstr ""
 
 msgctxt "145c13b8-ade5-409e-8346-17decead9c81"
 msgid "Stealth"
-msgstr ""
+msgstr "은신"
 
 msgctxt "fcfbda1e-aade-44d6-b930-982e0c9f0442"
 msgid "<align=center>Click to expand spells bar</align>."
@@ -27817,7 +27867,7 @@ msgstr ""
 
 msgctxt "0ebd60a5-6c57-4d97-b915-d98ab1714fb4"
 msgid "Spellbook"
-msgstr ""
+msgstr "주문책"
 
 msgctxt "c6dd000b-5970-4629-a0b7-abc133e2ea04"
 msgid "<align=center>Character doesn't have spells</align>."
@@ -27825,7 +27875,7 @@ msgstr ""
 
 msgctxt "d7cba7c6-faa1-4596-b8f1-540309dceb9e"
 msgid "Spellbook"
-msgstr ""
+msgstr "주문책"
 
 msgctxt "4f7c86a0-2355-45bc-aa41-83d694fcd980"
 msgid "<align=center>Click to expand abilities bar</align>."
@@ -27833,7 +27883,7 @@ msgstr ""
 
 msgctxt "9c708112-56fa-4728-83ad-d674deb3dfb5"
 msgid "Abilities"
-msgstr ""
+msgstr "능력"
 
 msgctxt "2b9a9ec9-86f4-4ebf-889a-d161fd114a8b"
 msgid "<align=center>Character doesn't have abilities</align>."
@@ -27841,7 +27891,7 @@ msgstr ""
 
 msgctxt "3665c14f-0875-41d4-81b8-8afda41c8ab4"
 msgid "Abilities"
-msgstr ""
+msgstr "능력"
 
 msgctxt "8d0caf4d-237a-423b-adb6-547a22931deb"
 msgid "<align=center>Click to expand usable items bar</align>."
@@ -27849,7 +27899,7 @@ msgstr ""
 
 msgctxt "ff37b1b6-9eb6-4cdc-a654-2462bb1dfe49"
 msgid "Belt"
-msgstr ""
+msgstr "벨트"
 
 msgctxt "e49fdd16-2f50-4962-b012-8aa80f0e8e2d"
 msgid "<align=center>Press [I] to open</align>."
@@ -27857,7 +27907,7 @@ msgstr ""
 
 msgctxt "fc313e98-3546-4f3b-b418-66cf2515e80e"
 msgid "Inventory"
-msgstr ""
+msgstr "인벤토리"
 
 msgctxt "3be62b95-1298-442c-800b-20bd55647978"
 msgid "<align=center>Character doesn't have usable items</align>."
@@ -27865,7 +27915,7 @@ msgstr ""
 
 msgctxt "c715651a-2924-42ca-ab3f-d02bee769f45"
 msgid "Belt"
-msgstr ""
+msgstr "벨트"
 
 msgctxt "0e6f2519-2ede-4e43-b254-e413d029b47f"
 msgid "<align=center>Click to minimize weapon sets</align>."
@@ -27873,7 +27923,7 @@ msgstr ""
 
 msgctxt "a3b9055d-e412-4a08-9d4f-56fcfc09a4dc"
 msgid "Weapon sets"
-msgstr ""
+msgstr "무기 세트"
 
 msgctxt "755e394a-a001-4cbc-bee3-b818184b8d5f"
 msgid "<align=center>Click to open</align>."
@@ -27881,7 +27931,7 @@ msgstr ""
 
 msgctxt "4aaee33b-e3aa-4730-88d8-6ff6ea4af25f"
 msgid "Summary"
-msgstr ""
+msgstr "요약"
 
 msgctxt "d845ab9f-f3d6-4416-9eb2-4c76d1a57729"
 msgid "<align=center>Click to open</align>."
@@ -27889,7 +27939,7 @@ msgstr ""
 
 msgctxt "1f1d0ae3-93b2-4b48-9553-c420af91387b"
 msgid "Abilities"
-msgstr ""
+msgstr "능력"
 
 msgctxt "2d6efe33-88ad-4316-9d6d-fb487530514d"
 msgid "<align=center>Click to open</align>."
@@ -27897,7 +27947,7 @@ msgstr ""
 
 msgctxt "5cf70093-ca47-4243-9f57-353cf4cd2b3f"
 msgid "Martial"
-msgstr ""
+msgstr "전투"
 
 msgctxt "c861ce9a-1af2-4703-82f8-ba6f511d01bf"
 msgid "<align=center>Click to open</align>."
@@ -27905,7 +27955,7 @@ msgstr ""
 
 msgctxt "4bff770d-fa5e-4866-888b-4054b2e58ef5"
 msgid "Class"
-msgstr ""
+msgstr "클래스"
 
 msgctxt "87de72e4-cd12-4675-918a-d2bd3ed38253"
 msgid ""
@@ -27913,7 +27963,7 @@ msgstr ""
 
 msgctxt "8beaa3b7-727c-4770-95dc-afd925ba7458"
 msgid "In the main hand of"
-msgstr ""
+msgstr "주무장"
 
 msgctxt "c18b64dc-1595-4272-b7f3-93429d055660"
 msgid ""
@@ -27921,7 +27971,7 @@ msgstr ""
 
 msgctxt "e69c9307-96dc-4006-9490-195bbd3b2656"
 msgid "In the off-hand of"
-msgstr ""
+msgstr "부무장"
 
 msgctxt "9aec9935-a105-43eb-a6bc-70be100d3f90"
 msgid ""
@@ -27929,7 +27979,7 @@ msgstr ""
 
 msgctxt "2a36a5e4-8e74-4c8a-a998-6bf6c00de3ef"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "228ae0e4-c848-49e8-b22d-e171a16cde09"
 msgid ""
@@ -27937,7 +27987,7 @@ msgstr ""
 
 msgctxt "0f12209f-b312-4530-9eb8-92de19c95b17"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "b8edb3df-890d-48a1-a3eb-674f74610f79"
 msgid "<align=center>Press [M] to open</align>."
@@ -27945,7 +27995,7 @@ msgstr ""
 
 msgctxt "2b72df3a-c909-4b28-b588-1281a4c5dfe6"
 msgid "Map"
-msgstr ""
+msgstr "지도"
 
 msgctxt "4b0a5c94-2bdd-4392-89ce-e2c44d42ed4b"
 msgid ""
@@ -27953,7 +28003,7 @@ msgstr ""
 
 msgctxt "28d42cee-535f-4ab3-8c8c-83514bfc9bc0"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "af2b4f19-f5e2-40e1-bb7b-2dd5d24d9a85"
 msgid ""
@@ -27961,7 +28011,7 @@ msgstr ""
 
 msgctxt "441e01da-efc3-4ee3-bd21-13785211eb98"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "1ad44c13-d4cd-49c8-8b51-84d7b326de1b"
 msgid ""
@@ -27969,7 +28019,7 @@ msgstr ""
 
 msgctxt "62290a14-c731-4930-b1d5-a610d5700ae9"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "818e0a99-3d19-4650-bbef-55d533d3ffe0"
 msgid ""
@@ -27977,7 +28027,7 @@ msgstr ""
 
 msgctxt "5abc35b8-a9ce-4928-8606-8c71ddffb215"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "b08a9c07-30d5-49f7-bcba-78c2ac355e5b"
 msgid ""
@@ -27985,11 +28035,11 @@ msgstr ""
 
 msgctxt "3b80ecbd-cac4-46a5-a1df-70f88e6f5ecc"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "65a65df5-122e-472b-88d3-1985c3a2e268"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "7751602d-8a72-46e8-927f-d87e5f274f51"
 msgid ""
@@ -27997,7 +28047,7 @@ msgstr ""
 
 msgctxt "257f736d-ef96-41a3-a918-e08bce5859b1"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "c6be5e32-c14b-4e47-871a-4143fe68cd36"
 msgid ""
@@ -28005,7 +28055,7 @@ msgstr ""
 
 msgctxt "71d55d09-d0ea-47b8-bc76-562b97de0985"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "79b56767-9cfd-499e-871f-deec098f40ce"
 msgid ""
@@ -28013,7 +28063,7 @@ msgstr ""
 
 msgctxt "a58e9529-1149-4f0f-8b54-e33fe6f4b2db"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "e99ce72d-a825-4d62-8ec4-03eb063c8e9e"
 msgid ""
@@ -28021,7 +28071,7 @@ msgstr ""
 
 msgctxt "d1f0623d-1b36-42c9-b66f-ead44424d2b4"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "326f26ef-2cdb-4d0b-8077-4da9ca86cd6c"
 msgid "<align=center>Press [C] to open</align>."
@@ -28029,7 +28079,7 @@ msgstr ""
 
 msgctxt "6a040821-166e-4e9f-af1b-74d45c3ebcd9"
 msgid "Character"
-msgstr ""
+msgstr "캐릭터"
 
 msgctxt "c785102e-bffe-4a80-8d74-6a51c39e90a7"
 msgid ""
@@ -28037,7 +28087,7 @@ msgstr ""
 
 msgctxt "a4c16fdc-aadd-432c-a089-0c12dbf70d5a"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "ce287243-991d-4249-b8c4-11871cf7b3ac"
 msgid ""
@@ -28045,7 +28095,7 @@ msgstr ""
 
 msgctxt "b213bd36-3242-4b1b-8d81-9bd89de71d9b"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "45128324-a4c0-464d-9bf3-ae3869c5072e"
 msgid ""
@@ -28053,7 +28103,7 @@ msgstr ""
 
 msgctxt "b230c41d-9dc9-4b2f-9f66-32ae73b0eb7f"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "40c45718-9ae2-414e-9c32-dac63da3fd13"
 msgid ""
@@ -28063,7 +28113,7 @@ msgstr ""
 
 msgctxt "0dbe3c51-67b3-44fe-ad69-78d8158c40b6"
 msgid "Formations"
-msgstr ""
+msgstr "대형"
 
 msgctxt "d620e547-6b99-4292-9caf-e85698f0b992"
 msgid ""
@@ -28071,7 +28121,7 @@ msgstr ""
 
 msgctxt "becb5c43-32f9-42ae-9370-9f3102ac88d8"
 msgid "Charges"
-msgstr ""
+msgstr "충전량"
 
 msgctxt "798865c0-1253-4937-9f3b-c27f1249d53f"
 msgid ""
@@ -28079,7 +28129,7 @@ msgstr ""
 
 msgctxt "2c1a788c-f587-44e1-a318-c9d7920aa49d"
 msgid "Difficulty Class"
-msgstr ""
+msgstr "난이도"
 
 msgctxt "5b5282e0-0c2e-430f-8f5d-785502d929a2"
 msgid ""
@@ -28094,7 +28144,7 @@ msgstr ""
 
 msgctxt "c14ecd00-0d78-4451-997d-8a0620465273"
 msgid "Caster level"
-msgstr ""
+msgstr "시전자 레벨"
 
 msgctxt "3ff3f0f2-011a-4ab4-ae87-f415789b1374"
 msgid ""
@@ -28114,7 +28164,7 @@ msgstr ""
 
 msgctxt "709b3162-2169-4e46-bc94-9e250f926c87"
 msgid "Menu"
-msgstr ""
+msgstr "메뉴"
 
 msgctxt "5986922d-3c8c-44cc-9d0b-f7ded0f7d541"
 msgid ""
@@ -28130,7 +28180,7 @@ msgstr ""
 
 msgctxt "65d9c20a-4af7-4817-864f-32bec5419266"
 msgid "Sort"
-msgstr ""
+msgstr "정렬"
 
 msgctxt "aab967d2-70c7-46ba-a980-b500af20e9d4"
 msgid ""
@@ -28138,7 +28188,7 @@ msgstr ""
 
 msgctxt "836f97e7-5797-488c-861b-0126a402aa07"
 msgid "Equipped by"
-msgstr ""
+msgstr "착용됨"
 
 msgctxt "c5aca2b8-311a-4835-a5dd-225701963611"
 msgid ""
@@ -28146,7 +28196,7 @@ msgstr ""
 
 msgctxt "2f57a9b2-4693-4028-b778-e9721f696f20"
 msgid "Memorize"
-msgstr ""
+msgstr "메모라이즈"
 
 msgctxt "644ba968-4ae0-4cbf-a00d-9602a15758f0"
 msgid "Resulting level of current spell with metamagic applied"
@@ -28154,7 +28204,7 @@ msgstr ""
 
 msgctxt "6221aa8e-5d21-44d8-9c1f-921e081c4ae3"
 msgid "Spell level"
-msgstr ""
+msgstr "주문 레벨"
 
 msgctxt "d5ce113b-b7e4-438b-be72-9c738e689197"
 msgid ""
@@ -28163,7 +28213,7 @@ msgstr ""
 
 msgctxt "895c86d1-b92b-4902-a633-54f8bfd39345"
 msgid "Reduce spell level"
-msgstr ""
+msgstr "주문 레벨 감소"
 
 msgctxt "ec5521db-620a-4db1-8281-4af2d8e346d6"
 msgid "Click to write the spell into your spellbook."
@@ -28171,7 +28221,7 @@ msgstr ""
 
 msgctxt "4527c00a-a107-4c0e-a36a-760d817df0ec"
 msgid "Write the spell"
-msgstr ""
+msgstr "주문 쓰기"
 
 msgctxt "9551548f-c16b-4071-b2b0-dc7997990bd6"
 msgid "No spell chosen to write into your spellbook."
@@ -28179,7 +28229,7 @@ msgstr ""
 
 msgctxt "1ec7151c-f19c-48af-a1aa-687ceef430b8"
 msgid "Choose spell"
-msgstr ""
+msgstr "주문 선택"
 
 msgctxt "9cf56b99-0a1b-4130-9461-c44ea771d170"
 msgid "<align=center>Press [B] to open.</align>"
@@ -28187,7 +28237,7 @@ msgstr ""
 
 msgctxt "ec0b58ff-038d-43ee-a7e3-2960ae5c0f37"
 msgid "Spellbook"
-msgstr ""
+msgstr "주문책"
 
 msgctxt "70c5a718-8243-4a6f-9c9b-e6b7f9da9db3"
 msgid ""
@@ -28196,39 +28246,39 @@ msgstr ""
 
 msgctxt "6e2c4879-1307-44b1-a9d4-ca4383e9caf0"
 msgid "Reduce spell level"
-msgstr ""
+msgstr "주문 레벨 감소"
 
 msgctxt "d10e0ddf-29bc-455f-b0bf-fbbaa93e3cb3"
 msgid "Metamagic"
-msgstr ""
+msgstr "메타매직"
 
 msgctxt "e819ff52-bf85-4e31-b7b9-fded35440953"
 msgid "Portrait"
-msgstr ""
+msgstr "초상화"
 
 msgctxt "d4101cdd-79f7-48e8-a383-e555d98e3647"
 msgid "Race"
-msgstr ""
+msgstr "종족"
 
 msgctxt "a9d809a7-e041-4241-9725-5308bbb36a44"
 msgid "Class"
-msgstr ""
+msgstr "클래스"
 
 msgctxt "9b94868d-535d-46da-bfbf-1a4a43514488"
 msgid "Domain"
-msgstr ""
+msgstr "도메인"
 
 msgctxt "239777d2-2342-43be-921a-609bb0623433"
 msgid "School"
-msgstr ""
+msgstr "학파"
 
 msgctxt "0903047f-0844-4985-863d-1eeb4267b451"
 msgid "Inquisition"
-msgstr ""
+msgstr "인퀴지션"
 
 msgctxt "ed5d3704-65a6-47e4-8ef0-afaf747cf78b"
 msgid "Bloodline"
-msgstr ""
+msgstr "형통"
 
 msgctxt "81acbb3d-47f7-4641-8262-8a46c559fa02"
 msgid ""
@@ -28243,27 +28293,27 @@ msgstr ""
 
 msgctxt "03e65192-b1c4-4f67-8aaa-d0c577b4c316"
 msgid "Group Manager"
-msgstr ""
+msgstr "그룹 매니저"
 
 msgctxt "53e5368c-77f2-4561-9a0c-890e4aab8a32"
 msgid "Stop"
-msgstr ""
+msgstr "정지"
 
 msgctxt "efc068d9-fe01-4d89-9e36-218a60c86310"
 msgid "Skills"
-msgstr ""
+msgstr "스킬"
 
 msgctxt "70952726-6033-4439-9a35-1c9537628803"
 msgid "Abilities"
-msgstr ""
+msgstr "능력치"
 
 msgctxt "4f593dee-1561-4d5a-a3e0-b6334e0b3f98"
 msgid "Spells"
-msgstr ""
+msgstr "주문"
 
 msgctxt "ceafed4f-19f9-489d-9aa5-67641862552b"
 msgid "Total"
-msgstr ""
+msgstr "전체"
 
 msgctxt "4d0ea428-95b3-4c91-8f65-9f4704c5d3b1"
 msgid ""
@@ -28274,7 +28324,7 @@ msgstr ""
 
 msgctxt "196b726d-030e-4f51-86cd-26635c20a9d9"
 msgid "Hunting"
-msgstr ""
+msgstr "사냥"
 
 msgctxt "6be9c981-9771-41f2-a86b-48a27a653344"
 msgid ""
@@ -28286,7 +28336,7 @@ msgstr ""
 
 msgctxt "c4c0a06f-0fdc-4968-8900-412adeb001d7"
 msgid "Camp camouflage"
-msgstr ""
+msgstr "캠프 은폐"
 
 msgctxt "1fe7a6c7-cb6b-4bf4-a418-d2e0efe1f54e"
 msgid ""
@@ -28298,7 +28348,7 @@ msgstr ""
 
 msgctxt "15f84e0e-7ec7-4309-9650-cf2c6dd7d5d5"
 msgid "Cooking"
-msgstr ""
+msgstr "요리"
 
 msgctxt "26968055-6fff-4693-9a0d-0fa87bfaf4e5"
 msgid ""
@@ -28308,7 +28358,7 @@ msgstr ""
 
 msgctxt "8a72596e-af14-4522-8f10-1d7504c6b664"
 msgid "Healing"
-msgstr ""
+msgstr "치유"
 
 msgctxt "47030192-a97d-4640-8c5f-4dc7d70934f5"
 msgid ""
@@ -28318,7 +28368,7 @@ msgstr ""
 
 msgctxt "5b055b1a-871b-4f50-ab87-94d08fc08442"
 msgid "Special ability"
-msgstr ""
+msgstr "특수 능력"
 
 msgctxt "a444ce22-d307-422f-b36d-2d632f7e0a69"
 msgid ""
@@ -28331,7 +28381,7 @@ msgstr ""
 
 msgctxt "b3dea952-9425-4224-a810-dc5f497e4d70"
 msgid "Guards"
-msgstr ""
+msgstr "경비"
 
 msgctxt "47bd00be-a16c-4b72-a6e4-85e859e55731"
 msgid ""
@@ -28341,7 +28391,7 @@ msgstr ""
 
 msgctxt "b980184f-2078-49b9-a563-e39df6a01ec5"
 msgid "Hold"
-msgstr ""
+msgstr "고정"
 
 msgctxt "01970a40-b435-4fda-bdf4-ab9efd0fee13"
 msgid "Recipes used for cooking."
@@ -28349,7 +28399,7 @@ msgstr ""
 
 msgctxt "702ad5f5-0d52-4f6f-a828-d545d1710827"
 msgid "Recipes"
-msgstr ""
+msgstr "레시피"
 
 msgctxt "a31fdea1-3074-4133-b0f1-922a8533b4b1"
 msgid "The more roles companions play in camp, the more fatigued they become."
@@ -28366,7 +28416,7 @@ msgstr ""
 
 msgctxt "78f8d2df-0782-463f-98be-f9173548003f"
 msgid "Rations"
-msgstr ""
+msgstr "식량"
 
 msgctxt "fce1bf95-8154-497f-9a0d-294713e12b93"
 msgid "Show exits from the location"
@@ -28390,11 +28440,11 @@ msgstr ""
 
 msgctxt "ab80f16b-3f3c-4f56-9cc8-41b20bfdc5e8"
 msgid "Continue traveling"
-msgstr ""
+msgstr "계속 여행"
 
 msgctxt "ce662ec6-a2c8-4d2f-8a0a-fc23de2f924b"
 msgid "Class"
-msgstr ""
+msgstr "클래스"
 
 msgctxt "3b1cf68d-95ea-4e4f-8b86-62920130540b"
 msgid "<align=center>Click to open.</align>"
@@ -28402,7 +28452,7 @@ msgstr ""
 
 msgctxt "77b775f8-b979-4c10-b951-7400c90b7958"
 msgid "Biography"
-msgstr ""
+msgstr "전기"
 
 msgctxt "3b3d8147-ce86-4653-acbf-702be8d5155d"
 msgid "<align=center>Press [R] to open.</align>"
@@ -28410,35 +28460,35 @@ msgstr ""
 
 msgctxt "ce38963d-bdf5-4752-91b4-4f36a2067dfc"
 msgid "Camp"
-msgstr ""
+msgstr "캠프"
 
 msgctxt "eec7090b-a47a-4964-bde3-bf0af69d64e9"
 msgid "Difficulty"
-msgstr ""
+msgstr "난이도"
 
 msgctxt "37b44a20-eff3-4408-871e-dc3f5e3d7756"
 msgid "Character"
-msgstr ""
+msgstr "캐릭터"
 
 msgctxt "4d0e43eb-6930-4849-b591-875b30a738ff"
 msgid "Armor check (exclude shield)"
-msgstr ""
+msgstr "아머 체크 (방패 포함)"
 
 msgctxt "a7924ba9-af4f-4143-942d-ad08c6236837"
 msgid "Max Dexterity bonus"
-msgstr ""
+msgstr "최대 민첩 보너스"
 
 msgctxt "9fb77491-6b75-4762-ae5f-dfb384c694a0"
 msgid "Speed penalty"
-msgstr ""
+msgstr "속도 페널티"
 
 msgctxt "abf52906-2c47-4660-877b-3cd45e4b65fc"
 msgid "Group speed (outside of combat)"
-msgstr ""
+msgstr "그룹 속도 (전투 이외)"
 
 msgctxt "c502681b-22c9-421e-afa5-581406904943"
 msgid "Travel speed reduced."
-msgstr ""
+msgstr "여행 속도 감소됨."
 
 msgctxt "dd836502-f781-4517-8483-88a3e00c5e70"
 msgid "Time before fatigue reduced."
@@ -28446,7 +28496,7 @@ msgstr ""
 
 msgctxt "023a6323-7fb8-4c78-a1e9-e6be23af0f30"
 msgid "Travel speed on the map is reduced by {0}."
-msgstr ""
+msgstr "지도에서의 이동 속도가 {0} 감소했습니다."
 
 msgctxt "4ee4c257-abb6-4c3a-81b1-0f3941f5e805"
 msgid "Exiting to global map is <b>blocked</b>."
@@ -28462,47 +28512,47 @@ msgstr ""
 
 msgctxt "d8063400-158b-4a59-ae95-5127b3810a55"
 msgid "Select all characters"
-msgstr ""
+msgstr "모든 캐릭터 선택"
 
 msgctxt "e3eeb5e0-da21-49ae-b9a2-5151a2fd32e2"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "9b81b19f-b1f8-4e5c-802c-a7fe3aead33c"
 msgid "Base"
-msgstr ""
+msgstr "기본"
 
 msgctxt "06d232d9-12ba-466d-8b6a-6cad8314c71e"
 msgid "Defense"
-msgstr ""
+msgstr "방어"
 
 msgctxt "0eed9a87-dda8-4586-bcdb-59dded217606"
 msgid "Attack"
-msgstr ""
+msgstr "공격"
 
 msgctxt "b651f7ec-aa05-4797-ad36-a0c9d2199f67"
 msgid "Abilities"
-msgstr ""
+msgstr "능력"
 
 msgctxt "bea1fef1-deb1-412d-85dc-8a01b7c7870d"
 msgid "All"
-msgstr ""
+msgstr "전체"
 
 msgctxt "500cfa46-2975-4cc5-a790-605724637418"
 msgid "Usable item"
-msgstr ""
+msgstr "사용 가능 아이템"
 
 msgctxt "017d4f8d-08bb-4859-bc56-2cc73aab0fb4"
 msgid "Wand"
-msgstr ""
+msgstr "완드"
 
 msgctxt "92f72bcd-5598-4aef-b943-51910a0d519c"
 msgid "Scroll"
-msgstr ""
+msgstr "스크롤"
 
 msgctxt "c5b3aeb3-891c-4346-8bbf-28da41434011"
 msgid "Potion"
-msgstr ""
+msgstr "포션"
 
 msgctxt "bff0ca93-cc46-497e-8eed-a136f001bbc5"
 msgid "You can't camp when enemies are nearby."
@@ -28514,7 +28564,7 @@ msgstr ""
 
 msgctxt "69b02c71-b95a-4007-92b2-140afdfd3f5d"
 msgid "Saving..."
-msgstr ""
+msgstr "저장중"
 
 msgctxt "4881d836-3711-4950-977a-22ce35e49b19"
 msgid "You can not change equipment in combat"
@@ -28522,27 +28572,27 @@ msgstr ""
 
 msgctxt "d668ec1c-4c36-4bdd-a0b6-eb2d9f4f3750"
 msgid "Game loaded"
-msgstr ""
+msgstr "게임 불러옴"
 
 msgctxt "654b66ff-8bf1-4de0-84cf-77e0475f2fc2"
 msgid "Game saved"
-msgstr ""
+msgstr "게임 저장됨"
 
 msgctxt "a74b5fbe-71cd-47e1-816b-a62a539d32f4"
 msgid "Game quick saved"
-msgstr ""
+msgstr "게임 빠른 저장됨"
 
 msgctxt "dab5bb94-bace-4deb-9b1c-910f72a68829"
 msgid "Game autosaved"
-msgstr ""
+msgstr "게임 자동 저장됨"
 
 msgctxt "d667f6e8-33e4-4bcc-b760-00ebeadf6fe3"
 msgid "Saving game is impossible"
-msgstr ""
+msgstr "게임 저장 불가능"
 
 msgctxt "76ee95a7-cb61-49b0-8e9a-176c0c817338"
 msgid "Difficulty is changed."
-msgstr ""
+msgstr "난이도 변경됨"
 
 msgctxt "dcf26a49-a452-42ea-b1a2-97d2e82cad39"
 msgid "You cannot save during combat."
@@ -28558,127 +28608,127 @@ msgstr ""
 
 msgctxt "21d4f223-f2e1-42d0-a04f-ad7410e90de3"
 msgid "Simple"
-msgstr ""
+msgstr "단순"
 
 msgctxt "16878322-a6ee-4094-aaac-e9a4404f4c59"
 msgid "Martial"
-msgstr ""
+msgstr "군용"
 
 msgctxt "d6b810a1-5bf4-4df5-9d97-722ae5fff7b7"
 msgid "Exotic"
-msgstr ""
+msgstr "특수"
 
 msgctxt "e6ba47b5-6944-4ff4-99b9-51b15e9dca01"
 msgid "Finesse Wielding"
-msgstr ""
+msgstr "기교 무기"
 
 msgctxt "3cb6e21c-9950-4bc2-a7ec-e42e0dd8d695"
 msgid "Monk weapon"
-msgstr ""
+msgstr "몽크 무기"
 
 msgctxt "d862df26-b298-4c9e-9f2e-1212e5c89960"
 msgid "Chaotic Evil"
-msgstr ""
+msgstr "혼돈 악"
 
 msgctxt "347b04b3-b061-47b2-b75d-c46257306107"
 msgid "Chaotic Good"
-msgstr ""
+msgstr "혼돈 선"
 
 msgctxt "b27f25f0-7f2f-4af0-ad59-5af20fa37d72"
 msgid "Chaotic Neutral"
-msgstr ""
+msgstr "혼돈 중립"
 
 msgctxt "be292d34-2adb-45dd-a42b-40184dcb56f4"
 msgid "Chaotic"
-msgstr ""
+msgstr "혼돈"
 
 msgctxt "a8e1dd22-0b79-490a-a184-e63b487447a2"
 msgid "Evil"
-msgstr ""
+msgstr "악"
 
 msgctxt "87a75e6f-5887-4bfb-ae30-15d0c06d0601"
 msgid "Good"
-msgstr ""
+msgstr "선"
 
 msgctxt "9edc7206-ea21-42e3-a3d9-b3b7cf29c246"
 msgid "Lawful Evil"
-msgstr ""
+msgstr "질서 악"
 
 msgctxt "fe4a6606-0ae1-46bd-ac75-63999deb03ac"
 msgid "Lawful Good"
-msgstr ""
+msgstr "질서 선"
 
 msgctxt "af57f066-eb4f-4b02-a4e2-e30f75216aa9"
 msgid "Lawful Neutral"
-msgstr ""
+msgstr "질서 중립"
 
 msgctxt "b1693e2b-dc90-4eee-8645-c9706949a4ac"
 msgid "Lawful"
-msgstr ""
+msgstr "질서"
 
 msgctxt "3b10e51b-232b-424e-8de7-0d52e37199d9"
 msgid "Neutral Evil"
-msgstr ""
+msgstr "질서 악"
 
 msgctxt "6a59fa0a-edf5-43bb-b526-f1bc19a5c92f"
 msgid "Neutral Good"
-msgstr ""
+msgstr "중립 선"
 
 msgctxt "2e1dcf3d-d5ba-4881-90cc-a1c664fe633f"
 msgid "Neutral"
-msgstr ""
+msgstr "중립"
 
 msgctxt "4c1d2f72-5cd5-444f-b321-4252ee1af348"
 msgid "Chaotic Evil"
-msgstr ""
+msgstr "혼돈 악"
 
 msgctxt "1cc209c7-ce3f-4245-a323-bdc22dbb9abb"
 msgid "Chaotic Good"
-msgstr ""
+msgstr "혼돈 선"
 
 msgctxt "543a4c0a-7de5-4c41-9792-0f96068fb799"
 msgid "Chaotic Neutral"
-msgstr ""
+msgstr "혼돈 중립"
 
 msgctxt "5ca20174-92e0-495b-8266-3ed1ddb9ab5c"
 msgid "Chaotic"
-msgstr ""
+msgstr "혼돈"
 
 msgctxt "433e65c1-b424-4936-8f86-7759fbaad33f"
 msgid "Evil"
-msgstr ""
+msgstr "악"
 
 msgctxt "d1316a7b-bbec-484d-b4ea-4e01fbca2773"
 msgid "Good"
-msgstr ""
+msgstr "선"
 
 msgctxt "c2ce29ef-e7bd-49f6-b73d-a9b9f9384488"
 msgid "Lawful Evil"
-msgstr ""
+msgstr "질서 악"
 
 msgctxt "3dd83b37-21e9-4bc0-ad0d-48bb027f3d66"
 msgid "Lawful Good"
-msgstr ""
+msgstr "질서 선"
 
 msgctxt "ee2dd037-8386-43db-ad43-07e7d7479729"
 msgid "Lawful Neutral"
-msgstr ""
+msgstr "질서 중립"
 
 msgctxt "110d3159-9e43-497f-9a7d-f19d1034b4a5"
 msgid "Lawful"
-msgstr ""
+msgstr "질서"
 
 msgctxt "2d2aace7-9384-40a7-9f21-c152bfaebb97"
 msgid "Neutral Evil"
-msgstr ""
+msgstr "중립 악"
 
 msgctxt "1195a65d-67e8-4fd9-8727-eed4ae25d99a"
 msgid "Neutral Good"
-msgstr ""
+msgstr "중립 선"
 
 msgctxt "7ee74a5e-05a3-47c0-ad59-752a0a71ce69"
 msgid "Neutral"
-msgstr ""
+msgstr "중립"
 
 msgctxt "4700d805-5974-459e-a94a-b883b67f07ed"
 msgid ""
@@ -28797,63 +28847,63 @@ msgstr ""
 
 msgctxt "0e4b67d5-51c4-4a28-bc19-7d6791a17da5"
 msgid "Back"
-msgstr ""
+msgstr "뒤로"
 
 msgctxt "8f49eaab-c121-4d04-aff4-b9224d7a7156"
 msgid "Buy"
-msgstr ""
+msgstr "구매"
 
 msgctxt "e3d25fe3-5169-405b-bf31-f631eada64a1"
 msgid "Drop"
-msgstr ""
+msgstr "버리기"
 
 msgctxt "7c20280a-a847-4775-a0cf-99dc37c780e3"
 msgid "Equip"
-msgstr ""
+msgstr "장비"
 
 msgctxt "3ff14c74-7b0b-461d-946e-b44b14b3b574"
 msgid "Forget"
-msgstr ""
+msgstr "잊기"
 
 msgctxt "cdb72084-39ab-4b91-b390-7ebc33dfb718"
 msgid "Info"
-msgstr ""
+msgstr "정보"
 
 msgctxt "228047fa-bb47-4ae2-b90b-9b29189aa120"
 msgid "Open Inventory"
-msgstr ""
+msgstr "인벤토리 열기"
 
 msgctxt "6d218922-d895-4c33-aae4-be9ff45c94fb"
 msgid "Open Spellbook"
-msgstr ""
+msgstr "주문책 열기"
 
 msgctxt "674b3426-a719-434b-8277-36c8200911fb"
 msgid "Open Character Screen"
-msgstr ""
+msgstr "캐릭터 창 열기"
 
 msgctxt "54a5576d-afc6-4bc0-8707-391c9ed81c69"
 msgid "Memorize"
-msgstr ""
+msgstr "메모라이즈"
 
 msgctxt "35f215bc-ce48-4daf-801f-9b9f7149cc48"
 msgid "Sell"
-msgstr ""
+msgstr "팔기"
 
 msgctxt "bc6eed8d-2b40-4036-bf06-c161d0abcc0c"
 msgid "Split"
-msgstr ""
+msgstr "나누기"
 
 msgctxt "1318dd7b-60cf-4273-9066-e9ea15130683"
 msgid "Take off"
-msgstr ""
+msgstr "가져가기"
 
 msgctxt "0bfa3393-7da8-4591-aafe-21ca24c5e66b"
 msgid "Copy to Spellbook"
-msgstr ""
+msgstr "주문책에 복사"
 
 msgctxt "e3f2b95e-46ef-4d7b-b8ad-c140b66c05fb"
 msgid "Use"
-msgstr ""
+msgstr "사용"
 
 msgctxt "97b283fd-941b-4e8d-9491-729e92cc047d"
 msgid ""
@@ -28898,27 +28948,27 @@ msgstr ""
 
 msgctxt "ff4aa264-9220-44b7-b71f-7515a5e2c712"
 msgid "Armor Class"
-msgstr ""
+msgstr "아머 클래스"
 
 msgctxt "4dcb3956-4b7b-4edc-bbf0-8207a27ca4cd"
 msgid "Attack Bonus"
-msgstr ""
+msgstr "공격 보너스"
 
 msgctxt "4dd15e00-1891-414d-9b35-c0a798236c4e"
 msgid "Attack harmlessly passes through"
-msgstr ""
+msgstr "무해한 공격"
 
 msgctxt "03e4f7c5-8953-41cd-8bac-cf238f0384e3"
 msgid "Critical miss!"
-msgstr ""
+msgstr "치명적 빗나감!"
 
 msgctxt "e0145fed-d30f-4803-87f2-a8a0609d7a37"
 msgid "Critical hit!"
-msgstr ""
+msgstr "치명타 적중!"
 
 msgctxt "73ff9046-01b7-4eff-97f7-a5bd3ac4a3cc"
 msgid "Flat-footed"
-msgstr ""
+msgstr "무방비"
 
 msgctxt "266d6b63-d932-4ee8-a276-769a3be1b004"
 msgid "Fortification armor chance: {chance_dc}%, roll: {d100} — fail"
@@ -28932,7 +28982,7 @@ msgstr ""
 
 msgctxt "bad7cdf1-2704-4596-a879-bdf958fb431b"
 msgid "Hit"
-msgstr ""
+msgstr "적중"
 
 msgctxt "36ddb9ca-d26d-4b88-9c0b-22aa81da9599"
 msgid "<b>{source}</b> attacks <b>{target}</b> with <b>{text}</b>."
@@ -28940,7 +28990,7 @@ msgstr ""
 
 msgctxt "61f9eb2e-b061-4a75-801a-df60c7f5d2da"
 msgid "Miss"
-msgstr ""
+msgstr "빗나감"
 
 msgctxt "84b96973-c07a-40c7-bd65-2b17d5ff97c7"
 msgid "{source} failed to parry an attack from {target}"
@@ -28960,7 +29010,7 @@ msgstr ""
 
 msgctxt "7c7a62db-6893-45ba-bb1a-d293e55b653e"
 msgid "Sneak attack!"
-msgstr ""
+msgstr "암습!"
 
 msgctxt "86b690ea-d1fb-435a-a90f-0c93c2bbf8cb"
 msgid ""
@@ -29006,7 +29056,7 @@ msgstr ""
 
 msgctxt "8ce7a152-6295-475d-91d7-a6e68d7efa14"
 msgid "Touch"
-msgstr ""
+msgstr "첩촉"
 
 msgctxt "a0bebec9-7f2f-428e-b270-f9045fe04fed"
 msgid "<b>{source}</b> makes attack of opportunity against <b>{target}</b>"
@@ -29014,23 +29064,23 @@ msgstr ""
 
 msgctxt "7dc9feab-9a3f-47cf-b799-0a11b80cfb1d"
 msgid "Event finished"
-msgstr ""
+msgstr "이벤트 종료"
 
 msgctxt "8715abe3-04c6-478d-8fdc-52adb247db83"
 msgid "Event started"
-msgstr ""
+msgstr "이벤트 시작"
 
 msgctxt "f1b2422d-7ae5-4382-b8a1-37a4472e38f1"
 msgid "Hunters were attacked!"
-msgstr ""
+msgstr "사냥꾼 공격당함!"
 
 msgctxt "1ec36b75-67b9-4f89-bc79-9f2c62d06119"
 msgid "Rest was interrupted after {text}."
-msgstr ""
+msgstr "{text} 이후 휴식이 중단되었습니다."
 
 msgctxt "6ca8b46a-9c0a-424b-ad16-2d38e4507be2"
 msgid "Rest took {text}."
-msgstr ""
+msgstr "휴식은 {text} 걸렸습니다."
 
 msgctxt "dc2e5fcf-f8cc-4739-b33e-fc9b75e7a267"
 msgid "<b>{source}</b> can't disarm the trap."
@@ -29050,7 +29100,7 @@ msgstr ""
 
 msgctxt "175e8e45-d7f4-4c32-b792-f6640f154eda"
 msgid "Combat is finished."
-msgstr ""
+msgstr "전투 종료됨."
 
 msgctxt "f7233d5c-2f7f-4f86-80d6-af2285d9f723"
 msgid ""
@@ -29063,7 +29113,7 @@ msgstr ""
 
 msgctxt "19f7ca9b-10f1-4ef0-8bcd-1b98f7d3b4e5"
 msgid "Combat started."
-msgstr ""
+msgstr "전투 시작됨."
 
 msgctxt "00aaa1b2-1aec-4019-be3c-775ada4af082"
 msgid ""
@@ -29079,19 +29129,19 @@ msgstr ""
 
 msgctxt "4d1cfe1f-52af-4dff-bec4-284900605c29"
 msgid "Direct"
-msgstr ""
+msgstr "직접"
 
 msgctxt "fbf56f1d-0881-456c-82f0-80613b9ec195"
 msgid "(Durability)"
-msgstr ""
+msgstr "(내구성)"
 
 msgctxt "548f93fb-4e91-4e6e-9840-7c9055c23482"
 msgid "(Empowered)"
-msgstr ""
+msgstr "(강화됨)"
 
 msgctxt "1d3fa05f-61f0-4271-98ca-a364a98a1a8b"
 msgid "Force"
-msgstr ""
+msgstr "포스"
 
 msgctxt "474fde1d-b9b1-4571-b4c9-2626e0013943"
 msgid "(Immune)"
@@ -29103,23 +29153,23 @@ msgstr "(극대화)"
 
 msgctxt "0fd76be7-34f4-4d96-994b-5284bc4641dd"
 msgid "(Precision)"
-msgstr ""
+msgstr "(정밀)"
 
 msgctxt "29fb2f4a-bac6-45e7-8522-651945c8b03f"
 msgid "(Reduced to {0})"
-msgstr ""
+msgstr "({0}로 감소됨)"
 
 msgctxt "4374bf0f-4195-4834-8a28-6f61770e7f7a"
 msgid "(Reduced)"
-msgstr ""
+msgstr "(감소됨)"
 
 msgctxt "1c08dfeb-7eaf-4ba8-9d13-31c48bb089b2"
 msgid "(Sneak)"
-msgstr ""
+msgstr "(기습)"
 
 msgctxt "3a537ff3-88fd-4764-b044-9d74c39d921f"
 msgid "(Vulnerability)"
-msgstr ""
+msgstr "(취약성)"
 
 msgctxt "d1725727-ceb7-4f6f-989a-1dabaaa4f5ae"
 msgid "<b>{source}</b> deals <b>{count}</b> damage to <b>{target}</b>."
@@ -30355,15 +30405,15 @@ msgstr ""
 
 msgctxt "d67212d7-5306-4cb9-8d03-6312f60f60c8"
 msgid "Frightened"
-msgstr ""
+msgstr "겁먹음"
 
 msgctxt "98434b5d-eb57-4d3d-8c69-fcfb7454f47a"
 msgid "Intelligence Damage"
-msgstr ""
+msgstr "지능 피해"
 
 msgctxt "e3415773-430d-4fc4-976f-8238ffa011a9"
 msgid "Intelligence Drain"
-msgstr ""
+msgstr "지능 상실"
 
 msgctxt "6ee2a1f8-32eb-430a-98a7-452bddcfe50b"
 msgid ""
@@ -30383,7 +30433,7 @@ msgstr ""
 
 msgctxt "656185d5-4f37-4d81-a44c-18a1fd3b740f"
 msgid "Negative level"
-msgstr ""
+msgstr "네거티브 레벨"
 
 msgctxt "484865dd-b2d7-44af-87ba-abc214f5e055"
 msgid ""
@@ -30392,7 +30442,7 @@ msgstr ""
 
 msgctxt "31035050-d91d-4c3c-9137-d5b8260143bf"
 msgid "Petrified"
-msgstr ""
+msgstr "석화"
 
 msgctxt "4fbf11f7-79cc-4a56-a82f-0fa62812b757"
 msgid ""
@@ -30410,7 +30460,7 @@ msgstr ""
 
 msgctxt "0af89abb-1a70-46ad-b4ed-9d42270e0cdb"
 msgid "Shaken"
-msgstr ""
+msgstr "동요"
 
 msgctxt "f0d82e7a-7e51-4b2e-93fe-6077f9bbbe9b"
 msgid ""
@@ -30420,23 +30470,23 @@ msgstr ""
 
 msgctxt "d3a7c30a-bf21-4908-8924-3e09394d6952"
 msgid "Sickened"
-msgstr ""
+msgstr "메스꺼움"
 
 msgctxt "d20cde5f-9ef7-48e0-bba6-501a0abcad61"
 msgid "Strength Damage"
-msgstr ""
+msgstr "완력 피해"
 
 msgctxt "ba3a591f-e1b2-45e8-86c6-a38ce93de017"
 msgid "Strength Drain"
-msgstr ""
+msgstr "완력 상실"
 
 msgctxt "0409c24d-2faa-453b-bfc6-de2c1fcca08b"
 msgid "Stunned"
-msgstr ""
+msgstr "기절"
 
 msgctxt "e089103e-0f95-43d0-9b25-8fb05b15c88e"
 msgid "Summoned"
-msgstr ""
+msgstr "소환됨"
 
 msgctxt "12f4f4e9-9d2e-42cc-8fb2-b519ed1bd0a2"
 msgid ""
@@ -30447,79 +30497,79 @@ msgstr ""
 
 msgctxt "ab923ef0-5d47-4ba5-8483-fb4285838ef4"
 msgid "Sunder Armor"
-msgstr ""
+msgstr "갑옷 파괴"
 
 msgctxt "57bf4a79-5071-43b9-9501-73c1096477fb"
 msgid "Wisdom Damage"
-msgstr ""
+msgstr "지혜 피해"
 
 msgctxt "2011fc6f-89e8-416d-aa5a-7ecdb595ba4b"
 msgid "Wisdom Drain"
-msgstr ""
+msgstr "지혜 상싱"
 
 msgctxt "bc85f77c-195d-45ec-9667-bdbfa6d07061"
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgctxt "f3c677cd-ba5e-4a66-8a22-8881d7bf59da"
 msgid "Aggressive"
-msgstr ""
+msgstr "공격적인"
 
 msgctxt "4302a893-227c-4926-8122-480da959857a"
 msgid "Brave"
-msgstr ""
+msgstr "용감한"
 
 msgctxt "e00a24f7-7668-45b7-9e9e-87ced822b5c2"
 msgid "Confident"
-msgstr ""
+msgstr "대담한"
 
 msgctxt "1697ab15-282f-478c-bd2e-350088701806"
 msgid "Madman"
-msgstr ""
+msgstr "미치광이"
 
 msgctxt "ba7d4f56-63cb-4d7a-a4ba-2aa68d550dc7"
 msgid "Pious"
-msgstr ""
+msgstr "경건한"
 
 msgctxt "6b047e44-7dc5-4c43-a90c-4456b505a0e1"
 msgid "Pragmatic"
-msgstr ""
+msgstr "실용적인"
 
 msgctxt "ef59883b-3715-4207-a6ae-ab6198fff7b9"
 msgid "Reserved"
-msgstr ""
+msgstr "과묵한"
 
 msgctxt "639ade53-20cf-4b31-9650-c5b90a164846"
 msgid "Reserved"
-msgstr ""
+msgstr "과묵한"
 
 msgctxt "3eafa7f6-f9c8-4ddf-aad8-357434a919a9"
 msgid "Aggressive"
-msgstr ""
+msgstr "공격적인"
 
 msgctxt "5bb7f569-8092-47b1-8a49-08d7abe16d53"
 msgid "Brave"
-msgstr ""
+msgstr "용감한"
 
 msgctxt "8238c58f-6397-472a-beab-fd0c99396e20"
 msgid "Confident"
-msgstr ""
+msgstr "대담한"
 
 msgctxt "adaef0b3-f7aa-425a-a6ba-a7485cc55241"
 msgid "Madman"
-msgstr ""
+msgstr "미치광이"
 
 msgctxt "1c9b75eb-0876-4bee-ae80-2c3f911ff3e5"
 msgid "Pious"
-msgstr ""
+msgstr "경건한"
 
 msgctxt "9bf8fdee-bb43-457d-a5d6-8d18c40615f0"
 msgid "Pragmatic"
-msgstr ""
+msgstr "실용적인"
 
 msgctxt "6d68ef1d-751d-43f7-b54b-9c7c8e8d38d1"
 msgid "Reserved"
-msgstr ""
+msgstr "과묵한"
 
 msgctxt "87dcd31e-fda3-48dd-a77f-8e433c770556"
 msgid ""
@@ -30999,7 +31049,7 @@ msgstr ""
 
 msgctxt "120b9059-3ccf-4847-895d-b53e4f1d8ef7"
 msgid "Dazzled"
-msgstr ""
+msgstr "눈부심"
 
 msgctxt "b453b512-2b56-4e15-8ae0-53df07a87235"
 msgid ""
@@ -33206,7 +33256,7 @@ msgstr ""
 
 msgctxt "75eea8e1-a064-43b3-90cc-f1e2416619af"
 msgid "Sickened"
-msgstr ""
+msgstr "메스꺼움"
 
 msgctxt "ade0e312-fe72-49dc-98c1-8432cce50a86"
 msgid ""
@@ -33216,7 +33266,7 @@ msgstr ""
 
 msgctxt "1f93aa9e-8c41-4086-8132-fbf7d296a6ed"
 msgid "Sickened"
-msgstr ""
+msgstr "메스꺼움"
 
 msgctxt "f3c15a4f-c04d-4071-9c0c-259fe37e4762"
 msgid "Reflex partial and Fortitude negates"
@@ -35086,7 +35136,7 @@ msgstr ""
 
 msgctxt "b903db83-6eef-40ee-b331-aa9a51bf6eae"
 msgid "Confusion"
-msgstr ""
+msgstr "혼란"
 
 msgctxt "b0a722d8-6939-4dd6-9e6d-9f77f28da9eb"
 msgid ""
@@ -38858,7 +38908,7 @@ msgstr ""
 
 msgctxt "ff485405-b5e7-4291-a80b-c85a244d3ce3"
 msgid "Confused"
-msgstr ""
+msgstr "혼란"
 
 msgctxt "c477f856-de9a-4576-91b8-f418b80722c8"
 msgid ""
@@ -40129,7 +40179,7 @@ msgstr ""
 
 msgctxt "8dab9e93-fda1-4805-a976-ebd1bb1614f8"
 msgid "Waves of Exhaustion"
-msgstr ""
+msgstr "탈진의 물결"
 
 msgctxt "fe5d67d3-7fd5-4ab7-ae7f-b2d85d1495c8"
 msgid "Cloak of Chaos"
@@ -40426,7 +40476,7 @@ msgstr ""
 
 msgctxt "81c029f7-e179-4c2a-a923-3c0498f9fffb"
 msgid "Shaken"
-msgstr ""
+msgstr "동요"
 
 msgctxt "a5465876-50d3-4688-9920-7347291272ee"
 msgid ""
@@ -43183,7 +43233,7 @@ msgstr ""
 
 msgctxt "0c909861-d56c-4e4a-b43e-c366267ab269"
 msgid "Shaken"
-msgstr ""
+msgstr "동요"
 
 msgctxt "f2c340f1-f613-4f3e-8f5a-75faab46214c"
 msgid ""
@@ -44078,7 +44128,7 @@ msgstr ""
 
 msgctxt "d5bdcbfb-49f6-4de8-8403-abc728f511ff"
 msgid "Sickened"
-msgstr ""
+msgstr "메스꺼움"
 
 msgctxt "f3f31d6a-0cd1-4984-9536-3592b5fb5be0"
 msgid "Hydra's Venom"
@@ -44560,7 +44610,7 @@ msgstr ""
 
 msgctxt "44485ac7-24d7-4216-8972-22b9587c9a4c"
 msgid "Nauseated"
-msgstr ""
+msgstr "구토"
 
 msgctxt "e6b18ef0-ade8-430b-aaf9-dc5185ddcfbc"
 msgid ""
